@@ -34,4 +34,3 @@ If you have any queries or need support, you can reach us on our Discord, which 
 ## Credits
 
 We want to extend our gratitude to all the players who have supported Theatria's growth over the years. Your contributions have helped shape this server into what it is today.
-"# Theatria" 
