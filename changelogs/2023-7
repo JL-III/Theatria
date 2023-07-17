@@ -1,3 +1,15 @@
+## July 17, 2023
+- Removed `/warp tutorial`, replaced with big graphic at spawn that displays the same information.
+- Renamed `/warp casino` to `/warp crates` in an effort to remain EULA compliant
+- Removed Casino sign from what is now `/warp crates`.
+- Removed `Casino Keys` have been removed completely. If you have any casino keys please open a ticket with staff on discord to replace them with a `Daily Key`
+- Introduce `Daily Keys` - log in once a day and redeem with `/kit daily`!
+- Fixed donator messages showing in meteorite coords discord channel to general.
+- Buffed prizes on vote crates
+- Removed NightVision Carrots, ExpBottles, PowerCrystals, beacons, spawnerkeys diamonds and Titan Tools from vote crates - Titan Keys still exist in vote crates, however.
+- Raffle ticket submissions counted from January's competition - scheduled raffle ticket drawing
+- Rewarded Titan Keys for last months top voters - There was a bug that wouldn't reward players who have logged in this month
+
 ## July 16, 2023
 - Mobhunter bosses such as wither, dragon, evoker etc drop significantly less Denarii. This is due to their farmable nature - other solutions are being worked on for future implementation.
 - Fishing changes - You can now gain exp and fish like normal anywhere in Theatria. Magic pond still gives you double fish and 1/3 chance for tropical on top of drop.
