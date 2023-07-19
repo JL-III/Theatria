@@ -1,3 +1,14 @@
+## July 18, 2023
+- Released Shrine Quests - a daily fetch quest system.
+- Added Shrine Quests wiki page describing how shrine quests work.
+- Added Restricted Items page on wiki for transparency.
+- Removed observers from restricted list in The Ark in an effort to be more friendly towards redstone lovers. Automated farming is still illegal.
+- Moved Titan tools from individual pages like Red, Yellow, Blue Titan tools into one page for easier comparison.
+- Added missing Titan tool pages for certain tools to backlog
+- Added Update ethereal fragment image to backlog
+- Added `/itemfilter add <item>` for Paragon and higher
+- Server view distance reduced to help players with worse connections
+
 ## July 17, 2023
 - Removed `/warp tutorial`, replaced with big graphic at spawn that displays the same information.
 - Renamed `/warp casino` to `/warp crates` in an effort to remain EULA compliant
