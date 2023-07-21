@@ -1,3 +1,12 @@
+## July 20, 2023
+- Removed the command `/lands claimlist` in order to reduce command options for simplicity and also since it was displaying incorrect information.
+- Bug fix on bamboo shrine quest not working
+- Bug reported and added to the backlog regarding `/tpcoords` command - it currently doesn't take into account the worldborder when teleporting.
+- Fixed rank tag in game not existing for Archon.
+- Fixed discord sync with Archon rank.
+- Added task to backlog to ensure the other new ranks also have tags and are synced in discord correctly.
+- Changed shrine quest reset time to 07:59 UTC.
+
 ## July 19, 2023
 - Released Shrine Quests - a daily fetch quest system.
 - Added Shrine Quests wiki page describing how shrine quests work.
