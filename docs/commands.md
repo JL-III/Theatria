@@ -1,0 +1,168 @@
+- Pleb Commands
+    - /ajp
+      - Parkour commands
+      - Subcommands
+        - /ajp list: Players playing parkour
+        - /ajp top: Shows the 10 players with the most jumps
+    - /assign {area} confirm
+      - Assign selection to area
+    - /balance, /bal
+      - Displays your current balance
+    - /balancetop, /baltop
+      - Lists players by top balances
+    - /boost
+      - Shows you if a McMMO Boost is active and how long left
+    - /cc
+      -  Opens the crate menu
+    - /ch {channel id}
+      - change channels
+      - Subcommands
+        - /ch g: For global
+        - /ch l: For local
+        - /ch tr: For trade
+    - /cinfo
+      - Punch a protected block to view information on it
+    - /claim
+      - Claims the chunk you are in for a cost
+    - /climits
+      - View the number of protections you own, and the number you are allowed to create
+    - /cmodify {username}
+      - Using /cmodify username lets that player use that block
+    - /coords
+      - Shows your coords above your hot bar
+    - /crates
+      - Warp's you to /warp crates
+    - /csn
+      - Chest shop help
+      - Subcommands
+        - /csn help: For help page
+        - /csn history: Shows you your sale history
+        - /csn clear: Clears sales history
+    - /delhome
+      - Removes a /home
+    - /discord
+      - Gives you the discord link
+        - Subcommands
+          - /discord help: For help page
+          - /discord link: Sends you instructions to link your Minecraft account with your Discord account
+          - /discord linked: Shows if your Minecraft account is linked with a discord account
+          - /discord unlink: Unlink your Discord account from your Minecraft account
+    - /disown
+      - Disown a /owned item
+    - /dynmap
+    - /happyhour
+      - Tells you where happy hour is activated or not
+    - /help {page}
+      - Gives you a list of help category's 
+      - Subcommands
+        - /help discord: Discord link
+        - /help money: Shows you useful economy commands
+        - /help map: Dynmap link
+        - /help wiki: Wiki link
+        - /help ranks: Ranks wiki page link
+        - /help ledger: Ledger link
+        - /help shopdb: Shopdb link
+    - /home
+      - Teleport to your home
+    - /kit
+      - Obtains the specified kit or views all available kits
+    - /lands
+      - Open the lands menu
+    - /leave
+      - Leaves channels
+      - Subcommands
+        - /leave g: To leave global
+        - /leave l: To leave local
+        - /leave tr: To leave trade
+    - /ledger
+      - Gives you a link to the ledger
+    - /lock
+      - Locks a lockable block e.g. chest, door, trap door, furnace
+    - /mail
+      - Manages inter-player, intra-server mail
+    - /map
+      - Gives you a link to the dynmap
+    - /market
+      - Warp's you to /warp market
+    - /mcrank
+      - Shows you your mcmmo ranks
+    - /mcstats
+      - Shows you your mcmmo stats
+    - /msg {username}
+      - Sends a private message to the specified player
+    - /own
+      - Own the item you are holding as long as it's not owned yet
+    - /tpdeny
+      - Rejects teleport requests
+    - /pay
+      - Pays another player from your balance
+    - /playerweather
+      - Adjust a player's weather
+    - /playtime
+      - Shows a player's time played in game
+    - /pm
+      - Sends a private message to the specified player
+    - /r, reply
+      - Quickly reply to the last player to message you
+    - /ranks
+      - Ranks wiki page
+    - /rankup
+      - Ranks you up
+    - /realname
+      - Displays the username of a user based on nick
+    - /rtp
+      - Teleport randomly
+    - /rules
+      - Rules wiki page
+    - /sell
+      - Sells the item currently in your hand
+    - /sellbag
+      - Sells the Bag of Denarii for the number in the () 
+    - /sethome
+      - Set home to your current location
+    - /shrine
+      - Opens Shrine quests menu 
+    - /shop
+      - Warp's you to /warp market
+    - /spawn
+      - Warp's you to /warp spawn
+    - /stats
+      - Shows you your mcmmo stats
+    - /tags
+      - Opens the tags GUI to select a tag
+    - /titan pack
+      - Loads the theatra resource pack 
+    - /tob
+      - List's the sell hand multipliers you have
+    - /tpa {username}
+      - Request to teleport to the specified player
+    - /tpahere {username}
+      - Request that the specified player teleport to you
+    - /tpaccept
+      - Accepts teleport requests
+    - /trust {username} {area}
+      - Trusts player in that land
+    - /unclaim
+      - Unclaim the chuck you are standing in
+    - /unlock
+      - Unlock locked blocks
+    - /unstuck
+      - Gets you unstuck
+    - /untrust {username}
+      - Untrust player
+    - /vote
+      - Open vote menu
+    - /voteall
+      - Gives you links to all voting websites
+    - /votetop
+      - Opens VoteTop menu
+    - /warp
+      - Opens warp menu
+      - Subcommands
+        - /warp {warp name}
+    - /whereami
+      - Gives you your coord but with more detail
+    - /wiki
+      - Gives you the wiki link
+    - /worth
+      - Gives you the sell value of the item in your hand
