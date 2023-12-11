@@ -1,4 +1,6 @@
-- Pleb Commands
+# Command List
+
+- Pleb
     - /ajp
       - Parkour commands
       - Subcommands
@@ -23,7 +25,7 @@
     - /cinfo
       - Punch a protected block to view information on it
     - /claim
-      - Claims the chunk you are in for a cost
+      - Claims the chunk you are in for a cost of 1000 Denarii
     - /climits
       - View the number of protections you own, and the number you are allowed to create
     - /cmodify {username}
@@ -68,6 +70,8 @@
       - Obtains the specified kit or views all available kits
     - /lands
       - Open the lands menu
+      - Subcommands
+        - /lands create {land-name}: The cost for initial land creation is 5000 Denarii
     - /leave
       - Leaves channels
       - Subcommands
@@ -159,10 +163,163 @@
     - /warp
       - Opens warp menu
       - Subcommands
-        - /warp {warp name}
+        - /warp {warp name}: Warps you to the warp
     - /whereami
       - Gives you your coord but with more detail
     - /wiki
       - Gives you the wiki link
     - /worth
       - Gives you the sell value of the item in your hand
+
+
+- Initiate
+  - No commands added
+
+
+- Novice
+  - No commands added
+
+
+- Gladiator:
+    - /acrobatics
+      - Shows stats for acrobatics skill
+    - /archery
+      - Shows stats for archery skill
+    - /axes
+      - shows stats for axes skill
+    - /enderchest, ec
+      -  Access your Ender Chest from anywhere, ensuring your most valuable items are always within reach
+    - /excavation
+      - Shows stats for excavation skill
+    - /fishing
+      - Shows stats for fishing skill
+    - /headdb, /hdb
+      - Opens head database menu
+      - Subcommands
+        - headdb search {input}
+    - /herbalism
+      - Shows stats for herbalism skill
+    - /mcscoreboard
+      - Shows you mcscoreboard subcommands
+      - Subcommands
+        - /mcscoreboard clear: Clears the current McMMO scoreboard 
+        - /mcscoreboard keep: Keeps the current McMMO scoreboard
+        - /mcscoreboard time {seconds}: Clears the current McMMO scoreboard after the set seconds
+    - /mctop
+      - Shows the top 10 McMMO leveled players
+      - Subcommands
+        - /mctop {any McMMO skill name}
+    - /mining
+      - Shows stats for mining skill
+    - /repair
+      - Shows stats for repair skill
+    - /seen {username}
+      - Shows the last logout time of a player
+    - /smelting
+      - Shows stats for smelting skill
+    - /swords
+      - Shows stats for swords skill
+    - /taming
+      - Shows stats for taming skill
+    - /unarmed
+      - Shows stats for unarmed skill
+    - /woodcutting
+      - Shows stats for woodcutting skill
+
+
+- Patrician
+    - /craft, /wb
+        - Instantly access the crafting table GUI for easy crafting
+      - /lands
+          - Subcommands
+              - /lands setspawn: Mark your territory with a custom spawn point. Each change costs 100 Denarii
+              - /lands list: Overview your vast empire
+      - /list
+          - Keep track of your online companions
+      - /skull
+          - Collect your own skull as a trophy. Each use costs 1,000 Denarii
+      - /whisper
+          - Sends a private message to the specified player
+      - /wild
+        - Teleports you to a random point in unclaimed land
+
+
+- Eques
+    - /trash
+      - Keep your inventory clutter-free with this handy command to dispose of unwanted items
+
+
+- Hero
+    - /anvil
+        -  Access an anvil anytime for just 10 Denarii per use
+    - /back
+      - Instantly return to your last location
+    - /clearinventory
+        - A quick way to clean your inventory
+    - /feed
+        - Satisfy your hunger
+    - /fix
+        - Repair your items for 2500 Denarii per use
+    - /heal
+        - Instant health boost at the cost of 5000 Denarii per use
+    - /near
+      - Check who's around you
+
+
+- Champion
+    - /nightvision, /nv
+      - Toggle nightvision mode! You can turn nightvision on and off at will
+
+
+- Paragon
+    - /itemfilter, /if
+      - Select which items you pick up and don't! Remove the clutter!
+      - Subcommands
+        - /itemfilter menu
+        - /itemfilter toggle
+        - /itemfilter reset
+
+
+- Legend
+  - No commands added
+
+
+- Demigod:
+    - /condense, /cnd
+        - Clean up your inventory by condensing items for only 250 Denarii per use
+    - /fix all
+      - Repair all your items at once for just 2,500 Denarii per use
+    - /fill {type}
+      - Fills you bucket up
+      - Subcommands
+        - /fill clear: empty your bucket
+        - /fill water: fill your bucket with water
+        - /fill lava: fill your bucket with lava
+        - /fill milk: fill your bucket with milk
+    - /heal
+      - Stay in the game with instant health restoration at 5,000 Denarii per use. No cooldown, so heal anytime!
+    - /powertool
+      - Equip your power tool and perform multiple actions with ease
+
+
+- god
+    - /anvil
+      - Access your anvil anytime without waiting or paying
+    - /condense, /cnd
+        - Clean up your inventory by condensing items with zero cost
+    - /fix all
+        - Instantly repair all your items with no cost
+    - /heal
+        - Regain your health instantly without the need to wait or pay
+    - /jump
+      - Leap across the game for fast traversing
+    - /smelt
+      - Smelt items instantly without a furnace
+    - /soak
+      - Enable the soak feature on demand
+    - /top
+      - Teleport to the highest point in your current coordinates
+    - /tpcoords
+      - Teleports you the specified coords
+    - /uncondense
+      - Reverse the condensation process with zero cost
