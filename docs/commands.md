@@ -1,6 +1,7 @@
 # Command List
 
-- Pleb
+### Pleb
+- Commands
     - /ajp
       - Parkour commands
       - Subcommands
@@ -172,15 +173,16 @@
       - Gives you the sell value of the item in your hand
 
 
-- Initiate
+### Initiate
   - No commands added
 
 
-- Novice
+### Novice
   - No commands added
 
 
-- Gladiator:
+### Gladiator
+ - Commands
     - /acrobatics
       - Shows stats for acrobatics skill
     - /archery
@@ -227,29 +229,32 @@
       - Shows stats for woodcutting skill
 
 
-- Patrician
+### Patrician
+- Commands
     - /craft, /wb
         - Instantly access the crafting table GUI for easy crafting
       - /lands
           - Subcommands
               - /lands setspawn: Mark your territory with a custom spawn point. Each change costs 100 Denarii
               - /lands list: Overview your vast empire
-      - /list
-          - Keep track of your online companions
-      - /skull
-          - Collect your own skull as a trophy. Each use costs 1,000 Denarii
-      - /whisper
-          - Sends a private message to the specified player
-      - /wild
-        - Teleports you to a random point in unclaimed land
+    - /list
+        - Keep track of your online companions
+    - /skull
+        - Collect your own skull as a trophy. Each use costs 1,000 Denarii
+    - /whisper
+        - Sends a private message to the specified player
+    - /wild
+      - Teleports you to a random point in unclaimed land
 
 
-- Eques
+### Eques
+- Commands
     - /trash
       - Keep your inventory clutter-free with this handy command to dispose of unwanted items
 
 
-- Hero
+### Hero
+- Commands
     - /anvil
         -  Access an anvil anytime for just 10 Denarii per use
     - /back
@@ -266,12 +271,14 @@
       - Check who's around you
 
 
-- Champion
+### Champion
+- Commands
     - /nightvision, /nv
       - Toggle nightvision mode! You can turn nightvision on and off at will
 
 
-- Paragon
+### Paragon
+- Commands
     - /itemfilter, /if
       - Select which items you pick up and don't! Remove the clutter!
       - Subcommands
@@ -280,11 +287,12 @@
         - /itemfilter reset
 
 
-- Legend
+### Legend
   - No commands added
 
 
-- Demigod:
+### Demigod
+- Commands
     - /condense, /cnd
         - Clean up your inventory by condensing items for only 250 Denarii per use
     - /fix all
@@ -302,7 +310,8 @@
       - Equip your power tool and perform multiple actions with ease
 
 
-- god
+### God
+- Commands
     - /anvil
       - Access your anvil anytime without waiting or paying
     - /condense, /cnd
