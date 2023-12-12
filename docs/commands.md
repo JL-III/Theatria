@@ -15,6 +15,13 @@
       - Lists players by top balances
     - /boost
       - Shows you if a McMMO Boost is active and how long left
+    - /buddy
+      - Check if you have a buddy and if so, who it is
+      - Subcommands
+        - /buddy add {name}: Sends a buddy request to someone
+        - /buddy accept: Accepts incoming request
+        - /buddy remove: Remove your buddy
+        - /buddy notify: Toggle notifications for rewards
     - /cc
       -  Opens the crate menu
     - /ch {channel id}
