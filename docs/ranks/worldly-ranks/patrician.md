@@ -9,11 +9,7 @@
 
 🔹 **New Command Access:**
 
-* `/lands setspawn`: Mark your territory with a custom spawn point. Each change costs 100 Denarii.
-* `/lands list`: Overview your vast empire.
-* `/skull`: Collect your own skull as a trophy. Each use costs 1,000 Denarii.
-* `/list`: Keep track of your online companions.
-* `/craft`: Instantly access the crafting table GUI for easy crafting.
+*  **List of [Commands](https://docs.playtheatria.com/commands#patrician)**
 
 🔹 **Boosted Home and LWC Limits:**
 

@@ -10,16 +10,7 @@ Apply for this rank on our discord under #god-application
 
 🔹 **Key Commands:**
 
-* `/fix all`: Instantly repair all your items with no cost.
-* `/condense`: Tidy your inventory effortlessly by condensing items at zero cost.
-* `/heal`: Regain your health instantly without the need to wait or pay.
-* `/powertool`: Equip your power tool to speed up actions.
-* `/uncondense`: Reverse the condensation process with zero cost.
-* `/anvil`: Access your anvil anytime without waiting or paying.
-* `/soak`: Enable the soak feature on demand.
-* `/jump`: Leap across the game for fast traversing.
-* `/top`: Teleport to the highest point in your current coordinates.
-* `/smelt`: Smelt items instantly without a furnace.
+* **List of [Commands](https://docs.playtheatria.com/commands#god)**
 
 🔹 **Special Kit:**
 

@@ -10,4 +10,4 @@
 
 🔹 **Unlock More Commands:**
 
-* `/nv`: Toggle nightvision mode! You can turn nightvision on and off at will.
+* **List of [Commands](https://docs.playtheatria.com/commands#champion)**

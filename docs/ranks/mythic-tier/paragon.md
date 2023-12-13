@@ -10,4 +10,4 @@
 
 🔹 **Unlock More Commands:**
 
-* `/itemfilter menu`: Select which items you pick up and dont! Remove the clutter!
+* **List of [Commands](https://docs.playtheatria.com/commands#paragon)**

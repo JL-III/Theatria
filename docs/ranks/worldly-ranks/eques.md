@@ -14,5 +14,5 @@
 
 🔹 **Gain Access to More Commands:**
 
-* `/disposal`: Keep your inventory clutter-free with this handy command to dispose of unwanted items.
+* **List of [Commands](https://docs.playtheatria.com/commands#eques)**
 

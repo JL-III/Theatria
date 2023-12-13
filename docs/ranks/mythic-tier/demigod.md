@@ -10,11 +10,7 @@ Apply for this rank on our discord under #demigod-application
 
 🔹 **Access Exciting New Commands:**
 
-* `/fix all`: Repair all your items at once for just 2,500 Denarii per use.
-* `/condense`: Clean up your inventory by condensing items for only 250 Denarii per use.
-* `/heal`: Stay in the game with instant health restoration at 5,000 Denarii per use. No cooldown, so heal anytime!
-* `/powertool`: Equip your power tool and perform multiple actions with ease.
-* `/fill <type>`: fill a bucket with lava, water or milk!
+* **List of [Commands](https://docs.playtheatria.com/commands#demigod)**
 
 🔹 **Special Kit:** Access the enhanced Spawner Kit
 
