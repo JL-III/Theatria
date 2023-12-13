@@ -127,7 +127,10 @@
     - /rules
       - Rules wiki page
     - /sell
-      - Sells the item currently in your hand
+      - Lists subcommands
+      - Subcommands
+        - /sell hand: Sell the item in your hand
+        - /sell all: Sell all the items in your inventory that are sellable
     - /sellbag
       - Sells the Bag of Denarii for the number in the () 
     - /sethome
@@ -177,7 +180,10 @@
     - /wiki
       - Gives you the wiki link
     - /worth
-      - Gives you the sell value of the item in your hand
+      - Gives you the /sell value of the item in your hand
+      - Subcommands
+        - /worth {item}: Gives you the /sell value of that item
+        - /worth inventory: Give you the /sell value of your inventory
 
 
 ### Initiate
