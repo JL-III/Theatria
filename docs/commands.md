@@ -265,6 +265,9 @@
     - /trash
       - Keep your inventory clutter-free with this handy command to dispose of unwanted items
 
+### Archon
+- No commands added
+
 
 ### Hero
 - Commands
@@ -345,3 +348,6 @@
       - Teleports you the specified coords
     - /uncondense
       - Reverse the condensation process with zero cost
+
+
+No rank above God adds commands so far, so for now the list ends here.
