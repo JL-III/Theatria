@@ -60,6 +60,7 @@
   * [Ethereal Bow](ethereal-tools/ethereal-bow.md)
   * [Ethereal Hoe](ethereal-tools/ethereal-hoe.md)
   * [Ethereal Long Bow](ethereal-tools/ethereal-long-bow.md)
+* [Commands](commands.md)
 * [Dynmap](dynmap.md)
 * [Ban Appeals](ban-appeals.md)
 * [Spawners](spawners.md)
