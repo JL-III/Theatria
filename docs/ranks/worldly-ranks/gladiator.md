@@ -4,7 +4,7 @@
 
 🔹 **New Command:**
 
-* `/enderchest`: Access your Ender Chest from anywhere, ensuring your most valuable items are always within reach.
+*  **List of [Commands](https://docs.playtheatria.com/commands#gladiator)**
 
 🔹 **Create 2 lands**!
 

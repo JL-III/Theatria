@@ -12,12 +12,7 @@
 
 🔹 **Unlock More Commands:**
 
-* `/back`: Instantly return to your last location.
-* `/near`: Check who's around you.
-* `/fix`: Repair your items for 2500 Denarii per use.
-* `/heal`: Instant health boost at the cost of 5000 Denarii per use.
-* `/clearinventory`: A quick way to clean your inventory.
-* `/anvil`: Access an anvil anytime for just 10 Denarii per use.
+* **List of [Commands](https://docs.playtheatria.com/commands#hero)**
 
 🔹 **Special Kits:** Access unique kits with cool down periods.
 
