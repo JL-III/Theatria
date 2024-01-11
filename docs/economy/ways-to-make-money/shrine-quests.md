@@ -6,7 +6,7 @@ description: >-
 
 # Shrine Quests
 
-<figure><img src="../.gitbook/assets/2023-07-18_23.49.08.png" alt=""><figcaption><p>The Oracle Shrine</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-07-18_23.49.08.png" alt=""><figcaption><p>The Oracle Shrine</p></figcaption></figure>
 
 ### What are Shrine Quests?
 
@@ -16,19 +16,19 @@ Shrine Quests are daily tasks that consist of two distinct segments. The first p
 
 As a player, you're automatically enrolled in the Shrine Quests upon logging in. Progress notifications will promptly appear on the lower left corner of your screen. These notifications often come in the form of a green message that indicates the remaining tasks, for example, "x blocks left to break".
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Monitoring Your Quest Progress
 
 You can monitor your ongoing quest progress at any time by employing the `/shrine` command. This command will open a GUI displaying the two components of your current quest. The first part illustrates the action you're required to perform, and the second part lists the item(s) you're required to bring to the Oracle's shrine.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="473"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="473"><figcaption></figcaption></figure>
 
 ### Completing a Shrine Quest
 
 To successfully complete a Shrine Quest, you need to execute the action portion of the quest first. After accomplishing that, you must bring the necessary item(s) to the Oracle's shrine to conclude the second part of the quest. Please note that the shrine will accept the items only after you've fulfilled the action part of the quest.
 
-<figure><img src="../.gitbook/assets/2023-07-18_23.48.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-07-18_23.48.31.png" alt=""><figcaption></figcaption></figure>
 
 ### Resetting Shrine Quests
 
