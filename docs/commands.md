@@ -64,6 +64,8 @@
     - /disown
         - Disown a /owned item
     - /dynmap
+    - /exp
+      - Shows the amount exp you have
     - /happyhour
         - Tells you where happy hour is activated or not
     - /help {page}
