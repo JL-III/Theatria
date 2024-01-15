@@ -1,6 +1,8 @@
 # Command List
+<br>
 
 ## Player Ranks
+<br>
 
 ### Pleb
 - Commands
@@ -360,8 +362,10 @@
 
 ### Immortal
 - No commands added
+<br>
 
 ## Support Ranks
+<br>
 
 ### Contributor
 - Commands
