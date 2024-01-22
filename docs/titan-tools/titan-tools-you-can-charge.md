@@ -18,6 +18,6 @@ Titan Tools that can be charged with [Power Crystals](https://docs.playtheatria.
 * [Titan Sword](titan-sword-looting-5.md):
   * Triple Exp on Kills
 * [Titan Axe](titan-axe.md):
-  * Break many logs and leaves in a sphere
+  * Break many logs and leaves in the shape of a sphere
   * Auto-Replant
   * Triple Exp on Kills
