@@ -4,8 +4,6 @@
 Titan Tools that can be charged with [Power Crystals](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/powercystals).
 {% endhint %}
 
-#### Titan Tools include:
-
 * [Titan Pick Fortune](titan-pick-fortune.md):
   * 3x3x3 block break
   * Auto Collect
