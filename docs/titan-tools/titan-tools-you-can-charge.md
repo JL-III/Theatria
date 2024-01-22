@@ -1,8 +1,25 @@
-# Titan Tools you can charge
+# Titan Tool Special Powers
 
-Here are the current types of Titan Tools that can be charged with [Power Crystals](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/powercystals).
+{% hint style="info" %}
+Titan Tools that can be charged with [Power Crystals](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/powercystals).
+{% endhint %}
 
-[Titan Pick Silk Variants](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/titan-pick-silk) -> Break blocks in a 3x3x3 area. Auto-collects the blocks you break.\
-[Titan Pick Fortune Variants](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/titan-pick-fortune) -> Break blocks in a 3x3x3 area. Fortune picks auto smelt certain ores and auto-collects.\
-[Titan Shovel](https://docs.playtheatria.com/servers/theatria-survival/titan-tools/titan-shovel) -> Delete blocks in a 3x3x1 area. \
-[Titan Axe](titan-axe.md) -> Break logs in a sphere. Auto-replants saplings.
+#### Titan Tools include:
+
+* [Titan Pick Fortune](titan-pick-fortune.md):
+  * 3x3x3 block break
+  * Auto Collect
+  * Auto Smelt
+* Titan Pick Silk:
+  * 3x3x3 block break
+  * Auto Collect
+* [Titan Shovel](titan-shovel.md):
+  * Delete 3x3x1 blocks
+* [Titan Rod](titan-rod.md):
+  * No trash drops - Just pure fish (treasures are replaced with tropical fish)
+* [Titan Sword](titan-sword-looting-5.md):
+  * Triple Exp on Kills
+* [Titan Axe](titan-axe.md):
+  * Tree feller
+  * Auto-Replant
+  * Triple Exp on Kills

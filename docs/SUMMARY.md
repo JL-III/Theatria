@@ -54,7 +54,7 @@
   * [Titan Sword](titan-tools/titan-sword-looting-5.md)
   * [Titan Rod](titan-tools/titan-rod.md)
   * [Titan Shovel](titan-tools/titan-shovel.md)
-  * [Titan Tools you can charge](titan-tools/titan-tools-you-can-charge.md)
+  * [Titan Tool Special Powers](titan-tools/titan-tools-you-can-charge.md)
 * [Ethereal Tools](ethereal-tools/README.md)
   * [Ethereal Fragments](ethereal-tools/ethereal-fragments.md)
   * [Ethereal Helm](ethereal-tools/ethereal-helm.md)
