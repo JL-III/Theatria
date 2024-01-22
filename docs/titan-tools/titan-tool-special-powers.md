@@ -16,8 +16,8 @@ Titan Tools that can be charged with [Power Crystals](https://docs.playtheatria.
 * [Titan Rod](titan-rod.md):
   * No trash drops - Just pure fish (treasures are replaced with tropical fish)
 * [Titan Sword](titan-sword-looting-5.md):
-  * Triple Exp on Kills
+  * Double Exp on Kills
 * [Titan Axe](titan-axe.md):
   * Breaks a bunch of blocks and leaves
   * Auto-Replant
-  * Triple Exp on Kills
+  * Double Exp on Kills
