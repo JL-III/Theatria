@@ -8,7 +8,7 @@
 6. Be mindful of spam: Avoid sending repetitive or excessive messages in text and voice channels. This ensures a better experience for everyone.
 7. Follow moderation decisions: If you are muted, please respect the decision and do not attempt to bypass it. Trust our staff to maintain a safe and fun environment, and address any concerns through proper channels.
 8. No IRL trading: We ask that you refrain from trading real-life items for in-game items to keep things fair for everyone.
-9. Manual farming only: Please avoid automated farming methods to ensure a balanced gameplay experience.
+9. Manual farming only: Do not use automated farming methods, this is to ensure a balanced gameplay experience.
 10. Play fair, no hacking: Hacks or cheats are not allowed, as they disrupt the fun for everyone.
 11. PvP: Player killing is not allowed.
 12. Alt account rules: Alt accounts have limitations, such as not being able to rank up or vote, to ensure fairness for all players.
