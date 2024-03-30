@@ -1,4 +1,4 @@
-# Market Shop Rules in Depth
+# Market Shop Rules
 
 Market shop requirements:
 

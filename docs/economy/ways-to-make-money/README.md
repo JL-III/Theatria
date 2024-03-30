@@ -30,6 +30,6 @@
 [sell-hand.md](sell-hand.md)
 {% endcontent-ref %}
 
-{% content-ref url="player-markets/" %}
-[player-markets](player-markets/)
+{% content-ref url="player-markets.md" %}
+[player-markets.md](player-markets.md)
 {% endcontent-ref %}
