@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Main Page](README.md)
-* [Market Shops](market-shops/README.md)
-  * [Market Shop Rules](market-shops/market-shop-rules.md)
 * [Rules](rules/README.md)
   * [Automation Rule in Depth](rules/automation-rule-in-depth.md)
 * [Worlds/Dimensions](worlds-dimensions/README.md)
@@ -22,7 +20,8 @@
     * [Voting](economy/ways-to-make-money/voting.md)
     * [Mob Hunting](economy/ways-to-make-money/mob-hunting.md)
     * [Sell Hand](economy/ways-to-make-money/sell-hand.md)
-    * [Player Markets](economy/ways-to-make-money/player-markets.md)
+    * [Player Markets](economy/ways-to-make-money/player-markets/README.md)
+      * [Market Shop Rules](economy/ways-to-make-money/player-markets/market-shop-rules.md)
   * [Nether Stars](economy/nether-stars.md)
   * [Ledger](economy/ledger.md)
   * [Chest Shops & ShopDB](economy/chest-shops-and-shopdb.md)
