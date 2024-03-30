@@ -14,3 +14,4 @@ The following items are blacklisted for hoppers and pistons (meaning they will n
 * CACTUS
 * WHEAT
 
+Anyone who is caught automating money making methods is at risk of an account wipe and audit (investigation into money distribution and earnings). **JUST DONT DO IT**
