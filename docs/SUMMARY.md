@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Main Page](README.md)
+* [Market Shops](market-shops/README.md)
+  * [Market Shop Rules](market-shops/market-shop-rules.md)
 * [Rules](rules/README.md)
-  * [Market Shop Rules in Depth](rules/market-shop-rules-in-depth.md)
   * [Automation Rule in Depth](rules/automation-rule-in-depth.md)
 * [Worlds/Dimensions](worlds-dimensions/README.md)
   * [The Ark](worlds-dimensions/the-ark.md)
