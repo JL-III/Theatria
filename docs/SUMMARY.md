@@ -2,8 +2,8 @@
 
 * [Main Page](README.md)
 * [Rules](rules/README.md)
+  * [Market Shop Rules in Depth](rules/market-shop-rules-in-depth.md)
   * [Automation Rule in Depth](rules/automation-rule-in-depth.md)
-* [Bug and Exploit Reward System](bug-and-exploit-reward-system.md)
 * [Worlds/Dimensions](worlds-dimensions/README.md)
   * [The Ark](worlds-dimensions/the-ark.md)
   * [Mining (resets monthly)](worlds-dimensions/mining.md)
@@ -85,6 +85,7 @@
   * [Senior Moderator](staff/senior-moderator.md)
   * [Moderator](staff/moderator.md)
   * [Ban Appeal Review Guidelines](staff/ban-appeal-review-guidelines.md)
+* [Bug and Exploit Reward System](bug-and-exploit-reward-system.md)
 * [Support](support.md)
 * [Server Management Roles](server-management-roles/README.md)
   * [Social Media Manager](server-management-roles/social-media-manager.md)
