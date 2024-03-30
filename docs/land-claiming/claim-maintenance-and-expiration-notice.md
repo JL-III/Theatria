@@ -4,7 +4,9 @@
 
 ### **1. Inactivity Rule ⌛**
 
-If your last seen (`/seen`) exceeds a period of 180 days, your land claims will **expire**. Remember to stay active in the world of our server.
+If your last seen (`/seen`) exceeds a period of 180 days, your land claims will **expire**. Your locks will also be eligible for removal upon ANYONES request.
+
+**Remember to stay active and log into the survival server once every 180 days!**
 
 ### **2. Consequences of Expiration 🏚️**
 
