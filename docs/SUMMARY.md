@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Main Page](README.md)
-* [Rules](rules.md)
+* [Rules](rules/README.md)
+  * [Automation Rule in Depth](rules/automation-rule-in-depth.md)
 * [Bug and Exploit Reward System](bug-and-exploit-reward-system.md)
 * [Worlds/Dimensions](worlds-dimensions/README.md)
   * [The Ark](worlds-dimensions/the-ark.md)
@@ -84,6 +85,7 @@
   * [Senior Moderator](staff/senior-moderator.md)
   * [Moderator](staff/moderator.md)
   * [Ban Appeal Review Guidelines](staff/ban-appeal-review-guidelines.md)
+* [Support](support.md)
 * [Server Management Roles](server-management-roles/README.md)
   * [Social Media Manager](server-management-roles/social-media-manager.md)
   * [Event Manager](server-management-roles/event-manager.md)
