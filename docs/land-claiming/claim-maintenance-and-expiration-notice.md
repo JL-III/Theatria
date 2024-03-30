@@ -16,7 +16,7 @@ Following the expiration of your claims, any locks within your old territories w
 
 ### **4. Retaining Your Claims 💼**
 
-Staying active is key! To keep your claims, you must remain an active player on the server. Don't forget to log in at least once every 180 days.
+Staying active is key! To keep your claims, you must remain an active player on the server. Don't forget to log in on the survival server at least once every 180 days.
 
 ***
 
