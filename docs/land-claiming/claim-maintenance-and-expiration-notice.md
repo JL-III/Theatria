@@ -4,7 +4,7 @@
 
 ### **1. Inactivity Rule ⌛**
 
-If your last seen (`/seen`) exceeds a period of 360 days, your land claims will **expire**. Remember to stay active in the world of our server.
+If your last seen (`/seen`) exceeds a period of 180 days, your land claims will **expire**. Remember to stay active in the world of our server.
 
 ### **2. Consequences of Expiration 🏚️**
 
@@ -16,7 +16,7 @@ Following the expiration of your claims, any locks within your old territories w
 
 ### **4. Retaining Your Claims 💼**
 
-Staying active is key! To keep your claims, you must remain an active player on the server. Don't forget to log in at least once every 360 days.
+Staying active is key! To keep your claims, you must remain an active player on the server. Don't forget to log in at least once every 180 days.
 
 ***
 
