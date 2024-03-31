@@ -2,6 +2,7 @@
 
 * [Main Page](README.md)
 * [Rules](rules/README.md)
+  * [Hacks / Mods rule in depth](rules/hacks-mods-rule-in-depth.md)
   * [Automation Rule in Depth](rules/automation-rule-in-depth.md)
 * [Worlds/Dimensions](worlds-dimensions/README.md)
   * [The Ark](worlds-dimensions/the-ark.md)

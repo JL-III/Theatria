@@ -16,11 +16,3 @@ The following items are blacklisted for hoppers and pistons (meaning they will n
 
 Anyone who is caught automating money making methods is at risk of an account wipe (balance removed, ranks removed) and audit (investigation into money distribution and earnings). **JUST DONT DO IT**
 
-
-
-**Mods:**
-
-Autofishing mods are allowed, **HOWEVER** you must always be able to pass an afk check.&#x20;
-
-If you are afk when an afk check happens your account **WILL** get wiped (balance removed, ranks removed). **DO NOT STEP AWAY FROM YOUR COMPUTER WHEN YOU HAVE THESE THINGS ON.**
-
