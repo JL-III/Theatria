@@ -1,6 +1,6 @@
 # Champion
 
-### Cost: $750,000 denarii
+### Cost: $1,500,000 denarii
 
 🔹 **Create up to 12 lands!**
 
@@ -10,4 +10,4 @@
 
 🔹 **Unlock More Commands:**
 
-* **List of [Commands](https://docs.playtheatria.com/commands#champion)**
+* **List of** [**Commands**](https://docs.playtheatria.com/commands#champion)

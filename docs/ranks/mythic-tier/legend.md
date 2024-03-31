@@ -1,6 +1,6 @@
 # Legend
 
-### Cost: $1,250,000 denarii
+### Cost: $3,000,000 denarii
 
 🔹 **Create up to 14 lands!**
 

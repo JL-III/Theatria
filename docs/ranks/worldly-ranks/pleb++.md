@@ -1,6 +1,6 @@
 # Novice
 
-### Cost: $50,000
+### Cost: $75,000
 
 🔹 **Four Cozy Homes:** Experience the luxury of four unique homes, offering ample space for creativity and relaxation.
 

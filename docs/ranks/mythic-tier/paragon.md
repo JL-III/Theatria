@@ -1,6 +1,6 @@
 # Paragon
 
-### Cost: $1,000,000 denarii
+### Cost: $2,000,000 denarii
 
 🔹 **Create up to 13 lands!**
 
@@ -10,4 +10,4 @@
 
 🔹 **Unlock More Commands:**
 
-* **List of [Commands](https://docs.playtheatria.com/commands#paragon)**
+* **List of** [**Commands**](https://docs.playtheatria.com/commands#paragon)

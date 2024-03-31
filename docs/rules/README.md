@@ -1,9 +1,9 @@
 # Rules
 
-1. **Maintain a respectful environment**: Treat all members with respect, and avoid using vulgar language in excess or engaging in inappropriate discussions. Discrimination of any kind is not tolerated. Treat all server members kindly and considerately, as we celebrate our differences. We want everyone to feel welcome!
-2. **Be kind, no trolling:** **DO NOT** intentionally provoke or upset others through actions or comments. Let's create a positive atmosphere for all players.
+1. **Maintain a respectful environment**: Treat all members with respect, and avoid using vulgar language in excess. Discrimination of any kind is not tolerated. Treat all server members kindly and considerately. We want everyone to feel welcome!
+2. **Be kind, no trolling:** **DO NOT** intentionally provoke or upset others through actions or comments. Help us create a positive atmosphere for all players.
 3. **No griefing**: **DO NOT** destroy, damage, steal from, or alter other players' protected builds without their permission. Respect the hard work and creativity of others.
-4. **Keep content appropriate**: Offensive names, skins, structures, and usernames are **not** allowed. Let's maintain a pleasant environment for all ages.
+4. **Keep content appropriate**: Offensive names, skins, structures, and usernames are **not** allowed. Let's maintain a pleasant environment for all ages. **DO NOT** engage in inappropriate discussions.
 5. **Keep it relevant:** Please don't promote or share information about other servers, either in-game or on Discord. Let's focus on our community.
 6. **Be mindful of spam**: Avoid sending repetitive or excessive messages in text and voice channels. This ensures a better experience for everyone.
 7. **Follow moderation decisions**: If you are muted, please respect the decision and do not attempt to bypass it. Trust our staff to maintain a safe and fun environment, and address any concerns through proper channels.

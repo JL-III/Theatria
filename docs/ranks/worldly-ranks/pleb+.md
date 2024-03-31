@@ -1,6 +1,6 @@
 # Initiate
 
-### Cost to rank up: $25,000
+### Cost to rank up: $50,000
 
 🔹 **Three Cozy Homes:** Settle into not one, not two, but three comfortable homes! More space for your creative endeavors.
 

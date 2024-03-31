@@ -1,6 +1,6 @@
 # Hero
 
-### Cost: $500,000 denarii
+### Cost: $1,000,000 denarii
 
 🔹 **Create up to 11 lands!**
 
@@ -12,7 +12,7 @@
 
 🔹 **Unlock More Commands:**
 
-* **List of [Commands](https://docs.playtheatria.com/commands#hero)**
+* **List of** [**Commands**](https://docs.playtheatria.com/commands#hero)
 
 🔹 **Special Kits:** Access unique kits with cool down periods.
 
