@@ -9,7 +9,7 @@
 7. **Follow moderation decisions**: If you are muted, please respect the decision and do not attempt to bypass it. Trust our staff to maintain a safe and fun environment, and address any concerns through proper channels.
 8. **No IRL trading**: **DO NOT** trade real-life items for in-game items this is to keep things fair for everyone.
 9. **Manual farming only**: Do not use automated farming methods, this is to ensure a balanced gameplay experience. For more information -> [automation-rule-in-depth.md](automation-rule-in-depth.md "mention")
-10. **Play fair, no hacking**: Hacks or cheats are not allowed, as they disrupt the fun for everyone.
+10. **No hacking**: Hacks or cheats are not allowed, as they disrupt the fun for everyone. For more information -> [hacks-mods-rule-in-depth.md](hacks-mods-rule-in-depth.md "mention")
 11. **PVP**: Player killing is not allowed. The only exception is the minigames server.
 12. **Alt account rules**: Alt accounts have limitations, such as not being able to rank up or vote, to ensure fairness for all players.
 13. **Report rule violations responsibly**: If you notice a rule violation, PM a staff member with evidence, and DO NOT discuss it in public channels.
