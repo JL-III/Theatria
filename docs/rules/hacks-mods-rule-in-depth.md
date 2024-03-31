@@ -27,4 +27,4 @@
 
 Autofishing and autoclickers are allowed, **HOWEVER** you must always be able to pass an afk check.&#x20;
 
-If you are afk when an afk check happens your account **WILL** get wiped (balance removed, ranks removed). **DO NOT STEP AWAY FROM YOUR COMPUTER WHEN YOU HAVE THESE THINGS ON.**
+If you are afk when an afk check happens your account **WILL** **GET WIPED** (balance removed, ranks removed). **DO NOT STEP AWAY FROM YOUR COMPUTER WHEN YOU HAVE THESE THINGS ON.**
