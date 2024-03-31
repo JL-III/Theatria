@@ -9,6 +9,7 @@
 * fullbright
 * combat hacks
 * bots
+* macros that enable you to be afk and do things
 * and more, just don't hack.
 
 ## **Here is a list of possible punishments:**
