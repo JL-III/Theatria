@@ -1,8 +1,9 @@
 # Hacks / Mods rule in depth
 
-**Here is a list of mods that are 100% NOT allowed:**
+## **Here is a list of mods that are 100% NOT allowed:**
 
 * movement hacks
+* x-ray
 * crash exploits
 * killaura
 * fullbright
@@ -10,20 +11,20 @@
 * bots
 * and more, just don't hack.
 
-**Here are a list of possible punishments:**
+## **Here is a list of possible punishments:**
 
 * monetary fine
 * temp ban
 * perma ban
 * loss of rank(s)
 
-**Allowed mods:**
+## **Allowed mods:**
 
 * inventory mods
 * autoclickers (must be able to pass afk checks)
 * litematica
-* Autofishing (please see more information below)
+* autofishing (must be able to pass afk checks)
 
-Autofishing mods are allowed, **HOWEVER** you must always be able to pass an afk check.&#x20;
+Autofishing and autoclickers are allowed, **HOWEVER** you must always be able to pass an afk check.&#x20;
 
 If you are afk when an afk check happens your account **WILL** get wiped (balance removed, ranks removed). **DO NOT STEP AWAY FROM YOUR COMPUTER WHEN YOU HAVE THESE THINGS ON.**
