@@ -7,4 +7,6 @@ Market shop requirements:
 * Keep a minimum of ten shop chests.
 * Must have a structure for the shop. This is to keep the market looking interesting.
 
-Failure to do so may result in the loss of the market shop or a notice & 100,000 fine for rule violation.
+{% hint style="danger" %}
+Failure to follow these rules may result in the **loss of the market shop,** a **$100,000 fine or both**.
+{% endhint %}
