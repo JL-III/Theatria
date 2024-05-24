@@ -264,7 +264,7 @@
   * /list
     * Keep track of your online companions
   * /skull
-    * Collect your own skull as a trophy. Each use costs 1,000 Denarii
+    * Collect your own skull as a trophy. Each use costs 20,000 Denarii
   * /whisper
     * Sends a private message to the specified player
   * /wild
