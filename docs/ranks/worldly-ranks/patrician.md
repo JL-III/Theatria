@@ -5,11 +5,13 @@
 \
 🔹 **Create up to 3 lands**!
 
+🔹 You can now buy 1 player warp!
+
 🔹 **Claim up to 500 Chunks for each land**!
 
 🔹 **New Command Access:**
 
-*  **List of [Commands](https://docs.playtheatria.com/commands#patrician)**
+* **List of** [**Commands**](https://docs.playtheatria.com/commands#patrician)
 
 🔹 **Boosted Home and LWC Limits:**
 
