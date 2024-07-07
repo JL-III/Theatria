@@ -14,7 +14,9 @@ When your claims expire due to inactivity, other active players will have the op
 
 ### **3. Lock Removals 🔓**
 
-Following the expiration of your claims, any locks within your old territories will be removed upon the request of new claimants. Your possessions could be theirs to use or distribute. For info on banned player's lock removal [click here](../rules/banned-player-lock-removals.md)
+Following the expiration of your claims, any locks within your old territories will be removed upon the request of new claimants. Your possessions could be theirs to use or distribute.\
+\
+Lock removals for banned players are a little different - for info [click here](../rules/banned-player-lock-removals.md)
 
 ### **4. Retaining Your Claims 💼**
 
