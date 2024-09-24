@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Moon
 
 Meteorites are found on the Moon only
