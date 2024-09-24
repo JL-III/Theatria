@@ -1,8 +1,8 @@
 # Meteorites
 
-Get there with **/warp moon**\
+Get there with **/warp mining**\
 \
-Meteorites are found on[ The Moon](worlds-dimensions/moon.md), they fall from the sky from time to time.\
+Meteorites are found in the [mining.md](worlds-dimensions/mining.md "mention") world, they fall from the sky from time to time.\
 \
 Keep an eye out for the meteorites in chat! There will be a message that pops up and tells you approximate coordinates of where the meteorite landed!
 
