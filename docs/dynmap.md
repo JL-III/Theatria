@@ -7,5 +7,3 @@
 ![Nether 8/26/2021 (resets monthly)](.gitbook/assets/Capture.PNG)
 
 ![The End 8/26/2021 (resets monthly)](<.gitbook/assets/Capture (1).PNG>)
-
-![Moon 8/26/2021 (resets monthly)](<.gitbook/assets/Capture (6).PNG>)
