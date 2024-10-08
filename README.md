@@ -7,7 +7,7 @@ Theatria is a Minecraft server created to provide players with a place they can 
 ## Features
 
 - **Permanent World Called The Ark**: Never worry about your builds being reset in this world.
-- **Resetting Resource Worlds**: Worlds that reset to keep providing the server with materials
+- **Resetting Resource Worlds**: Worlds that reset to keep providing the server with materials.
 - **Survival Server with Economy**: Engage with the economic dynamics while surviving in the world.
 - **OP Tools and Custom Enchantments**: Use powerful tools and custom enchantments.
 - **Land Claims and Chest Locks**: Claim your own piece of land and secure your belongings.
