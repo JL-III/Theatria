@@ -4,7 +4,7 @@ description: A guide to the Worlds/Dimensions of Theatria
 
 # Worlds/Dimensions
 
-There are 5 worlds or dimensions in Theatria. Each world has specific traits or features that expand beyond just the terrain, you should become familiar with these differences so that you can maneuver the server in a more efficient manner.\
+There are 4 worlds or dimensions in Theatria. Each world has specific traits or features that expand beyond just the terrain, you should become familiar with twhese differences so that you can maneuver the server in a more efficient manner.\
 \
 Explore the differences below by clicking on one of the links!
 
@@ -22,8 +22,4 @@ Explore the differences below by clicking on one of the links!
 
 {% content-ref url="the-end.md" %}
 [the-end.md](the-end.md)
-{% endcontent-ref %}
-
-{% content-ref url="moon.md" %}
-[moon.md](moon.md)
 {% endcontent-ref %}
