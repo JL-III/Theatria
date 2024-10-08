@@ -15,7 +15,7 @@ Theatria is a Minecraft server created to provide players with a place they can 
 
 ## Requirements
 
-Theatria is currently on version 1.20.1. Players can join on older clients, but support is only provided for the current version. This is a Java server.
+Theatria is currently on version 1.21.1. Players can join on older clients, but support is only provided for the current version. This is a Java server.
 
 To join the server, use the following IP in your Minecraft menu: `mc.playtheatria.com`
 
