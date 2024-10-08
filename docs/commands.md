@@ -142,8 +142,8 @@
     * Subcommands
       * /sell hand: Sell the item in your hand
       * /sell all: Sell all the items in your inventory that are sellable
-  * /sellbag
-    * Sells the Bag of Denarii for the number in the ()
+  * /redeem
+    * Sells a Nugget of Denarii giving you the amount in the ()
   * /sethome
     * Set home to your current location
   * /shrine
