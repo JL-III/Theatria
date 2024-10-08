@@ -133,6 +133,8 @@
     * Ranks you up
   * /realname
     * Displays the username of a user based on nick
+  * /redeem
+    * Sells a Nugget of Denarii giving you the amount in the ()
   * /rtp
     * Teleport randomly
   * /rules
@@ -142,8 +144,6 @@
     * Subcommands
       * /sell hand: Sell the item in your hand
       * /sell all: Sell all the items in your inventory that are sellable
-  * /redeem
-    * Sells a Nugget of Denarii giving you the amount in the ()
   * /sethome
     * Set home to your current location
   * /shrine
