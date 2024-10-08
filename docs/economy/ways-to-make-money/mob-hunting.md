@@ -9,12 +9,12 @@ description: Kill mobs in certain worlds for money!
 
 **Commands:**
 
-* /sellbag
+* /redeem
 
 ## How it works:
 
 You must be in a world that mob hunting is turned on in. See above.\
-When you kill a mob in one of these worlds they will drop a Bag of Denarii. Bags of Denarii are physical representations of our currency, you redeem them by using the command /sellbag while holding the Bag of Denarii.
+When you kill a mob in one of these worlds they will drop a Nugget of Denarii. Nugget of Denarii are physical representations of our currency, you redeem them by using the command /redeem while holding the Nugget of Denarii.
 
 #### Anti Grinding:
 
