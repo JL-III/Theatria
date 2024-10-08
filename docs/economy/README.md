@@ -25,7 +25,7 @@ or by simply holding the tab button down.
 * /worth - shows the value of the item you are holding
 * /balance, /bal - Displays your current balance
 * /pay (player) - Pays a player from your balance
-* /sellbag - sells Bag of Denarii which is dropped from mobs when [Mob Hunting](https://docs.playtheatria.com/economy/mob-hunting)
+* /redeem - sells Denarii(a Gold Nugget) which is dropped from mobs when [Mob Hunting](https://docs.playtheatria.com/economy/mob-hunting)
 
 
 
