@@ -5,8 +5,7 @@ description: Kill mobs in certain worlds for money!
 # Mob Hunting
 
 **Mob Hunting works in the following worlds:**\
-[Mining](https://docs.playtheatria.com/worlds-dimensions/mining), [Nether](https://docs.playtheatria.com/worlds-dimensions/nether), [The\_End](https://docs.playtheatria.com/worlds-dimensions/the-end), and [Moon](https://docs.playtheatria.com/worlds-dimensions/moon)
-
+[Mining](https://docs.playtheatria.com/worlds-dimensions/mining), [Nether](https://docs.playtheatria.com/worlds-dimensions/nether) and [The\_End](https://docs.playtheatria.com/worlds-dimensions/the-end)
 **Commands:**
 
 * /redeem
