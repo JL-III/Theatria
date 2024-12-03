@@ -1,5 +1,6 @@
 ---
 description: Kill mobs in certain worlds for money!
+hidden: true
 ---
 
 # Mob Hunting
