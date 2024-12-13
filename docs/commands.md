@@ -1,12 +1,6 @@
 # Commands
 
-\
-
-
 ## Player Ranks
-
-\
-
 
 ### Pleb
 
@@ -371,13 +365,11 @@
 
 ### Immortal
 
-* No commands added\
-
+* No commands added\\
 
 ## Support Ranks
 
-\
-
+\\
 
 ### Contributor
 
