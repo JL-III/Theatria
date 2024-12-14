@@ -384,39 +384,6 @@
 * Commands
   * /fly
     * Lets you fly in The Ark and in Mining worlds
-* Worldedit commands only works in creative world
-  * //brush
-    * Commands to build and draw from far away
-  * //copy
-    * Copy the selection to the clipboard
-  * //cut
-    * Copy the selection to the clipboard
-  * //cyl
-    * Generates a cylinder
-  * //flip
-    * Flips the contents of the clipboard across the point from which the copy was made
-  * //line
-    * Draws a line segment between cuboid selection corners. Can only be used with cuboid
-  * //paste
-    * Pastes the clipboard's contents
-  * //redo
-    * Redoes the last action (from history)
-  * //replace
-    * Replace all blocks in the selection with another
-  * //rotate
-    * Non-destructively rotate the contents of the clipboard
-  * //sphere
-    * Generates a filled sphere
-  * //set
-    * Set all blocks within selection
-  * //stack
-    * Repeats the contents of the selection
-  * /toggleeditwand
-    * Toggle functionality of the edit wand
-  * //undo
-    * Undoes the last action
-  * //wand
-    * Get the wand object
 
 ### Supporter
 
