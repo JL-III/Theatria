@@ -15,5 +15,5 @@
 13. **Report rule violations responsibly**: If you notice a rule violation, PM a staff member with evidence, and DO NOT discuss it in public channels.
 14. **Stay active to keep your claims**: Log in at least once every 180 days to prevent the deletion of your land claims, balance, and homes. We love seeing you around!\
     More information found here -> [claim-maintenance-and-expiration-notice.md](../land-claiming/claim-maintenance-and-expiration-notice.md "mention")
-15. Sharing your **Secret Santa Buddy** with someone will result in a 5 day ban.
+15. Sharing your **Secret Santa Buddy** with someone will result in a 5 day ban and a lump of coal.
 
