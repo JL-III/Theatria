@@ -141,6 +141,8 @@
     * Shows you your mcmmo stats
   * /tags
     * Opens the tags GUI to select a tag
+  * /titan pack
+    * Loads the theatra resource pack
   * /tob
     * List's the sell hand multipliers you have
   * /tpa {username}
