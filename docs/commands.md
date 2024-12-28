@@ -27,12 +27,11 @@
       * /buddy notify: Toggle notifications for rewards
   * /cc
     * Opens the crate menu
-  * /ch {channel id}
+  * /ch j {channel name}
     * change channels
     * Subcommands
-      * /ch g: For global
-      * /ch l: For local
-      * /ch tr: For trade
+      * /ch j Global: For global
+      * /ch j Local: For local
   * /cinfo
     * Punch a protected block to view information on it
   * /claim
@@ -65,8 +64,6 @@
   * /dynmap
   * /exp
     * Shows the amount exp you have
-  * /happyhour
-    * Tells you where happy hour is activated or not
   * /help {page}
     * Gives you a list of help category's
     * Subcommands
@@ -85,12 +82,8 @@
     * Open the lands menu
     * Subcommands
       * /lands create {land-name}: The cost for initial land creation is 5000 Denarii
-  * /leave
-    * Leaves channels
-    * Subcommands
-      * /leave g: To leave global
-      * /leave l: To leave local
-      * /leave tr: To leave trade
+  * /leave {land-name}
+    * Leaves a land
   * /ledger
     * Gives you a link to the ledger
   * /lock
@@ -127,8 +120,6 @@
     * Ranks you up
   * /realname
     * Displays the username of a user based on nick
-  * /redeem
-    * Sells a Nugget of Denarii giving you the amount in the ()
   * /rtp
     * Teleport randomly
   * /rules
@@ -284,11 +275,11 @@
   * /clearinventory
     * A quick way to clean your inventory
   * /feed
-    * Satisfy your hunger
+    * Satisfy your hunger for the cost of 5000 Denarii per use
   * /fix
-    * Repair your items for 2500 Denarii per use
+    * Repair your items for the cost of 2500 Denarii per use
   * /heal
-    * Instant health boost at the cost of 5000 Denarii per use
+    * Instant health boost at the cost of 10000 Denarii per use
   * /near
     * Check who's around you
 
@@ -307,6 +298,8 @@
       * /itemfilter menu
       * /itemfilter toggle
       * /itemfilter reset
+      * /itemfilter add
+      * /itemfilter remove
 
 ### Legend
 
