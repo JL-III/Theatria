@@ -12,7 +12,7 @@ description: >-
 
 Shrine Quests are daily tasks that consist of two distinct segments. The first part involves an action, such as mining, fishing, or chopping wood. The second part requires returning a resource obtained from the first action to the Oracle's shrine.
 
-### Initiating a Shrine Quest
+### Starting a Shrine Quest
 
 As a player, you're automatically enrolled in the Shrine Quests upon logging in. Progress notifications will promptly appear on the lower left corner of your screen. These notifications often come in the form of a green message that indicates the remaining tasks, for example, "x blocks left to break".
 
@@ -32,7 +32,7 @@ To successfully complete a Shrine Quest, you need to execute the action portion 
 
 ### Resetting Shrine Quests
 
-Your Shrine Quest progress resets every day in the early morning, allowing you to undertake these quests afresh.
+Your Shrine Quest progress resets every day at 0:00 UTC allowing you to undertake these quests afresh.
 
 ### Rewards
 
