@@ -25,10 +25,6 @@ or by simply holding the tab button down.
 * /worth - shows the value of the item you are holding
 * /balance, /bal - Displays your current balance
 * /pay (player) - Pays a player from your balance
-* /redeem - sells a Nugget of Denarii which is dropped from mobs when [Mob Hunting](https://docs.playtheatria.com/economy/mob-hunting)
-
-
 
 **Note:**\
 Not all items have /sell hand value. Some items are left to be completely player market based so that the players can determine what the values are to them.
-

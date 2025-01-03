@@ -16,7 +16,7 @@
 * [Economy](economy/README.md)
   * [Ways to make money](economy/ways-to-make-money/README.md)
     * [Parkour](economy/ways-to-make-money/parkour.md)
-    * [Playtime rewards](economy/ways-to-make-money/playtime-rewards.md)
+    * [Daily Rewards](economy/ways-to-make-money/playtime-rewards.md)
     * [Buddy Bonus](economy/ways-to-make-money/buddy-bonus.md)
     * [Shrine Quests](economy/ways-to-make-money/shrine-quests.md)
     * [Voting](economy/ways-to-make-money/voting.md)

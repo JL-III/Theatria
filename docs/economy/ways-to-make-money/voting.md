@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Voting
 
 Voting comes with many rewards!\
