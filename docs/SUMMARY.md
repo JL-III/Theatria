@@ -26,7 +26,7 @@
       * [Market Shop Rules](market-shops/market-shop-rules.md)
   * [Nether Stars](economy/nether-stars.md)
   * [Ledger](economy/ledger.md)
-  * [Chest Shops & ShopDB](economy/chest-shops-and-shopdb.md)
+  * [Chest Shops](economy/chest-shops-and-shopdb.md)
 * [Meteorites](meteorites.md)
 * [Feature Shop](feature-shop.md)
 * [Ranks](ranks/README.md)
