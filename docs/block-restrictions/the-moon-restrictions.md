@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # The Moon Restrictions
 
 Maintaining a fair gameplay and preserving server health are our top priorities. We've set several block restrictions on The Moon to avoid the potential misuse of game mechanics that might cause server lag. The following blocks are restricted:
