@@ -1,415 +1,284 @@
-# Commands
+# Player Ranks and Commands
 
 ## Player Ranks
 
 ### Pleb
 
-* Commands
-  * /ajp
-    * Parkour commands
-    * Subcommands
-      * /ajp list: Players playing parkour
-      * /ajp top: Shows the 10 players with the most jumps
-  * /assign {area} confirm
-    * Assign selection to area
-  * /balance, /bal
-    * Displays your current balance
-  * /balancetop, /baltop
-    * Lists players by top balances
-  * /boost
-    * Shows you if a McMMO Boost is active and how long left
-  * /buddy
-    * Check if you have a buddy and if so, who it is
-    * Subcommands
-      * /buddy add {name}: Sends a buddy request to someone
-      * /buddy accept: Accepts incoming request
-      * /buddy remove: Remove your buddy
-      * /buddy notify: Toggle notifications for rewards
-  * /cc
-    * Opens the crate menu
-  * /ch j {channel name}
-    * change channels
-    * Subcommands
-      * /ch j Global: For global
-      * /ch j Local: For local
-  * /cinfo
-    * Punch a protected block to view information on it
-  * /claim
-    * Claims the chunk you are in for a cost of 1000 Denarii
-  * /climits
-    * View the number of protections you own, and the number you are allowed to create
-  * /cmodify {username}
-    * Using /cmodify username lets that player use that block
-  * /coords
-    * Shows your coords above your hot bar
-  * /crates
-    * Warp's you to /warp crates
-  * /csn
-    * Chest shop help
-    * Subcommands
-      * /csn help: For help page
-      * /csn history: Shows you your sale history
-      * /csn clear: Clears sales history
-  * /delhome
-    * Removes a /home
-  * /discord
-    * Gives you the discord link
-      * Subcommands
-        * /discord help: For help page
-        * /discord link: Sends you instructions to link your Minecraft account with your Discord account
-        * /discord linked: Shows if your Minecraft account is linked with a discord account
-        * /discord unlink: Unlink your Discord account from your Minecraft account
-  * /disown
-    * Disown a /owned item
-  * /dynmap
-  * /exp
-    * Shows the amount exp you have
-  * /help {page}
-    * Gives you a list of help category's
-    * Subcommands
-      * /help discord: Discord link
-      * /help money: Shows you useful economy commands
-      * /help map: Dynmap link
-      * /help wiki: Wiki link
-      * /help ranks: Ranks wiki page link
-      * /help ledger: Ledger link
-      * /help shopdb: Shopdb link
-  * /home
-    * Teleport to your home
-  * /kit
-    * Obtains the specified kit or views all available kits
-  * /lands
-    * Open the lands menu
-    * Subcommands
-      * /lands create {land-name}: The cost for initial land creation is 5000 Denarii
-  * /leave {land-name}
-    * Leaves a land
-  * /ledger
-    * Gives you a link to the ledger
-  * /lock
-    * Locks a lockable block e.g. chest, door, trap door, furnace
-  * /mail
-    * Manages inter-player, intra-server mail
-  * /map
-    * Gives you a link to the dynmap
-  * /market
-    * Warp's you to /warp market
-  * /mcrank
-    * Shows you your mcmmo ranks
-  * /mcstats
-    * Shows you your mcmmo stats
-  * /msg {username}
-    * Sends a private message to the specified player
-  * /own
-    * Own the item you are holding as long as it's not owned yet
-  * /tpdeny
-    * Rejects teleport requests
-  * /pay
-    * Pays another player from your balance
-  * /playerweather
-    * Adjust a player's weather
-  * /playtime
-    * Shows a player's time played in game
-  * /pm
-    * Sends a private message to the specified player
-  * /r, reply
-    * Quickly reply to the last player to message you
-  * /ranks
-    * Ranks wiki page
-  * /rankup
-    * Ranks you up
-  * /realname
-    * Displays the username of a user based on nick
-  * /rtp
-    * Teleport randomly
-  * /rules
-    * Rules wiki page
-  * /sell
-    * Lists subcommands
-    * Subcommands
-      * /sell hand: Sell the item in your hand
-      * /sell all: Sell all the items in your inventory that are sellable
-  * /sethome
-    * Set home to your current location
-  * /shrine
-    * Opens Shrine quests menu
-  * /shop
-    * Warp's you to /warp market
-  * /spawn
-    * Warp's you to /warp spawn
-  * /stats
-    * Shows you your mcmmo stats
-  * /tags
-    * Opens the tags GUI to select a tag
-  * /titan pack
-    * Loads the theatra resource pack
-  * /tob
-    * List's the sell hand multipliers you have
-  * /tpa {username}
-    * Request to teleport to the specified player
-  * /tpahere {username}
-    * Request that the specified player teleport to you
-  * /tpaccept
-    * Accepts teleport requests
-  * /trust {username} {area}
-    * Trusts player in that land
-  * /unclaim
-    * Unclaim the chuck you are standing in
-  * /unlock
-    * Unlock locked blocks
-  * /unstuck
-    * Gets you unstuck
-  * /untrust {username}
-    * Untrust player
-  * /vote
-    * Open vote menu
-  * /voteall
-    * Gives you links to all voting websites
-  * /votetop
-    * Opens VoteTop menu
-  * /warp
-    * Opens warp menu
-    * Subcommands
-      * /warp {warp name}: Warps you to the warp
-  * /whereami
-    * Gives you your coord but with more detail
-  * /wiki
-    * Gives you the wiki link
-  * /worth
-    * Gives you the /sell value of the item in your hand
-    * Subcommands
-      * /worth {item}: Gives you the /sell value of that item
-      * /worth inventory: Give you the /sell value of your inventory
+#### Commands
+- **/ajp**: Parkour commands  
+  - **Subcommands**:  
+    - `/ajp list`: Players playing parkour  
+    - `/ajp top`: Shows the 10 players with the most jumps
+- **/assign {area} confirm**: Assign selection to area
+- **/balance**, **/bal**: Displays your current balance
+- **/balancetop**, **/baltop**: Lists players by top balances
+- **/boost**: Shows if a McMMO Boost is active and its remaining duration
+- **/buddy**: Manage buddy system  
+  - **Subcommands**:  
+    - `/buddy add {name}`: Sends a buddy request to someone  
+    - `/buddy accept`: Accepts incoming request  
+    - `/buddy remove`: Remove your buddy  
+    - `/buddy notify`: Toggle notifications for rewards
+- **/cc**: Opens the crate menu
+- **/ch j {channel name}**: Change chat channels  
+  - **Subcommands**:  
+    - `/ch j Global`: Switch to global chat  
+    - `/ch j Local`: Switch to local chat
+- **/cinfo**: Punch a protected block to view information on it
+- **/claim**: Claims the chunk you are in for 1,000 Denarii
+- **/climits**: View the number of protections you own and are allowed
+- **/cmodify {username}**: Allows a player to use a specific block
+- **/coords**: Shows your coordinates above your hotbar
+- **/crates**: Warps you to `/warp crates`
+- **/csn**: Chest shop help  
+  - **Subcommands**:  
+    - `/csn help`: Displays help page  
+    - `/csn history`: Shows your sale history  
+    - `/csn clear`: Clears sales history
+- **/delhome**: Removes a set home
+- **/discord**: Provides the Discord link  
+  - **Subcommands**:  
+    - `/discord help`: Displays help page  
+    - `/discord link`: Instructions for linking your Minecraft account with Discord  
+    - `/discord linked`: Displays link status  
+    - `/discord unlink`: Unlink your Discord account
+- **/disown**: Disown an owned item
+- **/dynmap**: Provides the Dynmap link
+- **/exp**: Displays your experience points
+- **/help {page}**: Provides help categories  
+  - **Subcommands**:  
+    - `/help discord`: Discord link  
+    - `/help money`: Economy commands  
+    - `/help map`: Dynmap link  
+    - `/help wiki`: Wiki link  
+    - `/help ranks`: Ranks wiki page link  
+    - `/help ledger`: Ledger link  
+    - `/help shopdb`: Shop database link
+- **/home**: Teleports you to your home
+- **/kit**: Displays or obtains kits
+- **/lands**: Opens the Lands menu  
+  - **Subcommands**:  
+    - `/lands create {land-name}`: Costs 5,000 Denarii
+- **/leave {land-name}**: Leave a land
+- **/ledger**: Provides a link to the ledger
+- **/lock**: Locks a block (e.g., chest, door)
+- **/mail**: Manages in-game mail
+- **/map**: Provides the Dynmap link
+- **/market**: Warps you to `/warp market`
+- **/mcrank**: Displays your McMMO rank
+- **/mcstats**: Displays your McMMO stats
+- **/msg {username}**: Sends a private message
+- **/own**: Owns an item if unclaimed
+- **/tpdeny**: Rejects teleport requests
+- **/pay {username} {amount}**: Pays another player
+- **/playerweather**: Adjusts your weather
+- **/playtime**: Displays your total playtime
+- **/pm**: Sends a private message
+- **/r**, **/reply**: Replies to the last private message
+- **/ranks**: Displays the ranks wiki page
+- **/rankup**: Promotes your rank
+- **/realname**: Displays a player's actual username
+- **/rtp**: Teleports randomly
+- **/rules**: Displays the rules wiki page
+- **/sell**: Sells items  
+  - **Subcommands**:  
+    - `/sell hand`: Sells the item in your hand  
+    - `/sell all`: Sells all sellable items in your inventory
+- **/sethome**: Sets a home at your current location
+- **/shrine**: Opens the shrine quests menu
+- **/shop**: Warps you to `/warp market`
+- **/spawn**: Warps you to `/warp spawn`
+- **/stats**: Displays your McMMO stats
+- **/tags**: Opens the tags menu
+- **/titan pack**: Loads the Theatria resource pack
+- **/tob**: Displays your sell-hand multipliers
+- **/tpa {username}**: Requests to teleport to another player
+- **/tpahere {username}**: Requests another player teleport to you
+- **/tpaccept**: Accepts teleport requests
+- **/trust {username} {area}**: Trusts a player in your land
+- **/unclaim**: Unclaims the chunk you're in
+- **/unlock**: Unlocks locked blocks
+- **/unstuck**: Frees you from being stuck
+- **/untrust {username}**: Removes trust from a player
+- **/vote**: Opens the vote menu
+- **/voteall**: Provides links to all voting websites
+- **/votetop**: Displays the VoteTop menu
+- **/warp**: Opens the warp menu  
+  - **Subcommands**:  
+    - `/warp {warp name}`: Warps to a specific location
+- **/whereami**: Provides detailed coordinates
+- **/wiki**: Displays the wiki link
+- **/worth**: Displays the sell value of items  
+  - **Subcommands**:  
+    - `/worth {item}`: Displays the sell value of a specific item  
+    - `/worth inventory`: Displays the sell value of your inventory
 
 ### Initiate
 
-* No commands added
+- No additional commands
 
 ### Novice
 
-* No commands added
+- No additional commands
 
 ### Gladiator
 
-* Commands
-  * /acrobatics
-    * Shows stats for acrobatics skill
-  * /archery
-    * Shows stats for archery skill
-  * /axes
-    * shows stats for axes skill
-  * /enderchest, ec
-    * Access your Ender Chest from anywhere, ensuring your most valuable items are always within reach
-  * /excavation
-    * Shows stats for excavation skill
-  * /fishing
-    * Shows stats for fishing skill
-  * /headdb, /hdb
-    * Opens head database menu
-    * Subcommands
-      * headdb search {input}
-  * /herbalism
-    * Shows stats for herbalism skill
-  * /mcscoreboard
-    * Shows you mcscoreboard subcommands
-    * Subcommands
-      * /mcscoreboard clear: Clears the current McMMO scoreboard
-      * /mcscoreboard keep: Keeps the current McMMO scoreboard
-      * /mcscoreboard time {seconds}: Clears the current McMMO scoreboard after the set seconds
-  * /mctop
-    * Shows the top 10 McMMO leveled players
-    * Subcommands
-      * /mctop {any McMMO skill name}
-  * /mining
-    * Shows stats for mining skill
-  * /repair
-    * Shows stats for repair skill
-  * /seen {username}
-    * Shows the last logout time of a player
-  * /smelting
-    * Shows stats for smelting skill
-  * /swords
-    * Shows stats for swords skill
-  * /taming
-    * Shows stats for taming skill
-  * /unarmed
-    * Shows stats for unarmed skill
-  * /woodcutting
-    * Shows stats for woodcutting skill
+#### Commands
+- **/acrobatics**: Displays stats for the acrobatics skill
+- **/archery**: Displays stats for the archery skill
+- **/axes**: Displays stats for the axes skill
+- **/enderchest**, **/ec**: Access your Ender Chest from anywhere
+- **/excavation**: Displays stats for the excavation skill
+- **/fishing**: Displays stats for the fishing skill
+- **/headdb**, **/hdb**: Opens the head database menu  
+  - **Subcommands**:  
+    - `headdb search {input}`: Search for specific heads
+- **/herbalism**: Displays stats for the herbalism skill
+- **/mcscoreboard**: Manages the McMMO scoreboard  
+  - **Subcommands**:  
+    - `/mcscoreboard clear`: Clears the scoreboard  
+    - `/mcscoreboard keep`: Keeps the current scoreboard  
+    - `/mcscoreboard time {seconds}`: Clears the scoreboard after the set time
+- **/mctop**: Displays the top 10 McMMO players  
+  - **Subcommands**:  
+    - `/mctop {skill}`: Displays top players for a specific skill
+- **/mining**: Displays stats for the mining skill
+- **/repair**: Displays stats for the repair skill
+- **/seen {username}**: Displays the last logout time of a player
+- **/smelting**: Displays stats for the smelting skill
+- **/swords**: Displays stats for the swords skill
+- **/taming**: Displays stats for the taming skill
+- **/unarmed**: Displays stats for the unarmed skill
+- **/woodcutting**: Displays stats for the woodcutting skill
 
 ### Patrician
 
-* Commands
-  * /craft, /wb
-    * Instantly access the crafting table GUI for easy crafting
-    * /lands
-      * Subcommands
-        * /lands setspawn: Mark your territory with a custom spawn point. Each change costs 100 Denarii
-        * /lands list: Overview your vast empire
-  * /list
-    * Keep track of your online companions
-  * /skull
-    * Collect your own skull as a trophy. Each use costs 20,000 Denarii
-  * /whisper
-    * Sends a private message to the specified player
-  * /wild
-    * Teleports you to a random point in unclaimed land
+#### Commands
+- **/craft**, **/wb**: Access the crafting table menu
+- **/lands**: Land management commands  
+  - **Subcommands**:  
+    - `/lands setspawn`: Sets a custom spawn point (100 Denarii)  
+    - `/lands list`: Displays a list of your lands
+- **/list**: Displays online players
+- **/skull**: Obtain your own skull (20,000 Denarii per use)
+- **/whisper**: Sends a private message
+- **/wild**: Teleports to random unclaimed land
 
 ### Eques
 
-* Commands
-  * /trash
-    * Keep your inventory clutter-free with this handy command to dispose of unwanted items
+#### Commands
+- **/trash**: Opens the trash menu to dispose of items
 
 ### Archon
 
-* No commands added
+- No additional commands
 
 ### Hero
 
-* Commands
-  * /anvil
-    * Access an anvil anytime for just 10 Denarii per use
-  * /back
-    * Instantly return to your last location
-  * /clearinventory
-    * A quick way to clean your inventory
-  * /feed
-    * Satisfy your hunger for the cost of 5000 Denarii per use
-  * /fix
-    * Repair your items for the cost of 2500 Denarii per use
-  * /heal
-    * Instant health boost at the cost of 10000 Denarii per use
-  * /near
-    * Check who's around you
+#### Commands
+- **/anvil**: Access an anvil menu (10 Denarii per use)
+- **/back**: Returns to your last location
+- **/clearinventory**: Clears your inventory
+- **/feed**: Restores hunger (5,000 Denarii per use)
+- **/fix**: Repairs an item (2,500 Denarii per use)
+- **/heal**: Restores health (10,000 Denarii per use)
+- **/near**: Displays nearby players
 
 ### Champion
 
-* Commands
-  * /nightvision, /nv
-    * Toggle nightvision mode! You can turn nightvision on and off at will
+#### Commands
+- **/nightvision**, **/nv**: Toggles night vision
 
 ### Paragon
 
-* Commands
-  * /itemfilter, /if
-    * Select which items you pick up and don't! Remove the clutter!
-    * Subcommands
-      * /itemfilter menu
-      * /itemfilter toggle
-      * /itemfilter reset
-      * /itemfilter add
-      * /itemfilter remove
+#### Commands
+- **/itemfilter**, **/if**: Manage item pickup filters  
+  - **Subcommands**:  
+    - `/itemfilter menu`: Opens the filter menu  
+    - `/itemfilter toggle`: Toggles item filters  
+    - `/itemfilter reset`: Resets filters  
+    - `/itemfilter add`: Adds items to filters  
+    - `/itemfilter remove`: Removes items from filters
 
 ### Legend
 
-* No commands added
+- No additional commands
 
 ### Demigod
 
-* Commands
-  * /condense, /cnd
-    * Clean up your inventory by condensing items for only 250 Denarii per use
-  * /fix all
-    * Repair all your items at once for just 2,500 Denarii per use
-  * /fill {type}
-    * Fills you bucket up
-    * Subcommands
-      * /fill clear: empty your bucket
-      * /fill water: fill your bucket with water
-      * /fill lava: fill your bucket with lava
-      * /fill milk: fill your bucket with milk
-  * /heal
-    * Stay in the game with instant health restoration at 5,000 Denarii per use. No cooldown, so heal anytime!
-  * /powertool
-    * Equip your power tool and perform multiple actions with ease
+#### Commands
+- **/condense**, **/cnd**: Condenses items (250 Denarii per use)
+- **/fix all**: Repairs all items (2,500 Denarii per use)
+- **/fill {type}**: Fills a bucket  
+  - **Subcommands**:  
+    - `/fill clear`: Empties the bucket  
+    - `/fill water`: Fills with water  
+    - `/fill lava`: Fills with lava  
+    - `/fill milk`: Fills with milk
+- **/heal**: Restores health instantly (5,000 Denarii per use)
+- **/powertool**: Binds multiple actions to a tool
 
 ### God
 
-* Commands
-  * /anvil
-    * Access your anvil anytime without waiting or paying
-  * /condense, /cnd
-    * Clean up your inventory by condensing items with zero cost
-  * /fix all
-    * Instantly repair all your items with no cost
-  * /heal
-    * Regain your health instantly without the need to wait or pay
-  * /jump
-    * Leap across the game for fast traversing
-  * /smelt
-    * Smelt items instantly without a furnace
-  * /soak
-    * Enable the soak feature on demand
-  * /top
-    * Teleport to the highest point in your current coordinates
-  * /tpcoords
-    * Teleports you the specified coords
-  * /uncondense
-    * Reverse the condensation process with zero cost
+#### Commands
+- **/anvil**: Access an anvil menu for free
+- **/condense**, **/cnd**: Condenses items for free
+- **/fix all**: Repairs all items for free
+- **/heal**: Restores health instantly for free
+- **/jump**: Teleports you forward
+- **/smelt**: Instantly smelt items
+- **/soak**: Toggles soak mode
+- **/top**: Teleports to the highest point at your location
+- **/tpcoords**: Teleports to specified coordinates
+- **/uncondense**: Reverses condensation for free
 
 ### Olympian
 
-* No commands added
+- No additional commands
 
 ### Titan
 
-* No commands added
+- No additional commands
 
 ### Immortal
 
-* No commands added\\
+- No additional commands
 
 ## Support Ranks
 
-\\
-
 ### Contributor
 
-* Commands
-  * /ch d
-    * Access to supporter channel in game
-  * /nickname
-    * Sets your nickname
+#### Commands
+- **/ch d**: Access the supporter chat channel
+- **/nickname**: Sets your nickname
 
 ### Contributor+
 
-* Commands
-  * /fly
-    * Lets you fly in The Ark and in Mining worlds
+#### Commands
+- **/fly**: Enables flight in The Ark and mining worlds
 
 ### Supporter
 
-* Commands
-  * /itemrename
-    * Lets you rename items with standard colors
+#### Commands
+- **/itemrename**: Renames items with standard colors
 
 ### Supporter+
 
-* Commands
-  * /headdb
-    * You can now get the heads from the head database
-  * /itemsowned
-    * can see a list of your /own tools
-  * /itemhistory \[toolID]
-    * You can see the history on Items that you own
-  * /lb tb
-    * access to a block of ice that tracks logged changes in blocks hold the ice and right or left click
+#### Commands
+- **/headdb**: Access the head database menu
+- **/itemsowned**: Displays owned items
+- **/itemhistory [toolID]**: Displays the history of owned items
+- **/lb tb**: Tracks block changes with a logging tool
 
 ### Ultimate
 
-* Commands
-  * /itemhistory \[toolID]
-    * Can see your own Items history AND others, if they provide you the ToolID
-  * /pv
-    * Access to 15 player vaults
+#### Commands
+- **/itemhistory [toolID]**: Displays item histories (yours and others with a ToolID)
+- **/pv**: Access 15 player vaults
 
 ### Ultimate+
 
-* Commands
-  * /itemrename
-    * You can rename items with standard colors AND formatting _**INCLUDES RGB!!!**_
-  * /vanish
-    * Gives you the ability to disappear from everyone! (except staff)
+#### Commands
+- **/itemrename**: Renames items with colors, formatting, and RGB
+- **/vanish**: Makes you invisible to players (except staff)
 
-This is the end of the the ranks.
