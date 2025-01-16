@@ -1,13 +1,22 @@
 # Meteorites
 
-Get there with **/warp mining**\
-\
-Meteorites are found in the [mining.md](worlds-dimensions/mining.md "mention") world, they fall from the sky from time to time.\
-\
-Keep an eye out for the meteorites in chat! There will be a message that pops up and tells you approximate coordinates of where the meteorite landed!
+Get there with '/warp mining'
+
+Meteorites are special events in the [Mining World](worlds-dimensions/mining.md). These fiery objects fall from the sky at random intervals, bringing opportunities for treasure and danger alike.
+
+## How to Find Meteorites
+
+Keep an eye on the chat! When a meteorite lands, you'll see a message with approximate coordinates. Use these clues to track down the landing site and uncover its secrets.
+
+## Treasure and Danger
+
+Meteorites often contain barrels with valuable treasures, but beware — they may be guarded by powerful mobs! Make sure you're prepared before venturing to claim your rewards.
+
+### Possible Rewards
+- [Ethereal Fragments](gameplay-features/ethereal-tools/ethereal-fragments)
+- [Nether Stars](gameplay-features/economy/nether-stars)
+- Diamonds and other rare items
 
 {% hint style="warning" %}
-Be careful! Meteorite's sometimes have barrels that are guarded by powerful mobs!\
-Barrels contain special treasures such as [Ethereal Fragments](https://docs.playtheatria.com/ethereal-tools/ethereal-fragments), [Nether Stars](https://docs.playtheatria.com/economy/nether-stars) and other things like diamonds!
+**Tip:** Be prepared with strong gear or potions! Visit '/warp market' to upgrade your gear or stock up on potions.
 {% endhint %}
-
