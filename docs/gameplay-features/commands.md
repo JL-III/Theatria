@@ -1,4 +1,5 @@
-# Player Ranks and Commands
+# Player and Support Rank Commands Overview
+Advancing through Theatria's Player Ranks unlocks powerful commands to enhance gameplay. If you choose to support the server with a donation, you can access the [Support Ranks](#support-ranks). This page organizes commands by rank. For a quick reference, see our alphabetical [All Commands](../gameplay-features/all-commands.md).
 
 ## Player Ranks
 
