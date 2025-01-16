@@ -18,7 +18,7 @@ The following items are blacklisted for hoppers and pistons (meaning they will n
 * WHEAT
 
 {% hint style="danger" %}
-Anyone who is caught automating money making methods is at risk of an account wipe (balance removed, ranks removed) and audit (investigation into money distribution and earnings). **JUST DONT DO IT**
+Anyone who is caught automating money making methods is at risk of an account wipe (balance removed, ranks removed) and audit (investigation into money distribution and earnings). **JUST DON'T DO IT**
 {% endhint %}
 
 
