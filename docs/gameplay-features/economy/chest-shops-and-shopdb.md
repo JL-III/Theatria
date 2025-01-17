@@ -32,7 +32,7 @@ Chest Shops allow players to create simple and effective player-run shops using 
 ## Notes on Sign Formatting
 
 - **Line 1:**
-  - This line is automatically filled with your username. If you have the appropriate permission (`ChestShop.admin`), you can use another player's name to create a shop for them.
+  - This line is automatically filled with your username. 
 
 - **Line 2:**
   - Enter the quantity of the item for the transaction.
