@@ -4,22 +4,27 @@
 **Automation for collecting drops or making money is NOT ALLOWED.**
 {% endhint %}
 
-Red stone mechanisms are allowed, primarily they are used for things like auto-smelters, door mechanisms, sorters etc.&#x20;
+Redstone mechanisms are allowed, primarily for non-monetary uses such as:
+- Auto-smelters
+- Door mechanisms
+- Item sorters
 
-If you have questions on what is allowed always feel free to open a [staff support ticket](https://discord.gg/hFJWRDKyNz) in discord, we are happy to help clarify anything.\
-\
-The following items are blacklisted for hoppers and pistons (meaning they will not work):
+If you have questions about what is allowed, feel free to open a [staff support ticket](https://discord.gg/hFJWRDKyNz) in Discord. We are happy to help clarify any concerns.
 
-* PUMPKIN
-* MELON
-* SUGAR\_CANE
-* BAMBOO
-* CACTUS
-* WHEAT
+### Blacklisted Items for Hoppers and Pistons
+The following items are blacklisted for use with hoppers and pistons, meaning these blocks will not interact with these mechanisms:
+- **PUMPKIN**
+- **MELON**
+- **SUGAR_CANE**
+- **BAMBOO**
+- **CACTUS**
+- **WHEAT**
 
 {% hint style="danger" %}
-Anyone who is caught automating money making methods is at risk of an account wipe (balance removed, ranks removed) and audit (investigation into money distribution and earnings). **JUST DON'T DO IT**
+Anyone caught automating money-making methods risks severe penalties, including:
+- **Account wipe** (balance and ranks removed)
+- **Audit** (investigation into money distribution and earnings)
+
+**JUST DON'T DO IT.**
 {% endhint %}
-
-
 
