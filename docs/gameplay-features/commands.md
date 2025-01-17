@@ -101,9 +101,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 - **/unlock**: Unlocks locked blocks
 - **/unstuck**: Frees you from being stuck
 - **/untrust {username}**: Removes trust from a player
-- **/vote**: Opens the vote menu
-- **/voteall**: Provides links to all voting websites
-- **/votetop**: Displays the VoteTop menu
 - **/warp**: Opens the warp menu  
   - **Subcommands**:  
     - `/warp {warp name}`: Warps to a specific location
