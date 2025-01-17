@@ -51,7 +51,7 @@ Need assistance? Here’s how to find support:
 
 - **Ask in Chat**: Our community and staff are here to help.
 - **Visit the Wiki**: Explore detailed guides here in [Theatria Wiki](https://docs.playtheatria.com/).
-- **Join the Discord**: Connect with us at [discord.gg/theatria](https://discord.gg/theatria) for updates and live support.
+- **Join the Discord**: Connect with us on [Discord](https://discord.gg/SHgauw8eN8) for updates and live support.
 
 ---
 
