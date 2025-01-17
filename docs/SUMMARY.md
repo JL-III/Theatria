@@ -21,7 +21,7 @@
   - [Feature Shop](gameplay-features/feature-shop.md)
   - [Ranks](gameplay-features/ranks.md)
   - [Titan Tools](gameplay-features/titan-tools/README.md)
-  - [Ethereal Tools](gameplay-features/ethereal-tools/README.md)
+  - [Ethereal Items](gameplay-features/ethereal-items/README.md)
   - [Commands](gameplay-features/commands.md)
   - [Spawners](gameplay-features/spawners.md)
 
