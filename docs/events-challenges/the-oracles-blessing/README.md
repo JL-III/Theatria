@@ -53,7 +53,7 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 - [Titan Legacy](events-challenges/04-titan-legacy.md) - Achieved with Titan rank
 - [Immortal Wisdom](events-challenges/05-immortal-wisdom.md) - Achieved with Immortal rank
 
-### Item-Based Challenges
+### Additional Challenges
 
 - [Deep Sea Devotion Tribute](events-challenges/deep-sea-devotion-tribute.md)
 - [Epic Arsenal Tribute](events-challenges/epic-arsenal-tribute.md)
