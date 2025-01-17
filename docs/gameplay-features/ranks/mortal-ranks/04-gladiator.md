@@ -1,15 +1,25 @@
 # Gladiator
 
-### Cost: $100,000 denarii
+### Cost to Rank Up: $100,000 Denarii
 
-🔹 **New Command:**
+**As a Gladiator, unlock these impressive perks:**
 
-*  **List of [Commands](https://docs.playtheatria.com/commands#gladiator)**
+### 🔹 New Command
+- [View the full list of Gladiator commands here.](/gameplay-features/commands#gladiator)
 
-🔹 **Create 2 lands**!
+### 🔹 Create Multiple Lands
+- **Create up to 2 lands** to expand your empire and manage your territories more effectively.
 
-🔹 **Claim up to 100 Chunks per land**!
+### 🔹 Claim More Chunks
+- Claim up to **100 chunks per land**, allowing for vast and impressive builds.
 
-🔹 **Home Space Boost:** Upgrade your living arrangements with an increase in homes from 4 to 5. More room for activities!
+### 🔹 Home Space Boost
+- Upgrade your living arrangements with **5 homes**, giving you even more room to spread out and get creative.
 
-🔹 **Enhanced LWC Limits:** Boost your security with a raise in lock allowance from 50 to 75. Keep your belongings safe and sound.
+### 🔹 Enhanced LWC Limits
+- Protect your items with **up to 75 chest locks**.
+- Need help using locks? Type `/help lock` for a quick guide on securing your valuables.
+
+---
+
+| **Previous Rank:** [Novice](/gameplay-features/ranks/mortal-ranks/03-novice.md) | **Next Rank:** [Patrician](/gameplay-features/ranks/mortal-ranks/05-patrician.md) |

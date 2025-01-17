@@ -1,7 +1,16 @@
 # Novice
 
-### Cost: $75,000
+### Cost to Rank Up: $75,000
 
-🔹 **Four Cozy Homes:** Experience the luxury of four unique homes, offering ample space for creativity and relaxation.
+**As a Novice, unlock these enhanced privileges:**
 
-🔹 **50 LWCS (Chest Locks):** Strengthen your security with an expanded allowance of up to 50 locks for your chests. If you require assistance on using them, simply type `/help lock`.
+### 🔹 Four Cozy Homes
+- Enjoy the luxury of **four unique homes**, providing plenty of space for your creativity, storage, and relaxation.
+
+### 🔹 50 LWCS (Chest Locks)
+- Secure your belongings with **up to 50 chest locks**.
+- Need guidance? Type `/help lock` for detailed instructions on setting up your locks.
+
+---
+
+| **Previous Rank:** [Initiate](/gameplay-features/ranks/mortal-ranks/02-initiate.md) | **Next Rank:** [Gladiator](/gameplay-features/ranks/mortal-ranks/04-gladiator.md) |

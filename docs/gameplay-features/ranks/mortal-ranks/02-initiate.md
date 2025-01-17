@@ -1,8 +1,16 @@
 # Initiate
 
-### Cost to rank up: $50,000
+### Cost to Rank Up: $50,000
 
-🔹 **Three Cozy Homes:** Settle into not one, not two, but three comfortable homes! More space for your creative endeavors.
+**As an Initiate, enjoy these upgraded privileges:**
 
-🔹 **25 LWCS (Chest Locks):** Safeguard your precious possessions with an increased allowance of up to 25 locks. Need assistance on how to use them? Just type `/help lock` for more info.
+### 🔹 Three Cozy Homes
+- Settle into **three comfortable homes**, giving you more room for your creative endeavors and storage needs.
 
+### 🔹 25 LWCS (Chest Locks)
+- Protect your belongings with **up to 25 chest locks**.
+- Need help using locks? Type `/help lock` for detailed instructions on securing your items.
+
+---
+
+| **Previous Rank:** [Pleb](/gameplay-features/ranks/mortal-ranks/01-pleb.md) | **Next Rank:** [Novice](/gameplay-features/ranks/mortal-ranks/03-novice.md) |

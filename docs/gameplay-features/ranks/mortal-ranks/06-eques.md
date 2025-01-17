@@ -1,18 +1,25 @@
 # Eques
 
-### Cost: $200,000 denarii
+### Cost to Rank Up: $200,000 Denarii
 
-🔹  **Create up to 5 lands!**
+**As an Eques, enjoy these enhanced privileges:**
 
-🔹  **Claim up to 1000 chunks for each land!**
+### 🔹 Create More Lands
+- **Create up to 5 lands** to establish even greater control over your domain.
 
-🔹  **Increase in homes from 6 to 7!**
+### 🔹 Claim Even More Chunks
+- **Claim up to 1000 chunks per land**, giving you unparalleled space for your projects.
 
-🔹  **Number of locks increase from 100 to 125!**
+### 🔹 Boosted Home and Lock Limits
+- **Home Spaces:** Expand your home capacity from **6 to 7**, providing more room for your needs.
+- **LWC Limit:** Secure your belongings with **up to 125 chest locks**.
 
-🔹**Pick Up Spawners:** You have a 75% chance at successfully picking up a spawner!
+### 🔹 Pick Up Spawners
+- Gain the ability to pick up spawners with a **75% success rate**.
 
-🔹 **Gain Access to More Commands:**
+### 🔹 Gain Access to More Commands
+- [View the full list of Eques commands here.](/gameplay-features/commands#eques)
 
-* **List of [Commands](https://docs.playtheatria.com/commands#eques)**
+---
 
+| **Previous Rank:** [Patrician](/gameplay-features/ranks/mortal-ranks/05-patrician.md) | **Next Rank:** [Archon](/gameplay-features/ranks/mortal-ranks/07-archon.md) |
