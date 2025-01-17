@@ -193,10 +193,10 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 ### Paragon
 
 #### Commands
-- **/itemfilter**, **/if**: Manage item pickup filters  
+- **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](itemfilter.md)  
   - **Subcommands**:  
     - `/itemfilter menu`: Opens the filter menu  
-    - `/itemfilter toggle`: Toggles item filters  
+    - `/itemfilter toggle`: Toggles item filters on or off  
     - `/itemfilter reset`: Resets filters  
     - `/itemfilter add`: Adds items to filters  
     - `/itemfilter remove`: Removes items from filters
