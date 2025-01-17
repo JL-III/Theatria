@@ -32,7 +32,7 @@ You can view the full rules on our [Rules Page](../rules-policies/rules.md).
 
 ## Step 3: Start Exploring Theatria
 
-Once you join the server, you will start in our **Welcome Hub** in **The Ark**. 
+Once you join the server, you will start in our **Welcome Hub** in **The Ark**. Return there anytime by typing `/warp tutorial`.
 
 ### Essential Commands:
 - `/spawn`: Return to the Welcome Hub.
