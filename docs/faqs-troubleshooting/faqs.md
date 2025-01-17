@@ -16,7 +16,8 @@ Our server rules are designed to create a fun and inclusive environment for ever
 ## Technical Questions
 
 ### What versions of Minecraft are supported?
-We support most modern versions of Minecraft. For a detailed list of supported versions, visit [this page](https://docs.playtheatria.com/versions).
+Theatria is currently running on **Minecraft 1.21.1**. While players using other versions may be able to connect, support is only provided for the current version.
+
 
 ### I’m experiencing lag. What can I do?
 Lag can happen for various reasons. Here are some troubleshooting tips:
@@ -24,7 +25,7 @@ Lag can happen for various reasons. Here are some troubleshooting tips:
 - Allocate more RAM to Minecraft.
 - Try using OptiFine for performance improvements.
 
-If the issue persists, please reach out in Discord.
+If the issue persists, please reach out in [Discord](https://discord.gg/SHgauw8eN8).
 
 ### Can I play on Theatria from a Bedrock/Console version of Minecraft?
 Currently, Theatria only supports the Java Edition of Minecraft.
