@@ -1,12 +1,13 @@
 # Market Shop Rules
 
-Market shop requirements:
+## Market Shop Requirements
 
-* Players with market plots must maintain activity by logging in at least once a month.
-* Keep their shop chests stocked.
-* Keep a minimum of ten shop chests.
-* Must have a structure for the shop. This is to keep the market looking interesting.
+- **Player Activity**: Players with market plots must log in at least once a month to maintain activity.
+- **Stock Management**: Keep shop chests stocked regularly.
+- **Minimum Chest Requirement**: Each shop must have at least ten shop chests.
+- **Shop Structure**: A proper structure is required for the shop to ensure the market area looks interesting and appealing.
 
 {% hint style="danger" %}
-Failure to follow these rules may result in the **loss of the market shop,** a **$100,000 fine or both**.
+Failure to follow these rules may result in the **loss of the market shop**, a **$100,000 fine**, or both.
 {% endhint %}
+
