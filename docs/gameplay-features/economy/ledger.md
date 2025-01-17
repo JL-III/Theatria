@@ -1,25 +1,39 @@
 ---
-description: Keep track of your transactions!
+description: Track your in-game transactions effortlessly!
 ---
 
 # Ledger
 
-\
-Use **/ledger** in game to generate a session. Click the link in game to go to your ledger!\
-Ledger links have expiration times. So after a while you will need to generate a new link in game with /ledger.
+The ledger system helps you keep track of all your in-game Denarii transactions. Here's how to use it and understand the data it provides.
 
-\
-**Transaction Causes:**\
-_Causes only show in a couple of ways due to the limitations of current economy plugins_
+## How to Use the Ledger
 
-\
-**API** - A plugin other than essentials triggered the transaction. (Chestshop, MobArena, Bags of denarii from mobhunter etc)\
-**Unknown** - A plugin other than essentials triggered the transaction (Usually a penalty in Mobhunter for killing a wolf)\
-**COMMAND\_SELL** _-_ This is triggered whenever you do /sell hand on an item\
-**COMMAND\_ECO** - This is triggered in instances where you are given money from the server\
-**HISTORICAL** - Transactions that occurred before the ledger was put into place\
+1. **Generate a Ledger Session:** Use the command `/ledger` in-game to create a new session.
+2. **Access the Ledger Link:** After running the command, click the link that appears in the chat to open your personal ledger.
+3. **Link Expiration:** Ledger links have expiration times. If your link expires, simply run `/ledger` again to generate a new one.
 
+## Understanding Transaction Causes
+
+Due to limitations in current economy plugins, transaction causes are simplified into the following categories:
+
+- **API**: Transactions triggered by external plugins (e.g., ChestShop, MobArena, or receiving bags of denarii from MobHunter).
+- **Unknown**: Transactions triggered by plugins other than Essentials, often as penalties (e.g., fines in MobHunter for killing a wolf).
+- **COMMAND_SELL**: Transactions initiated by using the `/sell hand` command.
+- **COMMAND_ECO**: Transactions where money is granted directly by the server.
+- **HISTORICAL**: Transactions that occurred before the ledger system was implemented.
+
+## Example Visuals
+
+Below are examples of how your ledger data is presented:
+
+### Player Chart
 
 ![Example of a player chart](<../.gitbook/assets/image (2).png>)
 
+### Player Transactions
+
 ![Example of player transactions](<../.gitbook/assets/image (8).png>)
+
+---
+
+If you encounter any issues or have questions about the ledger, feel free to ask for help in-game or on our Discord!
