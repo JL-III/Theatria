@@ -1,30 +1,34 @@
 ---
-description: The many ways to make money!
+description: The many ways to make money in Theatria!
 ---
 
 # Economy
 
-### Our currency
+## Our Currency
 
-Our currency is **Denarii**. You can see how much Denarii you have by using the following commands:\
-/bal\
-/balance\
-or by simply holding the tab button down.
+The currency of Theatria is **Denarii**. To check your balance, use any of the following commands:
 
-### Image of Denarri shown with the commands listed above
+- `/bal`
+- `/balance`
+- Press and hold the **Tab** key.
+
+## Visual Examples
+
+### Viewing Denarii with Commands
 
 ![](<../.gitbook/assets/Capture (4).PNG>)
 
-### Image of Denarii balance in tab
+### Viewing Denarii in the Tab Display
 
 ![](<../.gitbook/assets/Capture (9).PNG>)
 
-#### Commands:
+## Commands Overview
 
-* /sell hand - Sells the item you are holding for a value specified by the server
-* /worth - shows the value of the item you are holding
-* /balance, /bal - Displays your current balance
-* /pay (player) - Pays a player from your balance
+- `/sell hand` - Sells the item you are holding for its server-defined value.
+- `/worth` - Displays the value of the item you are holding.
+- `/balance` or `/bal` - Shows your current Denarii balance.
+- `/pay <player>` - Transfers Denarii from your balance to another player.
 
-**Note:**\
-Not all items have /sell hand value. Some items are left to be completely player market based so that the players can determine what the values are to them.
+### Important Notes
+
+- Not all items have a value for `/sell hand`. Some items are exclusively traded in the player market, allowing players to define their own prices and values.
