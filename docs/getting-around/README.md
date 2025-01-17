@@ -37,7 +37,10 @@ Supporters at the **Contributor+** tier and higher gain the ability to fly in sp
 - Use `/spawn` if you're lost or need a central point to regroup.
 - Set homes at frequently visited locations to save time.
 - Check `/warps` regularly for new community spots.
-- Upgrade your rank to unlock more homes and perks like flying.
+- Invite others to teleport to you or ask to teleport to another player using these commands:
+  - `/tpa {username}`: Requests to teleport to another player.
+  - `/tpahere {username}`: Requests another player teleport to you.
+  - `/tpaccept`: Accepts teleport requests.
 
 With these tools, you'll find navigating Theatria a breeze. Happy exploring!
 
