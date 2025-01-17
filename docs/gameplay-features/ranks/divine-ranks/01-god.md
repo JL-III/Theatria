@@ -1,38 +1,33 @@
 # God
 
-### Cost: $7,500,000 denarii
+### Cost to Rank Up: $7,500,000 Denarii
 
-**Unleash an unprecedented level of power with access to the following commands, all bypassing cost and timer restrictions:**
+**Unleash an unprecedented level of power with access to these incredible benefits:**
 
 {% hint style="info" %}
-Apply for this rank on our discord under #god-application
+Apply for this rank on our Discord under **#god-application**.
 {% endhint %}
 
-🔹 **Key Commands:**
+### 🔹 Key Commands
+- [View the full list of God commands here.](/gameplay-features/commands#god)
 
-* **List of [Commands](https://docs.playtheatria.com/commands#god)**
+### 🔹 Special Kit
+- Unlock the ultimate **Spawner Kit**:
+  - **`/kit spawner25`**: Cooldown of **1 month**, offering top-tier spawning capabilities.
 
-🔹 **Special Kit:**
+### 🔹 Additional Power
+- Receive **1 Ancient Power activation** that can be applied to a Titan Pick, granting it **unlimited charge**.
 
-* `/kit spawner25`: Spawn like a pro with a 1-month cooldown.
+### 🔹 Boosted Home and Lock Limits
+- **Home Spaces:** Increase your capacity to **30 homes**.
+- **LWC Limit:** Secure your items with **up to 300 chest locks**.
 
-🔹 **Additional Power:**
+### 🔹 Earn a TOB
+- Earn **The Oracle's Blessing (TOB)**. Learn more about TOBs in [Divine Ascension](../../the-oracles-blessing/divine-ascension.md).
 
-* Get 1 Ancient Power activation that can be applied to a Titan Pick, giving the pick unlimited charge!
+### 🔹 Immune to Suffocation
+- **Take no damage** when trapped in gravel or sand, ensuring your survival in even the trickiest situations.
 
-🔹 **Homes increased to 30!**
+---
 
-🔹 **Locks Increased to 300!**
-
-
-
-🔹 **Earns a TOB - see** [divine-ascension.md](../../the-oracles-blessing/divine-ascension.md "mention")
-
-
-
-🔹 **Immune to suffocation:**
-
-* Take no damage when getting trapped in gravel or sand!
-
-
-
+| **Previous Rank:** [Demigod](/gameplay-features/ranks/mythic-ranks/05-demigod.md) | **Next Rank:** [Olympian](/gameplay-features/ranks/divine-ranks/02-olympian.md) |

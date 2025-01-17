@@ -1,20 +1,27 @@
 # Hero
 
-### Cost: $1,000,000 denarii
+### Cost to Rank Up: $1,000,000 Denarii
 
-🔹 **Create up to 11 lands!**
+**As a Hero, ascend to greatness with these powerful benefits:**
 
-🔹 **Claim up to 2000 chunks per land! (this is the max for all ranks)**
+### 🔹 Create More Lands
+- **Create up to 11 lands** to expand your influence to unparalleled levels.
 
-🔹 **Boosted LWC Limits:** Enhanced security with an increase in locks from 150 to 175. Your treasures have never been safer!
+### 🔹 Max Out Chunk Claims
+- **Claim up to 2000 chunks per land**—the maximum allowed for any rank.
 
-🔹 **Homes increased from 8 to 9!**
+### 🔹 Boosted Lock and Home Limits
+- **LWC Limit:** Protect your valuables with **up to 175 chest locks**.
+- **Home Spaces:** Enjoy **9 homes**, giving you even more flexibility.
 
-🔹 **Unlock More Commands:**
+### 🔹 Unlock More Commands
+- [View the full list of Hero commands here.](/gameplay-features/commands#hero)
 
-* **List of** [**Commands**](https://docs.playtheatria.com/commands#hero)
+### 🔹 Special Kits
+- Gain access to unique kits with cooldown periods:
+  - **`/kit rainstick`**: Cooldown of **2 hours**.
+  - **`/kit spawner5`**: Cooldown of **1 month**, allowing you to win random [spawners](/gameplay-features/spawners.md) that you can place in the Mining world.
 
-🔹 **Special Kits:** Access unique kits with cool down periods.
+---
 
-* `/kit rainstick`: Enjoy a 2-hour cool down.
-* `/kit spawner5`: Spawn like never before with a 1-month cool down.
+| **Previous Rank:** [Archon](/gameplay-features/ranks/mortal-ranks/07-archon.md) | **Next Rank:** [Champion](/gameplay-features/ranks/mythic-ranks/02-champion.md) |

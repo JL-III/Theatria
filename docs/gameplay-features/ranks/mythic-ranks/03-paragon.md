@@ -1,13 +1,21 @@
 # Paragon
 
-### Cost: $2,000,000 denarii
+### Cost to Rank Up: $2,000,000 Denarii
 
-🔹 **Create up to 13 lands!**
+**As a Paragon, rise to new heights with these incredible benefits:**
 
-🔹 **Homes increased to 15!**
+### 🔹 Create More Lands
+- **Create up to 13 lands**, giving you unprecedented control over your territories.
 
-🔹**Boosted LWC Limits:** Enhanced security with an increase in locks from 200 to 225!
+### 🔹 Expanded Home Limit
+- **Home Spaces:** Enjoy a significant increase to **15 homes**, offering more room for your creative endeavors.
 
-🔹 **Unlock More Commands:**
+### 🔹 Boosted Lock Limits
+- **LWC Limit:** Protect your treasures with **up to 225 chest locks**, ensuring maximum security.
 
-* **List of** [**Commands**](https://docs.playtheatria.com/commands#paragon)
+### 🔹 Unlock More Commands
+- [View the full list of Paragon commands here.](/gameplay-features/commands#paragon)
+
+---
+
+| **Previous Rank:** [Champion](/gameplay-features/ranks/mythic-ranks/02-champion.md) | **Next Rank:** [Legend](/gameplay-features/ranks/mythic-ranks/04-legend.md) |

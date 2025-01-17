@@ -1,28 +1,27 @@
 # Immortal
 
-### Cost: $30,000,000 denarii
+### Cost to Rank Up: $30,000,000 Denarii
 
-Enhance your timeless grace to an eternal magnitude with the Immortal rank. Building upon the endless embrace of eternity, the Immortal status blesses you with powers and privileges that transcend the boundaries of mortality. Here's what you get:
+**Enhance your timeless grace to an eternal magnitude with the Immortal rank. Building upon the endless embrace of eternity, the Immortal status blesses you with powers and privileges that transcend the boundaries of mortality.**
 
 {% hint style="info" %}
-Apply for this rank on our discord under #immortal-application
+Apply for this rank on our Discord under **#immortal-application**.
 {% endhint %}
 
-🔹 **Keep Inventory:**
+### 🔹 Keep Inventory
+- **Ascend beyond mortal limitations.** Never drop your items again, even in the face of death.
 
-* &#x20;Ascend beyond mortal limitations. Never drop your items again.
+### 🔹 Additional Power
+- Receive **1 Ancient Power activation** that can be applied to a Titan Pick, granting it **unlimited charge**.
 
-🔹 **Additional Power:**
+### 🔹 Boosted Home and Lock Limits
+- **Home Spaces:** Increase your capacity to **50 homes**.
+- **LWC Limit:** Secure your items with **up to 375 chest locks**.
 
-* Get 1 Ancient Power activation that can be applied to a Titan Pick, giving the pick unlimited charge!
+### 🔹 Immune to Suffocation, Drowning, Fire, and the Void
+- **Retain invulnerability** to suffocation, drowning, and fire.
+- **Void Protection:** You no longer take damage in the void. Traverse even the emptiest of spaces without fear.
 
-🔹 **Locks Increased to 375!**
+---
 
-🔹 **Homes increased to 50!**
-
-
-
-🔹 **Immune to suffocation, drowning, fire and the void:**
-
-* Retain your invulnerability to suffocation, drowning and fire.
-* You no longer take damage in the void.
+| **Previous Rank:** [Titan](/gameplay-features/ranks/divine-ranks/03-titan.md) | |

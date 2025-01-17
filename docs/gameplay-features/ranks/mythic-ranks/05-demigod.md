@@ -1,21 +1,29 @@
 # Demigod
 
-### Cost: $4,000,000 denarii
+### Cost to Rank Up: $4,000,000 Denarii
 
 {% hint style="info" %}
-Apply for this rank on our discord under #demigod-application
+Apply for this rank on our Discord under **#demigod-application**.
 {% endhint %}
 
-🔹 **Create up to 15 lands!**
+**As a Demigod, ascend to divine heights with these unparalleled perks:**
 
-🔹 **Access Exciting New Commands:**
+### 🔹 Create More Lands
+- **Create up to 15 lands**, cementing your status as a master builder and leader.
 
-* **List of** [**Commands**](https://docs.playtheatria.com/commands#demigod)
+### 🔹 Access Exciting New Commands
+- [View the full list of Demigod commands here.](/gameplay-features/commands#demigod)
 
-🔹 **Special Kit:** Access the enhanced Spawner Kit
+### 🔹 Special Kit
+- Unlock the enhanced **Spawner Kit**:
+  - **`/kit spawner15`**: Cooldown of **1 month**, offering unparalleled spawning capabilities.
 
-* `/kit spawner15`: Spawn like never before with a 1-month cooldown.
+### 🔹 Expanded Home Limit
+- **Home Spaces:** Increase your capacity to **25 homes**, offering ultimate flexibility for all your needs.
 
-🔹 **Homes increased to 25!**
+### 🔹 Earn a TOB
+- Earn **The Oracle's Blessing (TOB)**. Learn more about [Heaven Earth Harmony](../events-challenges/the-oracles-blessing/heaven-earth-harmony.md).
 
-🔹 **Earns a TOB - see** [heaven-earth-harmony.md](../../the-oracles-blessing/heaven-earth-harmony.md "mention")\\
+---
+
+| **Previous Rank:** [Legend](/gameplay-features/ranks/mythic-ranks/04-legend.md) | **Next Rank:** [God](/gameplay-features/ranks/divine-ranks/01-god.md) |

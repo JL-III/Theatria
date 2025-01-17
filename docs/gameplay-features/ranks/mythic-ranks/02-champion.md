@@ -1,13 +1,21 @@
 # Champion
 
-### Cost: $1,500,000 denarii
+### Cost to Rank Up: $1,500,000 Denarii
 
-🔹 **Create up to 12 lands!**
+**As a Champion, enjoy these top-tier perks:**
 
-🔹 **Homes increased to 10!**
+### 🔹 Create More Lands
+- **Create up to 12 lands**, offering unmatched control over your territories.
 
-🔹**Boosted LWC Limits:** Enhanced security with an increase in locks from 175 to 200!
+### 🔹 Expanded Home Limit
+- **Home Spaces:** Increase your capacity to **10 homes**, ensuring plenty of room for all your needs.
 
-🔹 **Unlock More Commands:**
+### 🔹 Boosted Lock Limits
+- **LWC Limit:** Protect your belongings with **up to 200 chest locks**, providing maximum security.
 
-* **List of** [**Commands**](https://docs.playtheatria.com/commands#champion)
+### 🔹 Unlock More Commands
+- [View the full list of Champion commands here.](/gameplay-features/commands#champion)
+
+---
+
+| **Previous Rank:** [Hero](/gameplay-features/ranks/mythic-ranks/01-hero.md) | **Next Rank:** [Paragon](/gameplay-features/ranks/mythic-ranks/03-paragon.md) |
