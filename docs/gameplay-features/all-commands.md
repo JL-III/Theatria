@@ -69,10 +69,10 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
 - **/help {page}**: Provides help categories (Pleb)
 - **/herbalism**: Displays stats for the herbalism skill (Gladiator)
 - **/home**: Teleports you to your home (Pleb)
-- **/itemfilter**, **/if**: Manage item pickup filters (Paragon)
+- **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](itemfilter.md)  (Paragon)
   - **Subcommands**:  
     - `/itemfilter menu`: Opens the filter menu
-    - `/itemfilter toggle`: Toggles item filters
+    - `/itemfilter toggle`: Toggles item filters on or off
     - `/itemfilter reset`: Resets filters
     - `/itemfilter add`: Adds items to filters
     - `/itemfilter remove`: Removes items from filters
