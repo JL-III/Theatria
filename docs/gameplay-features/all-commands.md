@@ -153,8 +153,6 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
 - **/unstuck**: Frees you from being stuck (Pleb)
 - **/untrust {username}**: Removes trust from a player (Pleb)
 - **/vanish**: Makes you invisible to players (Ultimate+)
-- **/vote**: Opens the vote menu (Pleb)
-- **/voteall**: Provides links to all voting websites (Pleb)
 - **/votetop**: Displays the VoteTop menu (Pleb)
 - **/warp**: Opens the warp menu (Pleb)
   - **Subcommands**:  
