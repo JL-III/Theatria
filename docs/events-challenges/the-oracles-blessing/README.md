@@ -4,7 +4,7 @@ Welcome to The Oracle's Blessings Wiki! Here, you'll find all the information yo
 
 ## What is The Oracle's Blessing?
 
-When you use `/sell hand` and have The Oracle's Blessing, you'll receive a bonus. This bonus is permanent—once earned, it’s yours forever! Each blessing can only be earned once (unless stated otherwise). Blessings can be earned in any order, and they will stack as you complete more challenges.
+When you use `/sell hand` and have The Oracle's Blessing, you'll receive a bonus. This bonus is permanent—once earned, it’s yours forever! Rank-based blessings are rewarded as you achieve specific player ranks, while item-based blessings can be earned in any order. All blessings will stack as you complete more challenges, enhancing your rewards further.
 
 Use `/tob` to check which blessings you have already earned!
 
@@ -31,7 +31,7 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 
 5. **Receive your reward**:
 
-   - After verification, you'll be granted The Oracle's Blessing reward, which includes a 10% increase in `/sell hand` earnings.
+   - After verification, you'll be granted The Oracle's Blessing reward, which includes an increase in `/sell hand` earnings.
 
 ## Additional Tips and Reminders
 
@@ -45,14 +45,19 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 
 ## Oracle's Blessing Challenges
 
+### Rank-Based Challenges
+
+- [Heaven Earth Harmony](events-challenges/01-heaven-earth-harmony.md) - Achieved with Demigod rank
+- [Divine Ascension](events-challenges/02-divine-ascension.md) - Awarded with God rank
+- [Olympian Valor](events-challenges/03-olympian-valor.md) - Achieved with Olympian rank
+- [Titan Legacy](events-challenges/04-titan-legacy.md) - Achieved with Titan rank
+- [Immortal Wisdom](events-challenges/05-immortal-wisdom.md) - Achieved with Immortal rank
+
+### Item-Based Challenges
+
 - [Deep Sea Devotion Tribute](events-challenges/deep-sea-devotion-tribute.md)
-- [Divine Ascension](events-challenges/divine-ascension.md)
 - [Epic Arsenal Tribute](events-challenges/epic-arsenal-tribute.md)
 - [Grinders Glory](events-challenges/grinders-glory.md)
-- [Heaven Earth Harmony](events-challenges/heaven-earth-harmony.md)
-- [Immortal Wisdom](events-challenges/immortal-wisdom.md)
-- [Olympian Valor](events-challenges/olympian-valor.md)
 - [Opulent Offering](events-challenges/opulent-offering.md)
 - [Quartz Hoarders Honor](events-challenges/quartz-hoarders-honor.md)
-- [Titan Legacy](events-challenges/titan-legacy.md)
 
