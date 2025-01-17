@@ -1,9 +1,23 @@
 # Ranks
 
-Ranks are separated into three tiers: Mortal, Mythic and Divine.
+Ranks on Theatria are divided into three tiers:
 
-### Ranking up
+- **Mortal**
+- **Mythic**
+- **Divine**
 
-In order to rank up you will need to run the command **/rankup**, if you have met the criteria for ranking up you will see a message showing you ranked up! Otherwise you will be shown what is needed in order to rank up further. \
-\
-**Everyone** starts as a [Pleb](https://docs.playtheatria.com/ranks/worldly-ranks/pleb). Plebs are the backbone to the Society of Theatria they have basic permissions and rights and need to rank up in order to obtain quality of life perks.
+## Ranking Up
+
+To rank up, use the command **/rankup**. If you meet the criteria for the next rank, you will receive a message confirming your promotion. If you do not meet the criteria, the system will display the requirements needed to rank up.
+
+### Starting Rank: Pleb
+
+**Everyone** begins their journey in Theatria as a [Pleb](ranks/mortal-ranks/pleb). Plebs are the foundation of Theatria's society. They have access to basic permissions and rights, but must rank up to gain additional quality-of-life perks and privileges.
+
+---
+
+For detailed information about each rank, including requirements and perks, check the following pages:
+
+- [Worldly Ranks](ranks/mortal-ranks)
+- [Mythic Ranks](ranks/mythic-ranks)
+- [Divine Ranks](ranks/divine-ranks)
