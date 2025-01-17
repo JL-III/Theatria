@@ -1,19 +1,19 @@
 # Community Events
 
-Community events are a great way to connect with other players, showcase your creativity, and enjoy everything Theatria has to offer as a community. Events often start in Discord, and everyone is encouraged to participate or contribute their ideas.
+Community events are a great way to connect with other players, showcase your creativity, and enjoy everything Theatria has to offer as a community. Events often start in [Discord](https://discord.gg/SHgauw8eN8), and everyone is encouraged to participate or contribute their ideas.
 
 ## How to Get Involved
 
 ### Suggest an Event
-- **Join our Discord**: Start by joining Theatria's Discord server if you haven't already. This is where event planning begins.
-- **Share your idea**: Use the designated **#event-suggestions** channel to propose your event. Provide details such as:
+- **Join our Discord**: Start by joining Theatria's [Discord server](https://discord.gg/SHgauw8eN8) if you haven't already. This is where event planning begins.
+- **Share your idea**: Use the **#suggestions** channel to propose your event. Provide details such as:
   - Event name
   - Goals or activities
   - Date and time (or a range of possible dates)
   - Any resources or permissions needed
 
 ### Join an Event
-- **Check the schedule**: Look for upcoming events announced in the **#events** channel on Discord.
+- **Check for announcements**: Look for upcoming events announced in the **#announcements** channel on Discord. Player-run events will be announced in global channels.
 - **Sign up**: If sign-ups are required, follow the instructions provided in the announcement.
 - **Show up and have fun**: Be ready to participate on the Minecraft server at the scheduled time.
 
@@ -22,15 +22,14 @@ If you want to host an event yourself, here’s what you need to do:
 
 1. **Get approval**: Submit your event proposal in the **#event-suggestions** channel for feedback and approval by the community moderators.
 2. **Plan the event**: Make sure you have all necessary resources, permissions, and any technical requirements sorted out.
-3. **Announce it**: Once approved, moderators will help you post an official announcement in the **#events** channel.
+3. **Spread the word**: Once your event is ready, you can share it with the community by mentioning it in global channels like **#general** at reasonable, non-spammy intervals. Remember to keep your announcements polite and informative to encourage participation!
 4. **Run your event**: Be prepared to lead your event, manage participants, and have fun with your fellow players!
 
 ## Event Ideas
 Not sure what kind of event to suggest? Here are some ideas:
 
-- **Build Contests**: Show off your building skills and creativity.
 - **Treasure Hunts**: Explore the server and search for hidden treasures.
-- **Mini-Games**: Organize competitions in PvP, parkour, or other custom games.
+- **Mini-Games**: Organize a parkour competition!
 - **Roleplay Sessions**: Create immersive storylines and scenarios.
 - **Community Projects**: Collaborate on large-scale builds or initiatives.
 
