@@ -1,19 +1,16 @@
 ---
-description: /warp market
----
-
 # 🏭 Market Shops
 
-This is Theatria's central location for player shops (although you can create shops anywhere in [The Ark](https://docs.playtheatria.com/worlds-dimensions/the-ark)).
+This is Theatria's central location for player shops. While the Market is the main hub, you can also create shops anywhere in [The Ark](https://docs.playtheatria.com/worlds-dimensions/the-ark).
 
-\
-Use **/market** to get to the player market!\
+## Accessing the Market
+Use the command **/market** to teleport to the player market.
 
+## Requesting a Market Shop
+To request a market shop, open a [staff support ticket](https://discord.gg/hFJWRDKyNz). 
 
-**Requesting a market shop:**\
-Open a [staff support ticket](https://discord.gg/hFJWRDKyNz) to request a market shop.
+### Current Rules and Guidelines
+Market shops are currently free to request, but all shop owners must follow the [Market Shop Rules](../rules-policies/market-shop-rules.md "mention").
 
-\
-Currently market shops are free but you do need to follow a set of rules that can be found here -> [market-shop-rules.md](../../market-shops/market-shop-rules.md "mention")
-
-![](../../.gitbook/assets/2021-09-18\_13.57.46.png)
+## Screenshot of the Market
+![](../../.gitbook/assets/2021-09-18_13.57.46.png)

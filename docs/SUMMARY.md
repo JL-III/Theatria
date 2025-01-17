@@ -5,6 +5,7 @@
   - [Rules](rules-policies/rules.md)
     - [Automation Rule, in-depth](rules-policies/automation-rule-in-depth.md)
     - [Hacks & Mods Rule, in-depth](rules-policies/hacks-mods-rule-in-depth.md)
+  - [Market Shop Rules](rules-policies/market-shop-rules.md)
   - [Block Restrictions](rules-policies/block-restrictions.md)
   - [Ban Appeals](rules-policies/ban-appeals.md)
 
@@ -17,7 +18,6 @@
     - [Nether Stars](gameplay-features/economy/nether-stars.md)
     - [Ledger](gameplay-features/economy/ledger.md)
     - [Chest Shops](gameplay-features/economy/chest-shops-and-shopdb.md)
-    - [Market Shop Rules](gameplay-features/market-shop-rules.md)
   - [Feature Shop](gameplay-features/feature-shop.md)
   - [Ranks](gameplay-features/ranks.md)
   - [Titan Tools](gameplay-features/titan-tools/README.md)
