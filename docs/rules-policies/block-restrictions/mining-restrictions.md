@@ -2,66 +2,70 @@
 
 In order to promote fair gameplay and a balanced server environment, we have implemented certain restrictions on a number of blocks and items in the mining world. This step helps prevent exploitation of in-game mechanics, ensuring that all players earn their progress through effort and skill, rather than through the use of automated systems or other exploitations.
 
-### Restricted Blocks and Items
+## Restricted Blocks and Items
 
 The following items and blocks are not permitted in the mining world:
 
-#### Redstone-related Items
+### Redstone-related Items
 
-* Hopper Minecart
-* Observer
-* Piston
-* Sticky Piston
-* Hopper
-* Note Block
+- Hopper Minecart
+- Observer
+- Piston
+- Sticky Piston
+- Hopper
+- Note Block
 
-#### Movement-related Items
+### Movement-related Items
 
-* Slime Block
+- Slime Block
 
-#### Decoration-related Items
+### Decoration-related Items
 
-* Armor Stand
-* Item Frame
-* Beacon
+- Armor Stand
+- Item Frame
+- Beacon
 
-#### Other Items
+### Other Items
 
-* Soul Sand
+- Soul Sand
 
-#### Ores
+### Ores
 
-The following ores are restricted:
+The following ores are restricted, meaning you cannot place them:
 
-* Coal Ore & Deepslate Coal Ore
-* Copper Ore & Deepslate Copper Ore
-* Diamond Ore & Deepslate Diamond Ore
-* Emerald Ore & Deepslate Emerald Ore
-* Gold Ore, Deepslate Gold Ore & Nether Gold Ore
-* Iron Ore & Deepslate Iron Ore
-* Lapis Ore & Deepslate Lapis Ore
+- Coal Ore & Deepslate Coal Ore
+- Copper Ore & Deepslate Copper Ore
+- Diamond Ore & Deepslate Diamond Ore
+- Emerald Ore & Deepslate Emerald Ore
+- Gold Ore, Deepslate Gold Ore & Nether Gold Ore
+- Iron Ore & Deepslate Iron Ore
+- Lapis Ore & Deepslate Lapis Ore
 
-#### Logs
+### Logs
 
-The following logs are restricted:
+Placing the following logs is restricted:
 
-* Acacia Log
-* Birch Log
-* Cherry Log
-* Dark Oak Log
-* Jungle Log
-* Mangrove Log
-* Oak Log
-* Spruce Log
+- Acacia Log
+- Birch Log
+- Cherry Log
+- Dark Oak Log
+- Jungle Log
+- Mangrove Log
+- Oak Log
+- Spruce Log
 
-#### Crops
+### Crops
 
-The following crops are restricted:
+Planting the following crops is restricted:
 
-* Bamboo
-* Sugar Cane
-* Melon
-* Pumpkin
-* Cactus
+- Bamboo
+- Sugar Cane
+- Melon
+- Pumpkin
+- Cactus
+
+---
+
+### Important Notes
 
 The mining world is meant for gathering resources and mob hunting, not for building or automation. Be sure to check this list before planning any activities in the mining world.

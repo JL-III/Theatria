@@ -1,14 +1,18 @@
-# Banned player lock removals
+# Banned Player Lock Removals
 
-## Temp bans
+## Temporary Bans
 
-**Locks that belong to a temp banned players are not available for lock removals while their ban is running it's course.** \
-This means they are still protected by the **/seen** rule found in [claim-maintenance-and-expiration-notice.md](../land-claiming/claim-maintenance-and-expiration-notice.md "mention")
+**Locks that belong to temporarily banned players are not eligible for removal while their ban is active.**  
+This means they remain protected by the **/seen** rule outlined in [Claim Maintenance and Expiration Notice](../land-claiming/claim-maintenance-and-expiration-notice.md "mention").
 
-## All other bans
+## All Other Bans
 
-All other bans have one week to [submit an appeal](../ban-appeals.md) before their locks are eligible for removal.
+Players banned for reasons other than temporary bans have one week to [submit an appeal](ban-appeals.md) before their locks are eligible for removal.
 
-A player's locks cannot be removed during this week, or during the time period for which the appeal is under consideration.
+A player's locks cannot be removed during:
 
-Open a lock removal request in our discord under [support.md](../support.md "mention")
+- The initial one-week appeal window.
+- Any time during which their appeal is under consideration.
+
+To request lock removal after these periods, open a ticket in our Discord as outlined in [Technical Help](../faqs-troubleshooting/technical-help.md "mention").
+

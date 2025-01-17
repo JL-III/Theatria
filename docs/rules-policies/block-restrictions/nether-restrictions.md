@@ -2,35 +2,39 @@
 
 To ensure fair gameplay and server stability, we've implemented restrictions on the use of certain blocks in the Nether.
 
-### Restricted Blocks and Items
+## Restricted Blocks and Items
 
 The following items and blocks are not permitted in the Nether world:
 
-#### Redstone-related Items
+### Redstone-related Items
 
-* Hopper Minecart
-* Observer
-* Piston
-* Sticky Piston
-* Hopper
+- Hopper Minecart
+- Observer
+- Piston
+- Sticky Piston
+- Hopper
 
-#### Movement-related Items
+### Movement-related Items
 
-* Slime Block
+- Slime Block
 
-#### Decoration-related Items
+### Decoration-related Items
 
-* Armor Stand
-* Item Frame
-* Beacon
+- Armor Stand
+- Item Frame
+- Beacon
 
-#### Other Items
+### Other Items
 
-* Soul Sand
+- Soul Sand
 
-#### Nether-specific Items
+### Nether-specific Items
 
-* Crimson Stem
-* Warped Stem
+- Crimson Stem
+- Warped Stem
 
-Remember, the Nether is intended for resource gathering and mob hunting. Building and automation are discouraged. Always refer to this list before planning any activities in the Nether world.
+---
+
+### Important Notes
+
+The Nether is intended for resource gathering and mob hunting. Building and automation are discouraged. Always refer to this list before planning any activities in the Nether world.

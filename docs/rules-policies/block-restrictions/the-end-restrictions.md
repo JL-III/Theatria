@@ -1,25 +1,31 @@
 # The End Restrictions
 
-Our server policies strive to ensure fair gameplay and a healthy server environment. To prevent potential exploitation of game mechanics and server lag, several block restrictions have been implemented in The End. The restricted blocks are listed below:
+Our server policies strive to ensure fair gameplay and maintain a healthy server environment. To prevent potential exploitation of game mechanics and server lag, several block restrictions have been implemented in **The End**. Please review the restricted blocks below:
+
+## Restricted Blocks
 
 ### Redstone-Related Items
 
-* **Hopper Minecart**
-* **Observer**
-* **Piston and Sticky Piston**
-* **Hopper**
+- **Hopper Minecart**
+- **Observer**
+- **Piston and Sticky Piston**
+- **Hopper**
 
 ### Movement-Related Items
 
-* **Slime Block**
+- **Slime Block**
 
 ### Decoration-Related Items
 
-* **Armor Stand**
-* **Item Frame**
+- **Armor Stand**
+- **Item Frame**
 
 ### Other Items
 
-* **Soul Sand**
+- **Soul Sand**
 
-These restrictions are set in place to preserve the integrity and performance of the server. We discourage any form of automation in The End, and focus should be on exploration and combat. Before planning any activities in The End, please refer to this list.
+---
+
+### Important Notes
+
+The End is intended for resource gathering and mob hunting. Building and automation are discouraged. Always refer to this list before planning any activities in The End dimension.
