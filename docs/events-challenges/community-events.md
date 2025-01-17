@@ -20,7 +20,7 @@ Community events are a great way to connect with other players, showcase your cr
 ## Hosting Your Own Event
 If you want to host an event yourself, here’s what you need to do:
 
-1. **Get approval**: Submit your event proposal in the **#event-suggestions** channel for feedback and approval by the community moderators.
+1. **Get approval**: Submit your event proposal in the **#suggestions** channel for feedback and approval by the community moderators.
 2. **Plan the event**: Make sure you have all necessary resources, permissions, and any technical requirements sorted out.
 3. **Spread the word**: Once your event is ready, you can share it with the community by mentioning it in global channels like **#general** at reasonable, non-spammy intervals. Remember to keep your announcements polite and informative to encourage participation!
 4. **Run your event**: Be prepared to lead your event, manage participants, and have fun with your fellow players!
