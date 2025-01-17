@@ -8,6 +8,8 @@ Titan Tools are special, powerful tools in Theatria that offer unique abilities 
 
 **Power Crystals** are upgraded **Amethyst Shards** with unique qualities. They are used to charge Titan Tools, unlocking their full potential with special abilities.
 
+![Power Crystals Display at `/warp titan`](power-crystals-display.png)
+
 ### How to Use Power Crystals
 To charge your Titan Tool:
 1. Open your inventory.
