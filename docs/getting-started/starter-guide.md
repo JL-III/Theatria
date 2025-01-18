@@ -50,7 +50,7 @@ You can find a full list of commands on our [Commands Page](../gameplay-features
 Need assistance? Here’s how to find support:
 
 - **Ask in Chat**: Our community and staff are here to help.
-- **Visit the Wiki**: Explore detailed guides here in [Theatria Wiki](https://docs.playtheatria.com/).
+- **Explore the Wiki**: Browse detailed guides here in our wiki.
 - **Join the Discord**: Connect with us on [Discord](https://discord.gg/SHgauw8eN8) for updates and live support.
 
 ---

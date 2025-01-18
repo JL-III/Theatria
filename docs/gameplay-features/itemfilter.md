@@ -45,7 +45,7 @@ Managing your inventory can be challenging, especially when collecting large amo
 
 ## Notes
 
-- The `/itemfilter` command only works for items explicitly added to the filter list.
-- Toggling the filter does not affect the list; it simply enables or disables the filtering behavior.
+- Try `/itemfilter menu` to filter out various common items. If the item isn't listed in the menu, you can use `/itemfilter add` to add other items by name.
+- Toggling the filter does not affect your list; it simply enables or disables the filtering behavior.
 
 Use the item filter feature to keep your inventory organized and your gameplay experience smoother!

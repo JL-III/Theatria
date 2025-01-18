@@ -34,6 +34,7 @@ Supporters at the **Contributor+** tier and higher gain the ability to fly in sp
 - **`/fly`**: Enables flight in **The Ark** and **Mining World**, making exploration and resource gathering more convenient.
 
 ## Tips for Getting Around
+- Explore our [Dynmap](map.md) in your web browser to find biomes, claims, and active players.
 - Use `/spawn` if you're lost or need a central point to regroup.
 - Set homes at frequently visited locations to save time.
 - Check `/warps` regularly for new community spots.
