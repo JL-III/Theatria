@@ -1,6 +1,8 @@
-# How to Create a Chest Shop
+# Chest Shops
 
-Chest Shops allow players to create simple and effective player-run shops using signs and chests. Follow these steps to set up your own Chest Shop:
+Chest Shops enable players to set up simple and effective player-run shops using signs and chests. Once a shop is created, it automatically syncs with our [ShopDB](https://shopdb.playtheatria.com/home), a searchable database of all shop listings. Detailed instructions for using ShopDB are available on the website.
+
+Follow these steps to set up your own Chest Shop:
 
 ## Steps to Create a Chest Shop
 
