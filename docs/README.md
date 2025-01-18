@@ -27,11 +27,11 @@ Welcome to Theatria! If you're new to the server, here's how to begin your adven
 
 Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](../docs/rules-policies/rules.md) to ensure compliance.
 
-## Contact and Support
+## Our Online Community 
 
-Need help? Have questions? We’re here to assist:
-
-- **Discord:** Our Discord server is the fastest way to get support and connect with staff. Join us [here](https://discord.gg/jYS5rR2HxP).
+- **Discord:** Our [Discord](https://discord.gg/jYS5rR2HxP) server is the best way to connect with fellow players and staff.
+- **[Instagram](https://www.instagram.com/theatriaofficial/)**
+- **[TikTok](https://www.tiktok.com/@theatria)**
 - **Wiki:** Explore detailed guides, FAQs, and more here on our wiki.
 
 ## Credits
