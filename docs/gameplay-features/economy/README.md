@@ -31,4 +31,4 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 
 ### Important Notes
 
-- Not all items have a value for `/sell hand`. Some items are exclusively traded in the player market, allowing players to define their own prices and values.
+- Not all items have a value for `/sell hand`. Some items are exclusively traded in [Player Markets](ways-to-make-money/player-markets.md), allowing players to define their own prices and values.

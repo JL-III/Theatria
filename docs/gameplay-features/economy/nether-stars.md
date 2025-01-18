@@ -11,4 +11,4 @@ There are two primary ways to earn Nether Stars:
 
 ## Uses of Nether Stars
 
-At **/warp titan**, you can trade 64 Nether Stars for 1 Jigsaw. Use Jigsaws to purchase powerful Titan Tools.
+At **/warp titan**, you can trade 64 Nether Stars for **1 Jigsaw**. Use **Jigsaws** to purchase powerful [Titan Tools](../titan-tools/README.md).
