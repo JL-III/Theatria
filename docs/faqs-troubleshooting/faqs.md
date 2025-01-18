@@ -23,7 +23,7 @@ Theatria is currently running on **Minecraft 1.21.1**. While players using other
 Lag can happen for various reasons. Here are some troubleshooting tips:
 - Ensure your internet connection is stable.
 - Allocate more RAM to Minecraft.
-- Try using OptiFine for performance improvements.
+- Try using OptiFine or similar tools for performance improvements.
 
 If the issue persists, please reach out in [Discord](https://discord.gg/SHgauw8eN8).
 

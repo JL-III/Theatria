@@ -23,8 +23,8 @@ Invite your friends to join Theatria! When your buddy signs up and plays, you bo
 ---
 
 ## Shrine Quests
-{% content-ref url="shrine-quests.md" %}
-[Shrine Quests](shrine-quests.md)
+{% content-ref url="../events-challenges/shrine-quests.md" %}
+[Shrine Quests](../events-challenges/shrine-quests.md)
 {% endcontent-ref %}
 
 Take on daily shrine quests and be rewarded with Denarii!
@@ -50,6 +50,10 @@ Set up your own shop or browse player-created markets to buy and sell items. Bei
 ---
 
 ## Playtime Rewards
+{% content-ref url="playtime-rewards.md" %}
+[Playtime Rewards](playtime-rewards.md)
+{% endcontent-ref %}
+
 The more you play, the more you earn! Check out the **Playtime Rewards** system.
 
 ---

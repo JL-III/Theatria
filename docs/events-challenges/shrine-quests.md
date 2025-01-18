@@ -14,15 +14,15 @@ Shrine Quests are daily tasks that consist of two distinct parts:
 1. **Action Phase:** Engage in activities like mining, fishing, or chopping wood in the `/warp mining` world.
 2. **Delivery Phase:** Return resources obtained during the action phase to the Oracle's shrine at `/warp shrine` in The Ark.
 
-For help navigating these areas, refer to the **Getting Around** section of the wiki.
+For help navigating these areas, refer to the [**Getting Around**](../getting-around/README.md) section of the wiki.
 
 ## Starting a Shrine Quest
 
-Players are automatically enrolled in Shrine Quests upon logging in. Notifications about your progress appear in the lower left corner of the screen, often as a green message indicating the tasks remaining, such as:
+Players are automatically enrolled in Shrine Quests upon logging in. Notifications about your progress appear as a green chat message indicating the tasks remaining, such as:
 
 > "x blocks left to break."
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt="" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt="x blocks left to break" loading="lazy"><figcaption></figcaption></figure>
 
 ## Monitoring Your Quest Progress
 
@@ -40,16 +40,16 @@ To complete a Shrine Quest:
 1. Finish the action phase in the `/warp mining` world as described in your quest.
 2. Deliver the required item(s) to the Oracle's shrine at `/warp shrine` in The Ark.
 
-**Note:** The shrine will only accept items after the action phase is completed. For help navigating, check out the **Getting Around** section of the wiki.
+**Note:** The shrine will only accept items after the action phase is completed. For help navigating, check out the [**Getting Around**](../getting-around/README.md) section of the wiki.
 
 <figure><img src="../../.gitbook/assets/2023-07-18_23.48.31.png" alt="" loading="lazy"><figcaption></figcaption></figure>
 
 ## Resetting Shrine Quests
 
-Shrine Quests reset every day at **0:00 UTC**, giving you the opportunity to take on new challenges daily.
+Shrine Quests reset once a day.
 
 ## Rewards
 
-Completing both parts of a Shrine Quest earns you **Denarii**, our in-game currency! It pays to honor the Shrine every day!
+Completing both parts of a Shrine Quest earns you [**Denarii**](../gameplay-features/economy/README.md), our in-game currency! It pays to honor the Shrine every day!
 
 Embark on these exciting quests, Theatrians! May your journey be filled with wisdom and prosperity.
