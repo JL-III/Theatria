@@ -34,10 +34,6 @@ Need help? Have questions? We’re here to assist:
 - **Discord:** Our Discord server is the fastest way to get support and connect with staff. Join us [here](https://discord.gg/jYS5rR2HxP).
 - **Wiki:** Explore detailed guides, FAQs, and more here on our wiki.
 
-## Changelog
-
-Stay updated with the latest server changes by visiting our [changelog](../changelogs/). 
-
 ## Credits
 
 A heartfelt thank-you to our community for shaping Theatria into the vibrant server it is today. Your creativity and support make Theatria an incredible place to play.
