@@ -4,7 +4,7 @@
 Do `/warp parkour`
 
 Then right click on one of the 3 holograms 
-<figure><img src="../../../.gitbook/assets/warp-parkour" alt=""><figcaption><p>/warp Parkour</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/warp-parkour.png" alt=""><figcaption><p>/warp Parkour</p></figcaption></figure>
 
 You get money every 5 jumps and it increase the longer you go
 
