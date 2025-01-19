@@ -18,7 +18,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
 - **Purpose**: Designed for resource collection and exploration, this world resets monthly to ensure a fresh supply of materials.
 - **Key Features**:
   - **Resource Gathering**: Collect materials without worrying about damaging the main world.
-  - **Spawner Placement**: Place [spawners](../gameplay-features/spawners.md) here to maximize resource farming. Spawners should be placed early in the month to make the most of the world, as it resets around the **1st of each month**.
+  - **Spawner Placement**: Place [spawners](../spawners.md) here to maximize resource farming. Spawners should be placed early in the month to make the most of the world, as it resets around the **1st of each month**.
   - **Monthly Resets**: The world regenerates every month to replenish resources and keep exploration exciting.
   - **Shrine Quests**: Complete daily [Shrine Quests](../../events-challenges/shrine-quests.md) to earn Denarii!
   - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../../events-challenges/meteorites.md)!
