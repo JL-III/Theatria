@@ -21,10 +21,10 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/buddy remove`: Remove your buddy  
     - `/buddy notify`: Toggle notifications for rewards
 - **/cc**: Opens the crate menu
-- **/ch j {channel name}**: Change chat channels  
+- **/ch join {channel name}**: Change chat channels  
   - **Subcommands**:  
-    - `/ch j Global`: Switch to global chat  
-    - `/ch j Local`: Switch to local chat
+    - `/ch join Global`: Switch to global chat  
+    - `/ch join Local`: Switch to local chat
 - **/cinfo**: Punch a protected block to view information on it
 - **/claim**: Claims the chunk you are in for 1,000 Denarii
 - **/climits**: View the number of protections you own and are allowed
@@ -36,6 +36,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/csn help`: Displays help page  
     - `/csn history`: Shows your sale history  
     - `/csn clear`: Clears sales history
+- **daily-reward**: Check how close you are to your 1 hour of daily playtime
 - **/delhome**: Removes a set home
 - **/discord**: Provides the Discord link  
   - **Subcommands**:  
