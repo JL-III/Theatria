@@ -13,7 +13,7 @@ Spawners are a valuable resource in Theatria, allowing players to generate speci
 
 ## Placement Restrictions
 
-- **Mining World Only**: Spawners can only be placed in the [Mining World](../worlds-dimensions/mining). 
+- **Mining World Only**: Spawners can only be placed in the [Mining World](worlds-dimensions#mining-world). 
 - **World Reset**: The Mining World typically resets once a month, near the beginning of the month. Check the #announcements channel in our Discord server for updates.
 
 ## Tips
