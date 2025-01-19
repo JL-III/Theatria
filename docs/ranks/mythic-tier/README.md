@@ -1,2 +1,0 @@
-# Mythic Tier
-
