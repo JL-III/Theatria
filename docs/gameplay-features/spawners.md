@@ -9,7 +9,7 @@ Spawners are a valuable resource in Theatria, allowing players to generate speci
 ## How to Obtain Spawners
 
 1. **Ranks**
-   Unlock spawners through [ranks](/ranks/mythic-ranks/hero), which can be purchased with Denarii, our in-game currency. Higher ranks often include better rewards.
+   Unlock spawners through [ranks](/ranks/mythic-ranks/01-hero), which can be purchased with Denarii, our in-game currency. Higher ranks often include better rewards.
 
 ## Placement Restrictions
 
