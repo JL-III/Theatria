@@ -12,7 +12,6 @@ The `/itemfilter` command allows players to manage an item filter, a feature des
   - `/itemfilter reset`: Resets all filters.
   - `/itemfilter add <item>`: Adds an item to your filter.
   - `/itemfilter remove <item>`: Removes an item from your filter.
-  - `/itemfilter list`: Displays all items currently in your filter.
 
 ## Related Commands
 
