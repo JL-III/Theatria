@@ -19,6 +19,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
   - **Resource Gathering**: Collect materials without worrying about damaging the main world.
   - **Shrine Quests**: Discover special quests and challenges.
   - **Monthly Resets**: The world regenerates every month to replenish resources and keep exploration exciting.
+  - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../../events-challenges/meteorites.md)!
 
 ## The Nether
 
