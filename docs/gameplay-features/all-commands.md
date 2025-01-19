@@ -23,10 +23,10 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
     - `/buddy notify`: Toggle notifications for rewards
 - **/cc**: Opens the crate menu (Pleb)
 - **/ch d**: Access the supporter chat channel (Contributor)
-- **/ch j {channel name}**: Change chat channels (Pleb)
+- **/ch join {channel name}**: Change chat channels (Pleb)
   - **Subcommands**:  
-    - `/ch j Global`: Switch to global chat
-    - `/ch j Local`: Switch to local chat
+    - `/ch join Global`: Switch to global chat
+    - `/ch join Local`: Switch to local chat
 - **/claim**: Claims the chunk you are in for 1,000 Denarii (Pleb)
 - **/climits**: View the number of protections you own and are allowed (Pleb)
 - **/clearinventory**: Clears your inventory (Hero)
@@ -41,6 +41,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
     - `/csn help`: Displays help page
     - `/csn history`: Shows your sale history
     - `/csn clear`: Clears sales history
+- **daily-reward**: Check how close you are to your 1 hour of daily playtime (Pleb)
 - **/delhome**: Removes a set home (Pleb)
 - **/discord**: Provides the Discord link (Pleb)
   - **Subcommands**:  
