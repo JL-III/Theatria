@@ -44,3 +44,7 @@ To ensure everyone has a positive experience, follow these guidelines:
 ---
 
 Get ready to make new friends, try new things, and create lasting memories in Theatria! Join our Discord today to start planning or participating in community events!
+
+---
+
+[Events & Challenges](./README.md)

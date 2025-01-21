@@ -48,3 +48,7 @@ Managing your inventory can be challenging, especially when collecting large amo
 - Toggling the filter does not affect your list; it simply enables or disables the filtering behavior.
 
 Use the item filter feature to keep your inventory organized and your gameplay experience smoother!
+
+---
+
+[Gameplay Features](./README.md)

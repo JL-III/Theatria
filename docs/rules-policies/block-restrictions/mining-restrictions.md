@@ -69,3 +69,15 @@ Planting the following crops is restricted:
 ### Important Notes
 
 The mining world is meant for gathering resources and mob hunting, not for building or automation. Be sure to check this list before planning any activities in the mining world.
+
+---
+
+## Other Block Restrictions, by dimension
+
+- **The Ark** [Restrictions](./the-ark-restrictions.md)
+- **Nether** [Restrictions](./nether-restrictions.md)
+- **The End** [Restrictions](./the-end-restrictions.md)
+
+---
+
+[Rules & Policies](../README.md)

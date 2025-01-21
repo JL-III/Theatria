@@ -29,3 +29,15 @@ Our server policies strive to ensure fair gameplay and maintain a healthy server
 ### Important Notes
 
 The End is intended for resource gathering and mob hunting. Building and automation are discouraged. Always refer to this list before planning any activities in The End dimension.
+
+---
+
+## Block Restrictions, by dimension
+
+- **The Ark** [Restrictions](./the-ark-restrictions.md)
+- **Mining** [Restrictions](./mining-restrictions.md)
+- **Nether** [Restrictions](./nether-restrictions.md)
+
+---
+
+[Rules & Policies](../README.md)

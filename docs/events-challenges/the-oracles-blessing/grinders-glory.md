@@ -30,3 +30,8 @@ For more information about submission requirements and other blessings, visit th
 **⚠️ Your stats will be verified before the reward is granted. Ensure you meet the criteria before opening a ticket.**
 {% endhint %}
 
+---
+
+[The Oracle's Blessing](./README.md)
+
+[Events & Challenges](../README.md)

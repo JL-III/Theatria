@@ -53,3 +53,11 @@ Shrine Quests reset once a day.
 Completing both parts of a Shrine Quest earns you [**Denarii**](../gameplay-features/economy/README.md), our in-game currency! It pays to honor the Shrine every day!
 
 Embark on these exciting quests, Theatrians! May your journey be filled with wisdom and prosperity.
+
+---
+
+<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+
+---
+
+[Events & Challenges](./README.md)

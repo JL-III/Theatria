@@ -11,3 +11,9 @@
 Failure to follow these rules may result in the **loss of the market shop**, a **$100,000 fine**, or both.
 {% endhint %}
 
+### Related Articles
+
+- [Player Markets](../gameplay-features/economy/player-markets.md)
+- [Chest Shops](../gameplay-features/economy/chest-shops-and-shopdb.md)
+- [Ways to make Denarii](../gameplay-features/economy/ways-to-make-denarii.md)
+

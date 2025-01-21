@@ -4,7 +4,7 @@ Ethereal Items are powerful, one-of-a-kind items that you can purchase using **E
 
 ## How to Obtain Ethereal Fragments
 
-1. **Search for Meteorites**: Explore the Mining World to hunt for meteorites. These rare occurrences may contain special loot.
+1. **Search for Meteorites**: Explore the Mining World to hunt for [meteorites](../../events-challenges/meteorites.md). These rare occurrences may contain special loot.
 
    - **Meteorite Barrels**: Rarely, meteorite barrels will include an **Ethereal Fragment** among their treasures.
 
@@ -36,3 +36,6 @@ Trading Ethereal Fragments grants access to the following powerful items:
 - [Meteorites](/events-challenges/meteorites.md)
 - [Titan Tools](/gameplay-features/titan-tools/README.md)
 
+---
+
+[Gameplay Features](../README.md)

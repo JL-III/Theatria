@@ -1,5 +1,5 @@
 ---
-description: The many ways to make money in Theatria!
+description: Th Theatria!
 ---
 
 # Economy
@@ -12,15 +12,13 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 - `/balance`
 - Press and hold the **Tab** key.
 
-## Visual Examples
-
 ### Viewing Denarii with Commands
 
-![](<../.gitbook/assets/Capture (4).PNG>)
+![](<../../.gitbook/assets/Capture (4).PNG>)
 
 ### Viewing Denarii in the Tab Display
 
-![](<../.gitbook/assets/Capture (9).PNG>)
+![](<../../.gitbook/assets/Capture (9).PNG>)
 
 ## Commands Overview
 
@@ -31,4 +29,13 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 
 ### Important Notes
 
-- Not all items have a value for `/sell hand`. Some items are exclusively traded in [Player Markets](ways-to-make-money/player-markets.md), allowing players to define their own prices and values.
+- Not all items have a value for `/sell hand`. Some items are exclusively traded in [Player Markets](./player-markets.md), allowing players to define their own prices and values.
+
+---
+
+<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+
+---
+
+[Gameplay Features](./README.md)
+

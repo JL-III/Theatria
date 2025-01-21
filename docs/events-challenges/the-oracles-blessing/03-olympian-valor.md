@@ -14,5 +14,8 @@ The Oracle acknowledges your prestigious standing and bestows upon you the **Oly
 - No items or submissions are required for this blessing.
 - Once awarded, this blessing will stack with others you earn, providing an even greater boost to your `/sell hand` earnings.
 
-For more information about other blessings, return to the [Oracle's Blessings main page](../README.md).
+---
 
+[The Oracle's Blessing](./README.md)
+
+[Events & Challenges](../README.md)

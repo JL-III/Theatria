@@ -43,5 +43,4 @@ Theatria's mission is to create a **fun, inclusive, and fair Minecraft server** 
 
 ---
 
-For more information or to start supporting Theatria, visit the [Feature Shop](https://theatrian-market.tebex.io/) today!
-
+[Gameplay Features](./README.md)

@@ -172,3 +172,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
 - [Player Ranks](../gameplay-features/ranks/README.md)
 ## Learn more about Support Ranks
 - [Support Ranks](../gameplay-features/feature-shop.md)
+
+---
+
+[Gameplay Features](./README.md)

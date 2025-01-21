@@ -22,18 +22,18 @@ Due to limitations in current economy plugins, transaction causes are simplified
 - **COMMAND_ECO**: Transactions where money is granted directly by the server.
 - **HISTORICAL**: Transactions that occurred before the ledger system was implemented.
 
-## Example Visuals
-
-Below are examples of how your ledger data is presented:
-
-### Player Chart
+### Example Player Chart
 
 ![Example of a player chart](<../.gitbook/assets/image (2).png>)
 
-### Player Transactions
+### Example Player Transactions
 
 ![Example of player transactions](<../.gitbook/assets/image (8).png>)
 
 ---
 
-If you encounter any issues or have questions about the ledger, feel free to ask for help in-game or on our Discord!
+<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+
+---
+
+[Gameplay Features](../README.md)

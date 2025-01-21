@@ -15,29 +15,26 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 1. **Store the required items**:
 
    - Gather all the necessary items for the Oracle's Blessing challenge you want to complete.
-   - Store these items in a locked chest using the `/lock` command to protect them from theft.
+   - Store these items in a locked chest(s) using the `/lock` command and note the coordinates.
 
-2. **Open a ticket on Discord**:
+2. **Open a ticket on Discord** #staff-support-tickets:
 
-   - Once you have collected all the required items for a specific challenge, open a ticket on our Discord server. This is where you will submit your completed challenge for review.
-
-3. **Share the private coordinates**:
-
-   - In the Discord ticket, provide the private coordinates of the locked chest containing the required items. This will allow our staff to verify that you have met the challenge requirements.
+   - In the Discord ticket, provide the coordinates of the locked chest(s) with the required items.
 
 4. **Wait for staff verification**:
 
-   - Our staff will visit the provided coordinates, inspect the chest and its contents, and confirm that you have successfully completed the challenge.
+   - Our staff will validate the items and take them for The Oracle.
 
 5. **Receive your reward**:
 
-   - After verification, you'll be granted The Oracle's Blessing reward, which includes an increase in `/sell hand` earnings.
+   - You'll be granted The Oracle's Blessing reward, which includes an increase in `/sell hand` earnings!
 
 ## Additional Tips and Reminders
 
-- Browse the following pages to learn about the different ways to obtain The Oracle's Blessing.
-- Keep your locked chest's coordinates private and share them only in the Discord ticket to ensure the security of your items.
-- Good luck on your journey, and may the Oracle's favor be with you!
+   - Browse the following pages to learn about the different ways to obtain The Oracle's Blessing.
+   - Keep your locked chest's coordinates private and share them only in the Discord ticket to ensure the security of your items.
+   - You can double-check which blessings you have received with `/tob`.
+
 
 {% hint style="danger" %}
 **⚠️ Items submitted will be taken after you complete the challenge!**
@@ -61,3 +58,6 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 - [Opulent Offering](events-challenges/opulent-offering.md)
 - [Quartz Hoarders Honor](events-challenges/quartz-hoarders-honor.md)
 
+---
+
+[Events & Challenges](../README.md)

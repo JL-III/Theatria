@@ -16,6 +16,15 @@ The aim of these restrictions is to ensure fair gameplay for all players and to 
 - Exploits that could give unfair advantages to players.
 - Unintended disruptions to the server’s functionality.
 
-### Need More Information?
+---
 
-If you have questions or would like to suggest changes to these restrictions, feel free to contact a server admin or visit our Discord.
+## Block Restrictions, by dimension
+
+- **The Ark** [Restrictions](./the-ark-restrictions.md)
+- **Mining** [Restrictions](./mining-restrictions.md)
+- **Nether** [Restrictions](./nether-restrictions.md)
+- **The End** [Restrictions](./the-end-restrictions.md)
+
+---
+
+[Rules & Policies](../README.md)

@@ -24,14 +24,12 @@ To charge your Titan Tool:
 
 ## Titan Keys
 
-Titan Keys are available for purchase at `/warp titan` for **1 million denarii** each! 💰 (That’s in-game currency, not real-world money!)
+Titan Keys are available for purchase at `/warp titan` for **$1 million Denarii** each! 
 
 ### What Can You Do with Titan Keys?
 
 - **Take a Chance**: Open a Titan Crate to obtain a powerful Titan Tool.
 - **Flex Your Strategy**: Whether you’re looking to expand your arsenal or test your luck, Titan Keys provide a fun and exciting way to progress.
-
-Start purchasing Titan Keys today and see where your luck takes you! 🗝️✨
 
 ---
 
@@ -81,11 +79,8 @@ Titan Tools offer unique abilities when activated. Each tool can function in two
 
 ---
 
-{% hint style="info" %}
-For a detailed list of tools and their abilities, [click here](#).
-{% endhint %}
+With Titan Tools and Power Crystals, you can enhance your gameplay and achieve tasks faster while enjoying unique perks. Get started by acquiring your tools at `/warp titan` and start mining for Power Crystals today!
 
 ---
 
-With Titan Tools and Power Crystals, you can enhance your gameplay and achieve tasks faster while enjoying unique perks. Get started by acquiring your tools at `/warp titan` and start mining for Power Crystals today!
-
+[Gameplay Features](../README.md)

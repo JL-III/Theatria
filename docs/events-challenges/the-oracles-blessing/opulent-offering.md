@@ -27,3 +27,8 @@ For more information about submission requirements and other blessings, visit th
 **⚠️ All items will be removed after verification! Ensure your submission is complete before opening a ticket.**
 {% endhint %}
 
+---
+
+[The Oracle's Blessing](./README.md)
+
+[Events & Challenges](../README.md)

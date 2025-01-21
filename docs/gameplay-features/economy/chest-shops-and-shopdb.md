@@ -69,3 +69,10 @@ Follow these steps to set up your own Chest Shop:
 
 With these steps, you can set up your shop and start trading with other players in your Minecraft world!
 
+---
+
+<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+
+---
+
+[Gameplay Features](../README.md)

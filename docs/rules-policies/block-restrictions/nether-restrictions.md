@@ -38,3 +38,15 @@ The following items and blocks are not permitted in the Nether world:
 ### Important Notes
 
 The Nether is intended for resource gathering and mob hunting. Building and automation are discouraged. Always refer to this list before planning any activities in the Nether world.
+
+---
+
+## Other Block Restrictions, by dimension
+
+- **The Ark** [Restrictions](./the-ark-restrictions.md)
+- **Mining** [Restrictions](./mining-restrictions.md)
+- **The End** [Restrictions](./the-end-restrictions.md)
+
+---
+
+[Rules & Policies](../README.md)

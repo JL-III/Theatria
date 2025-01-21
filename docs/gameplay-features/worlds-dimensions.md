@@ -8,7 +8,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
 - **Purpose**: This is the main world where players can build their home base, set up shops, and create lasting memories.
 - **Key Features**:
   - **Never Resets**: Your creations are permanent here.
-  - **Land Claims**: Protect your builds by claiming land.
+  - **Land Claims**: Protect your builds by [claiming land](./land-claiming.md).
   - **Player Shops**: Set up and manage shops to trade with others.
 
 ## Mining World
@@ -19,7 +19,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
   - **Resource Gathering**: Collect materials without worrying about damaging the main world.
   - **Shrine Quests**: Discover special quests and challenges.
   - **Monthly Resets**: The world regenerates every month to replenish resources and keep exploration exciting.
-  - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../../events-challenges/meteorites.md)!
+  - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
 
 ## The Nether
 
@@ -43,4 +43,6 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
 - Plan your activities: build in The Ark, gather resources in Mining, and seek challenges in the Nether and the End.
 - Keep an eye on announcements for reset schedules to make the most of each world's resources.
 
-Enjoy exploring and creating in Theatria!
+---
+
+[Gameplay Features](./README.md)
