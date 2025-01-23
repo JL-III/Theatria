@@ -9,7 +9,7 @@
 ## Policies
 
 - **[Claim Maintenance & Expiration Notice](./claim-maintenance-and-expiration-notice.md)**
-- **[Block Restriction](./block-restrictions/README.md)s**
+- **[Block Restrictions](./block-restrictions/README.md)**
 - **[Ban Appeals](./ban-appeals.md)**
 - **[Ban Appeal Review Guidelines for Staff](./ban-appeal-review-guidelines.md)**
 - **[Banned Player Lock Removals](./banned-player-lock-removals.md)**

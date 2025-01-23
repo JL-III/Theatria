@@ -52,3 +52,7 @@ More details: [Claim Maintenance and Expiration Notice](claim-maintenance-and-ex
 ---
 
 Following these rules helps everyone have a great time on Theatria. Thank you for being part of our community!
+
+---
+
+- [Rules & Policies](./README.md)

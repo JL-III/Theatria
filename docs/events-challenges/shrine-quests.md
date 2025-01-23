@@ -56,7 +56,7 @@ Embark on these exciting quests, Theatrians! May your journey be filled with wis
 
 ---
 
-<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+<p align="center">🤑 🤑 🤑 Discover <a href="../gameplay-features/economy/ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
 
 ---
 

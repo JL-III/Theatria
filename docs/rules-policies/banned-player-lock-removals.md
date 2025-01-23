@@ -16,3 +16,6 @@ A player's locks cannot be removed during:
 
 To request lock removal after these periods, open a ticket in our Discord as outlined in [Technical Help](../faqs-troubleshooting/technical-help.md "mention").
 
+---
+
+[Rules & Policies](./README.md)

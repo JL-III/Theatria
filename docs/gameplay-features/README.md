@@ -3,7 +3,7 @@
 Theatria has a unique collection of systems and mechanics that help shape our community and gameplay.
 
 - **[Worlds & Dimensions](./worlds-dimensions.md):** Explore our unique worlds and dimensions.
-- **[Commands](./commands.md):** Master essential commands.
+- **[Commands by Rank](./commands.md):** Master essential commands. List of [all commands](./all-commands.md) in alphabetical order.
 - **[Ranks](./ranks/README.md):** Learn about ranks and perks.
 - **[Economy](./economy/README.md):** Denarii and [ways to earn it](./economy/ways-to-make-denarii.md).
 - **[Land Claiming](./land-claiming.md):** Protect your builds and manage claims.
@@ -14,3 +14,6 @@ Theatria has a unique collection of systems and mechanics that help shape our co
 - **[Titan Tools](titan-tools/README.md):** Powerful tools purchased with [Nether Stars](./nether-stars.md).
 - **[Ethereal Items](ethereal-items/README.md):** Epic items purchased with [Ethereal Fragments](./ethereal-fragments.md).
 - **[Feature Shop](./feature-shop.md):** Support Theatria and get helpful boosts.
+- **[mcMMO](./mcmmo.md):** Skill leveling, special abilities, and rare loot!
+- **[Custom Mob Rules](./mob-rules.md):** Where have all the Phantoms gone?
+- **[Mob Stacking](./mob-stacking.md):** Mobs stack in the Mining world.

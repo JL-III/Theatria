@@ -16,4 +16,4 @@ Need help? Here are some options:
 - [Getting Started](./getting-started.md)
 - [FAQs](./faqs.md)
 - [Theatria Staff](./staff/README.md)
-- [Rules & Policies](../rules-policies/)
+- [Rules & Policies](../rules-policies/README.md)

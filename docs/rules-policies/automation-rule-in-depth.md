@@ -28,3 +28,6 @@ Anyone caught automating money-making methods risks severe penalties, including:
 **JUST DON'T DO IT.**
 {% endhint %}
 
+---
+
+[Rules & Policies](./README.md)

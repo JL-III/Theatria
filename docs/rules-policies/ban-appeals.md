@@ -12,7 +12,7 @@ If you have been banned from Theatria and believe that your ban was unjust or th
      - A detailed explanation of why you believe the ban should be lifted.
 
 2. **Staff Review**
-   - Your appeal will be reviewed by our staff team. They follow these [Ban Appeal Review Guidelines](../faqs-troubleshooting/staff/ban-appeal-review-guidelines.md).
+   - Your appeal will be reviewed by our staff team. They follow these [Ban Appeal Review Guidelines](./ban-appeal-review-guidelines.md).
    - Staff members will consider the circumstances of your ban and your explanation.
    - Please be patient, as this process may take some time.
 
@@ -30,3 +30,6 @@ If you have been banned from Theatria and believe that your ban was unjust or th
 
 Please note that all ban appeals are treated seriously, and providing false or incomplete information may result in your appeal being denied. Ensure your submission is honest and detailed for the best chance of a favorable decision.
 
+---
+
+[Rules & Policies](./README.md)

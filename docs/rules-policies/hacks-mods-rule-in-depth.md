@@ -44,3 +44,7 @@ If you fail an AFK check (e.g., you are not present at your computer when prompt
 
 **DO NOT STEP AWAY FROM YOUR COMPUTER WHILE USING THESE MODS.**
 {% endhint %}
+
+---
+
+[Rules & Policies](./README.md)
