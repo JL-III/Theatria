@@ -13,7 +13,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 - **/assign {area} confirm**: Assign selection to area
 - **/balance**, **/bal**: Displays your current [balance](./economy/README.md)
 - **/balancetop**, **/baltop**: Lists players by top balances
-- **/boost**: Shows if a McMMO Boost is active and its remaining duration
+- **/boost**: Shows if a [mcMMO](./mcmmo.md) Boost is active and its remaining duration
 - **/buddy**: Manage [buddy system](./economy/buddy-bonus.md)  
   - **Subcommands**:  
     - `/buddy add {name}`: Sends a buddy request to someone  
@@ -57,57 +57,57 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/help ledger`: Ledger link  
     - `/help shopdb`: Shop database link
 - **/home**: Teleports you to your home
-- **/kit**: Displays or obtains kits
+- **/kit**: Displays or obtains [kits](./kits.md)
 - **/lands**: Opens the Lands menu  
   - **Subcommands**:  
     - `/lands create {land-name}`: Costs 5,000 Denarii
 - **/leave {land-name}**: Leave a land
 - **/ledger**: Provides a link to the ledger
-- **/lock**: Locks a block (e.g., chest, door)
-- **/mail**: Manages in-game mail
-- **/map**: Provides the Dynmap link
+- **/lock**: [Locks](./chest-locks.md) a block (e.g., chest, door)
+- **/mail**: Manages in-game [mail](./messaging.md)
+- **/map**: Provides the [Dynmap](../getting-around/map.md) link
 - **/market**: Warps you to `/warp market`
-- **/mcrank**: Displays your McMMO rank
-- **/mcstats**: Displays your McMMO stats
+- **/mcrank**: Displays your [mcMMO](./mcmmo.md) rank
+- **/mcstats**: Displays your [mcMMO](./mcmmo.md) stats
 - **/msg {username}**: Sends a private message
 - **/own**: [Owns an item](./item-owning.md) if unclaimed
 - **/tpdeny**: Rejects teleport requests
 - **/pay {username} {amount}**: Pays another player
 - **/playerweather**: Adjusts your weather
 - **/playtime**: Displays your total playtime
-- **/pm**: Sends a private message
-- **/r**, **/reply**: Replies to the last private message
+- **/pm**: Sends a private [message](./messaging.md)
+- **/r**, **/reply**: Replies to the last [private message](./messaging.md)
 - **/ranks**: Displays the ranks wiki page
 - **/rankup**: Promotes your rank
 - **/realname**: Displays a player's actual username
-- **/rtp**: Teleports randomly
+- **/rtp**: Teleports randomly within the current dimension
 - **/rules**: Displays the rules wiki page
 - **/sell**: Sells items  
   - **Subcommands**:  
     - `/sell hand`: Sells the item in your hand  
     - `/sell all`: Sells all sellable items in your inventory
 - **/sethome**: Sets a home at your current location
-- **/shrine**: Opens the shrine quests menu
+- **/shrine**: Opens the [shrine quests](../events-challenges/shrine-quests.md) menu
 - **/shop**: Warps you to `/warp market`
 - **/spawn**: Warps you to `/warp spawn`
-- **/stats**: Displays your McMMO stats
+- **/stats**: Displays your [mcMMO](./mcmmo.md) stats
 - **/tags**: Opens the tags menu
 - **/titan pack**: Loads the Theatria resource pack
-- **/tob**: Displays your sell-hand multipliers
+- **/tob**: Displays your sell-hand multipliers granted by [The Oracle's Blessing](../events-challenges/the-oracles-blessing/README.md)
 - **/tpa {username}**: Requests to teleport to another player
 - **/tpahere {username}**: Requests another player teleport to you
 - **/tpaccept**: Accepts teleport requests
 - **/trust {username} {area}**: Trusts a player in your land
 - **/unclaim**: Unclaims the chunk you're in
-- **/unlock**: Unlocks locked blocks
+- **/unlock**: Unlocks [locked](./chest-locks.md) blocks
 - **/unstuck**: Frees you from being stuck
-- **/untrust {username}**: Removes trust from a player
-- **/warp**: Opens the warp menu  
+- **/untrust {username}**: Removes a player from your current land
+- **/warp**: Opens the [warp](../getting-around/warps.md) menu  
   - **Subcommands**:  
     - `/warp {warp name}`: Warps to a specific location
 - **/whereami**: Provides detailed coordinates
 - **/wiki**: Displays the wiki link
-- **/worth**: Displays the sell value of items  
+- **/worth**: Displays the [sell value](../gameplay-features/economy/sell-hand.md) of items  
   - **Subcommands**:  
     - `/worth {item}`: Displays the sell value of a specific item  
     - `/worth inventory`: Displays the sell value of your inventory
@@ -123,44 +123,44 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 ### Gladiator
 
 #### Commands
-- **/acrobatics**: Displays stats for the acrobatics skill
-- **/archery**: Displays stats for the archery skill
-- **/axes**: Displays stats for the axes skill
+- **/acrobatics**: Displays stats for the acrobatics [skill](./mcmmo.md)
+- **/archery**: Displays stats for the archery [skill](./mcmmo.md)
+- **/axes**: Displays stats for the axes [skill](./mcmmo.md)
 - **/enderchest**, **/ec**: Access your Ender Chest from anywhere
-- **/excavation**: Displays stats for the excavation skill
-- **/fishing**: Displays stats for the fishing skill
+- **/excavation**: Displays stats for the excavation [skill](./mcmmo.md)
+- **/fishing**: Displays stats for the fishing [skill](./mcmmo.md)
 - **/headdb**, **/hdb**: Opens the head database menu  
   - **Subcommands**:  
     - `headdb search {input}`: Search for specific heads
-- **/herbalism**: Displays stats for the herbalism skill
-- **/mcscoreboard**: Manages the McMMO scoreboard  
+- **/herbalism**: Displays stats for the herbalism [skill](./mcmmo.md)
+- **/mcscoreboard**: Manages the [mcMMO](./mcmmo.md) scoreboard  
   - **Subcommands**:  
     - `/mcscoreboard clear`: Clears the scoreboard  
     - `/mcscoreboard keep`: Keeps the current scoreboard  
     - `/mcscoreboard time {seconds}`: Clears the scoreboard after the set time
-- **/mctop**: Displays the top 10 McMMO players  
+- **/mctop**: Displays the top 10 [mcMMO](./mcmmo.md) players  
   - **Subcommands**:  
-    - `/mctop {skill}`: Displays top players for a specific skill
-- **/mining**: Displays stats for the mining skill
-- **/repair**: Displays stats for the repair skill
+    - `/mctop {skill}`: Displays top players for a specific [skill](./mcmmo.md)
+- **/mining**: Displays stats for the mining [skill](./mcmmo.md)
+- **/repair**: Displays stats for the repair [skill](./mcmmo.md)
 - **/seen {username}**: Displays the last logout time of a player
-- **/smelting**: Displays stats for the smelting skill
-- **/swords**: Displays stats for the swords skill
-- **/taming**: Displays stats for the taming skill
-- **/unarmed**: Displays stats for the unarmed skill
-- **/woodcutting**: Displays stats for the woodcutting skill
+- **/smelting**: Displays stats for the smelting [skill](./mcmmo.md)
+- **/swords**: Displays stats for the swords [skill](./mcmmo.md)
+- **/taming**: Displays stats for the taming [skill](./mcmmo.md)
+- **/unarmed**: Displays stats for the unarmed [skill](./mcmmo.md)
+- **/woodcutting**: Displays stats for the woodcutting [skill](./mcmmo.md)
 
 ### Patrician
 
 #### Commands
 - **/craft**, **/wb**: Access the crafting table menu
-- **/lands**: Land management commands  
+- **/lands**: [Land](./land-claiming.md) management commands  
   - **Subcommands**:  
     - `/lands setspawn`: Sets a custom spawn point (100 Denarii)  
     - `/lands list`: Displays a list of your lands
 - **/list**: Displays online players
 - **/skull**: Obtain your own skull (20,000 Denarii per use)
-- **/whisper**: Sends a private message
+- **/whisper**: Sends a [private message](./messaging.md)
 - **/wild**: Teleports to random unclaimed land
 
 ### Eques

@@ -42,6 +42,8 @@ Supporters at the **Contributor+** tier and higher gain the ability to fly in sp
   - `/tpa {username}`: Requests to teleport to another player.
   - `/tpahere {username}`: Requests another player teleport to you.
   - `/tpaccept`: Accepts teleport requests.
+- At [Champion](../gameplay-features/ranks/mythic-tier/02-champion.md) rank, unlock the `/back` command to instantly teleport back to your previous location.
+
 
 With these tools, you'll find navigating Theatria a breeze. Happy exploring!
 

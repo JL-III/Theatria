@@ -44,6 +44,42 @@ Here’s a list of useful land-related commands:
 
 ---
 
+## Managing Access with the Lands Menu
+
+The Lands menu is a powerful tool for managing access and permissions within your claimed land. Here’s how to use it:
+
+1. Use `/lands menu` to open the land management menu.
+2. Left-click on one of your lands to manage its settings.
+3. Left-click on **Roles** (the bell icon) to manage player permissions.
+
+### Default Roles
+- **Visitor**: General players on the server who stop by to visit. By default, visitors can enter your land but will be prevented from interacting with items, opening chests, and breaking blocks.
+- **Member**: Players who have joined your land. By default, members can place and break blocks, open doors, and more.
+- **Admin**: Players you grant extra permissions to.
+- **Owner**: By default, this is you, and you have full permissions.
+
+To invite a player to join your land, use the `/trust [player name]` command. You can tailor the roles in each land you create. If you need help, ask in chat or on our Discord!
+
+### Adjusting Role Permissions
+1. Click on a role (e.g., Visitor or Member) to open its permissions.
+2. You’ll see options to review **Action Flags** and **Management Flags**.
+
+#### Example: Allowing Members to Open Chests
+- Click on the **Member** role.
+- Select **Action Flags**.
+- Look for the **Open Containers** flag.
+- Click it to toggle between enabled and disabled.
+
+Other action flags control various permissions, such as:
+- Mob spawning
+- Water flow
+- Block breaking and placing
+- Many other actions
+
+Customize these settings to ensure your land is secure while giving trusted players the right level of access.
+
+---
+
 ## Special Features for Higher Ranks
 
 Some ranks allow you to create multiple land claims! If your rank supports this, you can create a second land by using the following command:
@@ -55,3 +91,4 @@ For more information about ranks and their benefits, check out the [Ranks](../ra
 ---
 
 [Gameplay Features](./README.md)
+
