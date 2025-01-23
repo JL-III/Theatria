@@ -51,6 +51,5 @@ Currently, Theatria supports only the Java Edition of Minecraft. Bedrock and Con
 ## Additional Resources
 
 - [Getting Started](./getting-started.md)
-- [FAQs](./faqs.md)
-- [Meet the Staff](./staff/README.md)
+- [Theatria Staff](./staff/README.md)
 - [Rules & Policies](../rules-policies/)

@@ -34,5 +34,5 @@ The Social Media Manager is responsible for developing and implementing a compre
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)

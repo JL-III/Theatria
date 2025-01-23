@@ -39,5 +39,5 @@ The **Server Builder** is responsible for designing, constructing, and maintaini
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)

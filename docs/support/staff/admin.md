@@ -41,5 +41,5 @@ By fulfilling these responsibilities, Admins play a pivotal role in the success 
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)

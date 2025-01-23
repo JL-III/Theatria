@@ -28,7 +28,6 @@ By working together, the staff team ensures that Theatria remains a thriving and
 
 ## Support Articles
 
-- [Getting Started](./getting-started.md)
-- [FAQs](./faqs.md)
-- [Staff](./staff/README.md)
-- [Rules & Policies](../rules-policies/)
+- [Getting Started](../getting-started.md)
+- [FAQs](../faqs.md)
+- [Rules & Policies](../../rules-policies/README.md)

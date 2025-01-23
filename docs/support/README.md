@@ -9,9 +9,11 @@ Need help? Here are some options:
   - Open a [Staff Support Ticket](https://discord.gg/CXBvcvCT) if your issue requires staff assistance.
 - **Email**: If you need assistance and cannot access Discord, you can email us at -> playtheatria@venture23.net
 
-## Support Articles
+---
+
+### Related articles
 
 - [Getting Started](./getting-started.md)
 - [FAQs](./faqs.md)
-- [Staff](./staff/README.md)
+- [Theatria Staff](./staff/README.md)
 - [Rules & Policies](../rules-policies/)

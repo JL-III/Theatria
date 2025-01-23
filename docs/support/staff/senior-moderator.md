@@ -43,5 +43,5 @@ By taking on these additional responsibilities, Senior Moderators play a vital r
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)

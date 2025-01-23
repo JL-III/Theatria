@@ -59,6 +59,8 @@ Enjoy your adventure in Theatria! We’re excited to have you join our community
 
 ---
 
-[Support](./README.md)
-[FAQs](./faqs.md)
-[Theatria Staff](./staff/README.md)
+### Related articles
+
+- [Support](./README.md)
+- [FAQs](./faqs.md)
+- [Theatria Staff](./staff/README.md)

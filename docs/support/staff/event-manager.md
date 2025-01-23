@@ -35,5 +35,5 @@ The Event Manager is responsible for the planning, organization, and execution o
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)

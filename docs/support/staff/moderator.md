@@ -44,5 +44,5 @@ By fulfilling these responsibilities, Moderators contribute to creating a positi
 
 ---
 
-[Theatria Staff](./README.md)
-[Support](../README.md)
+- [Theatria Staff](./README.md)
+- [Support](../README.md)
