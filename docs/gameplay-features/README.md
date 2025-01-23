@@ -17,3 +17,4 @@ Theatria has a unique collection of systems and mechanics that help shape our co
 - **[mcMMO](./mcmmo.md):** Skill leveling, special abilities, and rare loot!
 - **[Custom Mob Rules](./mob-rules.md):** Where have all the Phantoms gone?
 - **[Mob Stacking](./mob-stacking.md):** Mobs stack in the Mining world.
+- **[Kits](./kits.md):** Special packages of items delivered to your inventory.

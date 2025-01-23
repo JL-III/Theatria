@@ -19,3 +19,7 @@ To learn more about a specific skill, type `/[skillname]`. For example, `/mining
 For more detailed information, visit the official mcMMO wiki: [mcMMO Wiki](https://mcmmo.fandom.com/wiki/McMMO_Wiki)
 
 mcMMO enhances the multiplayer experience by adding depth and progression to everyday activities. Whether you're mining, fighting, or exploring, mcMMO rewards your efforts!
+
+---
+
+[Gameplay Features](./README.md)

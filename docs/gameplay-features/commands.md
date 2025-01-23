@@ -11,41 +11,41 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/ajp list`: Players playing parkour  
     - `/ajp top`: Shows the 10 players with the most jumps
 - **/assign {area} confirm**: Assign selection to area
-- **/balance**, **/bal**: Displays your current balance
+- **/balance**, **/bal**: Displays your current [balance](./economy/README.md)
 - **/balancetop**, **/baltop**: Lists players by top balances
 - **/boost**: Shows if a McMMO Boost is active and its remaining duration
-- **/buddy**: Manage buddy system  
+- **/buddy**: Manage [buddy system](./economy/buddy-bonus.md)  
   - **Subcommands**:  
     - `/buddy add {name}`: Sends a buddy request to someone  
     - `/buddy accept`: Accepts incoming request  
     - `/buddy remove`: Remove your buddy  
     - `/buddy notify`: Toggle notifications for rewards
-- **/cc**: Opens the crate menu
-- **/ch join {channel name}**: Change chat channels  
+- **/cc**: Opens the [crate](./crate-keys.md) menu
+- **/ch join {channel name}**: Change [chat](./messaging.md) channels  
   - **Subcommands**:  
     - `/ch join Global`: Switch to global chat  
     - `/ch join Local`: Switch to local chat
 - **/cinfo**: Punch a protected block to view information on it
-- **/claim**: Claims the chunk you are in for 1,000 Denarii
+- **/claim**: [Claims](./land-claiming.md) the chunk you are in for 1,000 Denarii
 - **/climits**: View the number of protections you own and are allowed
 - **/cmodify {username}**: Allows a player to use a specific block
 - **/coords**: Shows your coordinates above your hotbar
-- **/crates**: Warps you to `/warp crates`
-- **/csn**: Chest shop help  
+- **/crates**: Warps you to `/warp crates` to redeem [crate keys](./crate-keys.md)
+- **/csn**: [Chest shop](./economy/chest-shops-and-shopdb.md) help  
   - **Subcommands**:  
     - `/csn help`: Displays help page  
     - `/csn history`: Shows your sale history  
     - `/csn clear`: Clears sales history
 - **daily-reward**: Check how close you are to your 1 hour of daily playtime
-- **/delhome**: Removes a set home
+- **/delhome**: Removes a set [home](../getting-around/homes.md)
 - **/discord**: Provides the Discord link  
   - **Subcommands**:  
     - `/discord help`: Displays help page  
     - `/discord link`: Instructions for linking your Minecraft account with Discord  
     - `/discord linked`: Displays link status  
     - `/discord unlink`: Unlink your Discord account
-- **/disown**: Disown an owned item
-- **/dynmap**: Provides the Dynmap link
+- **/disown**: Disown an [owned item](./item-owning.md)
+- **/dynmap**: Provides the [Dynmap link](../getting-around/map.md)
 - **/exp**: Displays your experience points
 - **/help {page}**: Provides help categories  
   - **Subcommands**:  
@@ -70,7 +70,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 - **/mcrank**: Displays your McMMO rank
 - **/mcstats**: Displays your McMMO stats
 - **/msg {username}**: Sends a private message
-- **/own**: Owns an item if unclaimed
+- **/own**: [Owns an item](./item-owning.md) if unclaimed
 - **/tpdeny**: Rejects teleport requests
 - **/pay {username} {amount}**: Pays another player
 - **/playerweather**: Adjusts your weather
