@@ -17,4 +17,11 @@ Here is a snapshot of the Overworld as of August 26, 2021:
 ### The Overworld
 ![The Ark 8/26/2021](<.gitbook/assets/Capture%20(8).PNG>)
 
-For more information about gameplay features, visit our [main wiki page](https://docs.playtheatria.com/).
+---
+
+### Related articles
+
+- [Getting Around](./README.md)
+- [Homes](./homes.md)
+- [Warps](./warps.md)
+- [/tpa command](./tpa.md)

@@ -24,6 +24,9 @@ Flying is a special perk unlocked at the Contributor+ [supporter rank](../gamepl
 ### What are the numbers I see above some mobs in the Mining world?
 Those numbers represent a stack of mobs! Theatria uses a [mob stacking](../gameplay-features/mob-stacking.md) plugin to optimize performance and reduce lag by grouping mobs together.
 
+### Help! I'm stuck somewhere in game and can't escape!
+Never fear! Use one of your saved [Homes](../getting-around/homes.md), a [Warp](../getting-around//warps.md), sending a [/tpa request](../getting-around/tpa.md) to another player, or try the command `/unstuck`.
+
 ---
 
 ## Technical Questions

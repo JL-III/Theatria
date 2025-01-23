@@ -1,6 +1,0 @@
-
-
-
----
-
-[Gameplay Features](./README.md)
