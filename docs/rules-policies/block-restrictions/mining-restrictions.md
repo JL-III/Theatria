@@ -80,4 +80,4 @@ The mining world is meant for gathering resources and mob hunting, not for build
 
 ---
 
-[Rules & Policies](../README.md)
+<!-- [Rules & Policies](../README.md) -->
