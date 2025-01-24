@@ -5,7 +5,7 @@
   * [⚖️ Rules](rules-policies/rules.md)
   * [🏪 Market Shop Rules](rules-policies/market-shop-rules.md)
   * [🚫 Block Restrictions](rules-policies/block-restrictions/README.md)
-    * [🚫 The\_Ark](rules-policies/block-restrictions/the-ark-restrictions.md)
+    * [🚫 The_Ark](rules-policies/block-restrictions/the-ark-restrictions.md)
     * [🚫 Mining](rules-policies/block-restrictions/mining-restrictions.md)
     * [🚫 Nether](rules-policies/block-restrictions/nether-restrictions.md)
     * [🚫 End](rules-policies/block-restrictions/the-end-restrictions.md)
