@@ -49,4 +49,4 @@ The Nether is intended for resource gathering and mob hunting. Building and auto
 
 ---
 
-<!-- [Rules & Policies](../README.md) -->
+[Rules & Policies](../README.md)
