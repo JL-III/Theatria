@@ -22,6 +22,6 @@ By adhering to these guidelines and expectations, staff members can ensure a fai
 
 ### Related Articles
 
-<!-- - [Rules & Policies](../README.md) -->
+- [Rules & Policies](../README.md)
 - [Theatria Staff](../support/staff/README.md)
 - [Support](../support/README.md)
