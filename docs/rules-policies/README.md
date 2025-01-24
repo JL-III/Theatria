@@ -1,6 +1,6 @@
 # Theatria Governance
 
-## Rules
+<!-- ## Rules
 - **[Theatria Rules](rules/README.md)**, guidance for all players.
     - **[Automation Rule, in-depth](rules/automation-rule-in-depth.md)**
     - **[Hacks & Mods Rule, in-depth](rules/hacks-mods-rule-in-depth.md)**
@@ -13,4 +13,4 @@
 - **[Ban Appeals](ban-appeals/README.md)**
 - **[Ban Appeal Review Guidelines for Staff](ban-appeals/ban-appeal-review-guidelines.md)**
 - **[Banned Player Lock Removals](banned-player-lock-removals.md)**
-- **[Bug and Exploit Reward System](bug-and-exploit-reward-system.md)**
+- **[Bug and Exploit Reward System](bug-and-exploit-reward-system.md)** -->
