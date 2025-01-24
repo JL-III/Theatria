@@ -44,19 +44,19 @@ Read on to discover the different ways to obtain The Oracle's Blessing and how t
 
 ### Rank-Based Challenges
 
-- [Heaven Earth Harmony](events-challenges/01-heaven-earth-harmony.md) - Achieved with Demigod rank
-- [Divine Ascension](events-challenges/02-divine-ascension.md) - Awarded with God rank
-- [Olympian Valor](events-challenges/03-olympian-valor.md) - Achieved with Olympian rank
-- [Titan Legacy](events-challenges/04-titan-legacy.md) - Achieved with Titan rank
-- [Immortal Wisdom](events-challenges/05-immortal-wisdom.md) - Achieved with Immortal rank
+- [Heaven Earth Harmony](./01-heaven-earth-harmony.md) - Achieved with Demigod rank
+- [Divine Ascension](./02-divine-ascension.md) - Awarded with God rank
+- [Olympian Valor](./03-olympian-valor.md) - Achieved with Olympian rank
+- [Titan Legacy](./04-titan-legacy.md) - Achieved with Titan rank
+- [Immortal Wisdom](./05-immortal-wisdom.md) - Achieved with Immortal rank
 
 ### Additional Challenges
 
-- [Deep Sea Devotion Tribute](events-challenges/deep-sea-devotion-tribute.md)
-- [Epic Arsenal Tribute](events-challenges/epic-arsenal-tribute.md)
-- [Grinders Glory](events-challenges/grinders-glory.md)
-- [Opulent Offering](events-challenges/opulent-offering.md)
-- [Quartz Hoarders Honor](events-challenges/quartz-hoarders-honor.md)
+- [Deep Sea Devotion Tribute](./deep-sea-devotion-tribute.md)
+- [Epic Arsenal Tribute](./epic-arsenal-tribute.md)
+- [Grinders Glory](./grinders-glory.md)
+- [Opulent Offering](./opulent-offering.md)
+- [Quartz Hoarders Honor](./quartz-hoarders-honor.md)
 
 ---
 
