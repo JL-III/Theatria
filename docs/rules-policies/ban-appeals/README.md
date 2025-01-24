@@ -32,4 +32,4 @@ Please note that all ban appeals are treated seriously, and providing false or i
 
 ---
 
-[Rules & Policies](./README.md)
+[Rules & Policies](../README.md)
