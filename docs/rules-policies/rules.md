@@ -55,4 +55,4 @@ Following these rules helps everyone have a great time on Theatria. Thank you fo
 
 ---
 
-- [Rules & Policies](./README.md)
+- [Rules & Policies](README.md)
