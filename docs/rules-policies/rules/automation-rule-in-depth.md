@@ -30,4 +30,4 @@ Anyone caught automating money-making methods risks severe penalties, including:
 
 ---
 
-[Rules & Policies](./README.md)
+[Rules & Policies](../README.md)

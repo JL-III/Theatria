@@ -47,4 +47,4 @@ If you fail an AFK check (e.g., you are not present at your computer when prompt
 
 ---
 
-[Rules & Policies](./README.md)
+[Rules & Policies](../README.md)
