@@ -8,7 +8,7 @@ Ethereal Items are powerful, one-of-a-kind items that you can purchase using **E
 
    - **Meteorite Barrels**: Rarely, meteorite barrels will include an **Ethereal Fragment** among their treasures.
 
-2. **Collect and Trade**: Accumulate 16 Ethereal Fragments to trade for one Ethereal Item.
+2. **Collect and Trade**: Accumulate 16 Ethereal Fragments then open a stuff support ticket to trade them in for one Ethereal Item.
 
 ## Available Ethereal Items
 
@@ -32,9 +32,9 @@ Trading Ethereal Fragments grants access to the following powerful items:
 
 ### Related Pages
 
-- [Mining World Overview](/gameplay-features/worlds-dimensions#mining-world)
-- [Meteorites](/events-challenges/meteorites.md)
-- [Titan Tools](/gameplay-features/titan-tools/README.md)
+- [Mining World Overview](../worlds-dimensions#mining-world)
+- [Meteorites](../../events-challenges/meteorites.md)
+- [Titan Tools](../titan-tools/README.md)
 
 ---
 
