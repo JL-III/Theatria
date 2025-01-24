@@ -9,7 +9,7 @@
     - [🚫 The_Ark](rules-policies/the-ark-restrictions.md)
     - [🚫 Mining](rules-policies/mining-restrictions.md)
     - [🚫 Nether](rules-policies/nether-restrictions.md)
-    - [🚫 End](rules-policies/end-restrictions.md)
+    - [🚫 End](rules-policies/the-end-restrictions.md)
   - [📬 Ban Appeals](rules-policies/ban-appeals.md)
     - [📬 Ban Appeal Review Guidelines](rules-policies/ban-appeal-review-guidelines.md)
   - [🛠️ Claim Maintenance and Expiration](rules-policies/claim-maintenance-and-expiration.md)
