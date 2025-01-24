@@ -2,7 +2,7 @@
 
 Commands are listed alphabetically. Each entry includes the rank where the command becomes available. We also have a list of all [Commands by Rank](../gameplay-features/commands.md).
 
-- **/acrobatics**: Displays stats for the acrobatics [skill](./mcmmo.md) (Gladiator)
+- **/acrobatics**: Displays stats for the acrobatics [skill](mcmmo.md) (Gladiator)
 - **/ajp**: Parkour commands (Pleb)
   - **Subcommands**:  
     - `/ajp list`: Players playing parkour
