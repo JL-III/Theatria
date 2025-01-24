@@ -22,6 +22,6 @@
 
 ---
 
-| **Previous Rank:** [Patrician](05-patrician.md) | **Next Rank:** [Archon](07-archon.md) |
+| **Previous Rank:** [Patrician](./05-patrician.md) | **Next Rank:** [Archon](./07-archon.md) |
 
 | [All Ranks](../README.md) |

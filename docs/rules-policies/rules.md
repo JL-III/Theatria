@@ -29,11 +29,11 @@ If you are muted or moderated, respect the decision and avoid attempting to bypa
 
 ## 9. Manual Farming Only
 Automated farming methods are not allowed to ensure balanced gameplay.  
-For more details, see: [Automation Rule In-Depth](automation-rule-in-depth.md).  
+For more details, see: [Automation Rule In-Depth](./automation-rule-in-depth.md).  
 
 ## 10. No Hacking
 Hacks or cheats are prohibited as they disrupt the fun for everyone.  
-For more details, see: [Hacks and Mods Rule In-Depth](hacks-mods-rule-in-depth.md).  
+For more details, see: [Hacks and Mods Rule In-Depth](./hacks-mods-rule-in-depth.md).  
 
 ## 11. PVP
 Player killing is not allowed.  
@@ -47,7 +47,7 @@ If you notice a rule violation, PM a staff member with evidence. **DO NOT** disc
 ## 14. Stay Active to Keep Your Claims
 Log in at least once every 180 days to prevent the deletion of your land claims, balance, and homes.  
 We love seeing you around!  
-More details: [Claim Maintenance and Expiration Notice](claim-maintenance-and-expiration-notice.md).  
+More details: [Claim Maintenance and Expiration Notice](./claim-maintenance-and-expiration.md).  
 
 ---
 

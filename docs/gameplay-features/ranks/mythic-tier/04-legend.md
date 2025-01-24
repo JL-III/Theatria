@@ -18,4 +18,4 @@
 
 ---
 
-| **Previous Rank:** [Paragon](03-paragon.md) | **Next Rank:** [Demigod](05-demigod.md) |
+| **Previous Rank:** [Paragon](./03-paragon.md) | **Next Rank:** [Demigod](./05-demigod.md) |

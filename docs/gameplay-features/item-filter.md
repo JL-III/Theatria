@@ -18,7 +18,7 @@ The `/itemfilter` command allows players to manage an item filter, a feature des
 - **/trash**: Discards items from your inventory permanently. Available at rank \*\*Eques\*\*.
 - **/clearinventory**: Clears your entire inventory instantly. Use with caution. Available at rank \*\*Hero\*\*.
 
-For a complete list of commands and their availability, visit the [Commands Page](commands.md).
+For a complete list of commands and their availability, visit the [Commands Page](./all-commands.md/commands.md).
 
 ## Why Use Item Filters?
 

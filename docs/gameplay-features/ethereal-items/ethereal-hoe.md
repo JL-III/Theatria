@@ -1,3 +1,3 @@
 # Ethereal Hoe
 
-![](<../.gitbook/assets/Ethereal Hoe.PNG>)
+![](<../../.gitbook/assets/Ethereal Hoe.PNG>)

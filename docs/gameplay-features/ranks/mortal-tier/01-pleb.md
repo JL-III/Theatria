@@ -20,6 +20,6 @@
 
 ---
 
-| **Next Rank:** [Initiate](02-initiate.md) |
+| **Next Rank:** [Initiate](./02-initiate.md) |
 
 | [All Ranks](../README.md) |

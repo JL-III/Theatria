@@ -22,7 +22,7 @@ Additionally, you must pay a fee of **$10,000,000**.
 4. **Staff verification**: Wait for staff to review and confirm your submission.
 5. **Receive your reward**: Once verified, the Oracle will grant you a 10% boost in `/sell hand` earnings.
 
-For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](../README.md).
+For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](./README.md).
 
 {% hint style="danger" %}
 **⚠️ All items and payment will be removed after verification! Ensure your submission is complete before opening a ticket.**

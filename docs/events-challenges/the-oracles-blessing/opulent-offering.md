@@ -21,7 +21,7 @@ To gain the Oracle's favor through the Opulent Offering, you must sacrifice the 
 4. **Staff verification**: Wait for staff to review and confirm your submission.
 5. **Receive your reward**: Once verified, the Oracle will grant you a 10% boost in `/sell hand` earnings.
 
-For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](../README.md).
+For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](./README.md).
 
 {% hint style="danger" %}
 **⚠️ All items will be removed after verification! Ensure your submission is complete before opening a ticket.**

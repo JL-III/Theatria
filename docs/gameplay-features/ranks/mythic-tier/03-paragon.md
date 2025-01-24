@@ -18,4 +18,4 @@
 
 ---
 
-| **Previous Rank:** [Champion](02-champion.md) | **Next Rank:** [Legend](04-legend.md) |
+| **Previous Rank:** [Champion](./02-champion.md) | **Next Rank:** [Legend](./04-legend.md) |

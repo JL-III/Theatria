@@ -8,7 +8,7 @@ Navigating the world of Theatria is simple and fun, whether you're exploring on 
 - **`/spawn`**: Instantly teleport back to the Welcome Hub, your starting point in Theatria.
 
 ### Land Management
-- **`/claim`**: Claim a chunk of land to protect it from others. Learn more about how to manage land claims on the [Land Claiming](../land-claiming/README.md) page.
+- **`/claim`**: Claim a chunk of land to protect it from others. Learn more about how to manage land claims on the [Land Claiming](../gameplay-features/land-claiming.md) page.
 
 ### Set and Travel to Your Home
 - **`/sethome [name of home]`**: Save your current location as a home. You can assign it a name (e.g., `/sethome base`).
@@ -34,7 +34,7 @@ Supporters at the **Contributor+** tier and higher gain the ability to fly in sp
 - **`/fly`**: Enables flight in **The Ark** and **Mining World**, making exploration and resource gathering more convenient.
 
 ## Tips for Getting Around
-- Explore our [Dynmap](map.md) in your web browser to find biomes, claims, and active players.
+- Explore our [Dynmap](./map.md) in your web browser to find biomes, claims, and active players.
 - Use `/spawn` if you're lost or need a central point to regroup.
 - Set homes at frequently visited locations to save time.
 - Check `/warps` regularly for new community spots.

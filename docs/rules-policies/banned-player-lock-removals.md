@@ -7,7 +7,7 @@ This means they remain protected by the **/seen** rule outlined in [Claim Mainte
 
 ## All Other Bans
 
-Players banned for reasons other than temporary bans have one week to [submit an appeal](ban-appeals.md) before their locks are eligible for removal.
+Players banned for reasons other than temporary bans have one week to [submit an appeal](./ban-appeals.md) before their locks are eligible for removal.
 
 A player's locks cannot be removed during:
 

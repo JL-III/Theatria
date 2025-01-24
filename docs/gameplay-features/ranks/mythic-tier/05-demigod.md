@@ -26,4 +26,4 @@ Apply for this rank on our Discord under **#demigod-application**.
 
 ---
 
-| **Previous Rank:** [Legend](04-legend.md) | **Next Rank:** [God](../divine-tier/01-god.md) |
+| **Previous Rank:** [Legend](./04-legend.md) | **Next Rank:** [God](../divine-tier/01-god.md) |

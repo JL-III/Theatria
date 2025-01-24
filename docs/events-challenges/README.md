@@ -5,7 +5,7 @@ Discover exciting activities and unique opportunities to enhance your gameplay a
 - [The Oracle's Blessing](./the-oracles-blessing/README.md)
 - [Shrine Quests](./shrine-quests.md)
 - [Meteorites](./meteorites.md)
-- [Parkour](./parkour.md)
+- [Parkour](gameplay-features/economy/parkour.md)
 - [Community Events](./community-events.md)
 
 ---

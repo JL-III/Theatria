@@ -16,6 +16,6 @@
 
 ---
 
-| **Previous Rank:** [Eques](06-eques.md) | **Next Rank:** [Hero](../mythic-tier/01-hero.md) |
+| **Previous Rank:** [Eques](./06-eques.md) | **Next Rank:** [Hero](../mythic-tier/01-hero.md) |
 
 | [All Ranks](../README.md) |
