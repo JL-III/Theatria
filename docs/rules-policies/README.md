@@ -8,7 +8,7 @@
 
 ## Policies
 
-- **[Claim Maintenance & Expiration Notice](claim-maintenance-and-expiration-notice.md)**
+- **[Claim Maintenance & Expiration Notice](claim-maintenance-and-expiration.md)**
 - **[Block Restrictions](block-restrictions/README.md)**
 - **[Ban Appeals](ban-appeals/README.md)**
 - **[Ban Appeal Review Guidelines for Staff](ban-appeals/ban-appeal-review-guidelines.md)**
