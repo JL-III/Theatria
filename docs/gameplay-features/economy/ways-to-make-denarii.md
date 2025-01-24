@@ -6,7 +6,7 @@ There are many ways to earn money on Theatria. Whether you're a parkour pro, a q
 
 ## Parkour Challenges
 {% content-ref url="parkour.md" %}
-[Parkour Challenges](../../events-challenges/parkour.md)
+[Parkour Challenges](./parkour.md)
 {% endcontent-ref %}
 
 Test your skills with parkour challenges! Each completed course rewards you. The harder the course, the bigger the payout.
