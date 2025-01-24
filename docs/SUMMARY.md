@@ -8,7 +8,7 @@
   - [🚫 Block Restrictions](rules-policies/block-restrictions/block-restrictions.md)
   - [📬 Ban Appeals](rules-policies/ban-appeals.md)
     - [📬 Ban Appeal Review Guidelines](./ban-appeal-review-guidelines.md)
-  - [🛠️ Claim Maintenance and Expiration](rules-policies/claim-maintenance-and-expiration-notice.md)
+  - [🛠️ Claim Maintenance and Expiration](rules-policies/claim-maintenance-and-expiration.md)
   - [🔓 Banned Player Lock Removals](rules-policies/banned-player-lock-removals.md)
   - [🐞 Bug & Exploit Reward System](rules-policies/bug-and-exploit-reward-system.md)
 - [🎮 Gameplay Features](gameplay-features/README.md)
