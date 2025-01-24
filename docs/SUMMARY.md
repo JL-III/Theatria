@@ -11,7 +11,7 @@
     - [🚫 Nether](rules-policies/block-restrictions/nether-restrictions)
     - [🚫 End](rules-policies/block-restrictions/end-restrictions)
   - [📬 Ban Appeals](rules-policies/ban-appeals.md)
-    - [📬 Ban Appeal Review Guidelines](rules-policies/ban-appeals/ban-appeal-review-guidelines.md)
+    - [📬 Ban Appeal Review Guidelines](rules-policies/ban-appeals.md/ban-appeal-review-guidelines.md)
   - [🛠️ Claim Maintenance and Expiration](rules-policies/claim-maintenance-and-expiration.md)
   - [🔓 Banned Player Lock Removals](rules-policies/banned-player-lock-removals.md)
   - [🐞 Bug & Exploit Reward System](rules-policies/bug-and-exploit-reward-system.md)
