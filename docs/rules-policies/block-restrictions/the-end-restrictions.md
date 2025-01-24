@@ -40,4 +40,4 @@ The End is intended for resource gathering and mob hunting. Building and automat
 
 ---
 
-[Rules & Policies](../README.md)
+<!-- [Rules & Policies](../README.md) -->
