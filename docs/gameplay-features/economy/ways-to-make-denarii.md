@@ -23,8 +23,8 @@ Invite your friends to join Theatria! When your buddy signs up and plays, you bo
 ---
 
 ## Shrine Quests
-{% content-ref url="../../events-challenges/shrine-quests.md" %}
-[Shrine Quests](../../events-challenges/shrine-quests.md)
+{% content-ref url="shrine-quests.md" %}
+[Shrine Quests](./shrine-quests.md)
 {% endcontent-ref %}
 
 Take on daily shrine quests and be rewarded with Denarii!
