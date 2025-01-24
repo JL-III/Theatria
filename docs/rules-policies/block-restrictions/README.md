@@ -27,4 +27,4 @@ The aim of these restrictions is to ensure fair gameplay for all players and to 
 
 ***
 
-[Rules & Policies](../)
+[Rules & Policies](../README.md)

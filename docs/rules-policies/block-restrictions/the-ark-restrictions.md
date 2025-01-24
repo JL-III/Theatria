@@ -20,4 +20,4 @@ The following items and blocks are not permitted in The Ark:
 
 ---
 
-[Rules & Policies](../README.md)
+<!-- [Rules & Policies](../README.md) -->
