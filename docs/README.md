@@ -31,7 +31,6 @@ Theatria is committed to maintaining a respectful and enjoyable environment for 
 
 - **[Discord](https://discord.gg/jYS5rR2HxP):** ⬅️ Our Discord server is the best way to connect with fellow players and staff.
 - **[Instagram](https://www.instagram.com/theatriaofficial/)**
-- **[TikTok](https://www.tiktok.com/@theatria)**
 - **Wiki:** Explore detailed guides, FAQs, and more here on our wiki.
 
 ## Credits
