@@ -8,13 +8,13 @@
 
 ## Policies
 
-- **[Claim Maintenance & Expiration Notice](claim-maintenance-and-expiration.md)**
 - **[Block Restrictions](block-restrictions/README.md)**
     - **[The Ark](block-restrictions/the-ark-restrictions.md)**
     - **[Mining](block-restrictions/mining-restrictions.md)**
     - **[Nether](block-restrictions/nether-restrictions.md)**
     - **[The End](block-restrictions/the-end-restrictions.md)**
 - **[Ban Appeals](ban-appeals/README.md)**
-- **[Ban Appeal Review Guidelines for Staff](ban-appeals/ban-appeal-review-guidelines.md)**
+    - **[Ban Appeal Review Guidelines for Staff](ban-appeals/ban-appeal-review-guidelines.md)**
+- **[Claim Maintenance & Expiration Notice](claim-maintenance-and-expiration.md)**
 - **[Banned Player Lock Removals](banned-player-lock-removals.md)**
 - **[Bug and Exploit Reward System](bug-and-exploit-reward-system.md)**
