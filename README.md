@@ -1,4 +1,5 @@
 # Theatria
+![Screenshot](./screenshot.png)
 
 ## About
 
