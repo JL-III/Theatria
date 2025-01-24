@@ -20,5 +20,4 @@ Failure to follow these rules may result in the **loss of the market shop**, a *
 - [Ways to make Denarii](../gameplay-features/economy/ways-to-make-denarii.md)
 - [Rules & Policies](../rules-policies/README.md)
 
-
-
+[Rules & Policies](../README.md)
