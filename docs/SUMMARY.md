@@ -6,7 +6,7 @@
     - [Hacks & Mods Rule, in-depth](rules-policies/hacks-mods-rule-in-depth.md)
   - [🏪 Market Shop Rules](rules-policies/market-shop-rules.md)
   - [🚫 Block Restrictions](rules-policies/block-restrictions/README.md)
-    - [🚫 The_Ark](rules-policies/the-ark-restrictions.md)
+    - [🚫 The_Ark](rules-policies/block-restrictions/the-ark-restrictions.md)
     - [🚫 Mining](rules-policies/mining-restrictions.md)
     - [🚫 Nether](rules-policies/nether-restrictions.md)
     - [🚫 End](rules-policies/the-end-restrictions.md)
