@@ -14,7 +14,7 @@ The following items and blocks are not permitted in The Ark:
 
 ## Other Block Restrictions, by dimension
 
-- **Mining** [Restrictions](./mining-restrictions.md)
+- **Mining** [Restrictions](mining-restrictions.md)
 - **Nether** [Restrictions](./nether-restrictions.md)
 - **The End** [Restrictions](./the-end-restrictions.md)
 
