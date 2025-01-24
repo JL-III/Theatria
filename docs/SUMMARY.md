@@ -3,7 +3,7 @@
 * [README](README.md)
 * [📜 Rules & Policies](rules-policies/README.md)
   * [⚖️ Rules](rules-policies/rules/README.md)
-  * [🏪 Market Shop Rules](rules-policies/rules/market-shop-rules.md)
+    * [🏪 Market Shop Rules](rules-policies/rules/market-shop-rules.md)
   * [🚫 Block Restrictions](rules-policies/block-restrictions/README.md)
     * [🚫 The_Ark](rules-policies/block-restrictions/the-ark-restrictions.md)
     * [🚫 Mining](rules-policies/block-restrictions/mining-restrictions.md)
