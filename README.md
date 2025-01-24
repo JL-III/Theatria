@@ -2,7 +2,7 @@
 
 ## About
 
-Founded on April 1, 2021. Theatria is a Minecraft server created to provide players with a place they can reliably build and save their creations without worrying about server resets. Theatria's promise is to keep their builds intact, merging the joy of crafting in a shared space and the permanency usually associated with single-player builds. Furthermore, Theatria is anti-pay-to-win and welcomes players of all financial backgrounds, ensuring a fair chance for anyone who wants to join.
+Founded on April 1, 2021, Theatria is a Minecraft server created to provide players with a place they can reliably build and save their creations without worrying about server resets. Theatria's promise is to keep their builds intact, merging the joy of crafting in a shared space and the permanency usually associated with single-player builds. Furthermore, Theatria is anti-pay-to-win and welcomes players of all financial backgrounds, ensuring a fair chance for anyone who wants to join.
 
 ## Features
 
@@ -24,9 +24,6 @@ To join the server, use the following IP in your Minecraft menu: `mc.playtheatri
 
 Theatria has a set of rules for all players to follow. You can find them [here](https://docs.playtheatria.com/rules).
 
-## Changelog
-
-We keep a record of all changes to the server in our changelog, which is updated with every change. Changelogs are organized by the `yyyy-m` format, with each file corresponding to a specific month.
 
 ## Contact
 

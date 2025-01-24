@@ -1,0 +1,177 @@
+# All Commands
+
+Commands are listed alphabetically. Each entry includes the rank where the command becomes available. We also have a list of all [Commands by Rank](../gameplay-features/commands.md).
+
+- **/acrobatics**: Displays stats for the acrobatics [skill](./mcmmo.md) (Gladiator)
+- **/ajp**: Parkour commands (Pleb)
+  - **Subcommands**:  
+    - `/ajp list`: Players playing parkour
+    - `/ajp top`: Shows the 10 players with the most jumps
+- **/anvil**: Access an anvil menu (Hero, free for God)
+- **/archery**: Displays stats for the archery [skill](./mcmmo.md) (Gladiator)
+- **/assign {area} confirm**: Assign selection to area (Pleb)
+- **/axes**: Displays stats for the axes [skill](./mcmmo.md) (Gladiator)
+- **/back**: Returns to your last location (Hero)
+- **/balance**, **/bal**: Displays your current [balance](./economy/README.md) (Pleb) 
+- **/balancetop**, **/baltop**: Lists players by top balances (Pleb)
+- **/boost**: Shows if a McMMO Boost is active and its remaining duration (Pleb)
+- **/buddy**: Manage [buddy system](./economy/buddy-bonus.md) (Pleb)
+  - **Subcommands**:  
+    - `/buddy add {name}`: Sends a buddy request to someone
+    - `/buddy accept`: Accepts incoming request
+    - `/buddy remove`: Remove your buddy
+    - `/buddy notify`: Toggle notifications for rewards
+- **/cc**: Opens the [crate](./crate-keys.md) menu (Pleb)
+- **/ch d**: Access the supporter chat channel (Contributor)
+- **/ch join {channel name}**: Change [chat](./messaging.md) channels (Pleb)
+  - **Subcommands**:  
+    - `/ch join Global`: Switch to global chat
+    - `/ch join Local`: Switch to local chat
+- **/claim**: [Claims](./land-claiming.md) the chunk you are in for 1,000 Denarii (Pleb)
+- **/climits**: View the number of protections you own and are allowed (Pleb)
+- **/clearinventory**: Clears your inventory (Hero)
+- **/cinfo**: Punch a protected block to view information on it (Pleb)
+- **/cmodify {username}**: Allows a player to use a specific block (Pleb)
+- **/condense**, **/cnd**: Condenses items (Demigod, free for God)
+- **/coords**: Shows your coordinates above your hotbar (Pleb)
+- **/craft**, **/wb**: Access the crafting table menu (Patrician)
+- **/crates**: Warps you to `/warp crates` (Pleb)
+- **/csn**: [Chest shop](./economy/chest-shops-and-shopdb.md) help(Pleb)
+  - **Subcommands**:  
+    - `/csn help`: Displays help page
+    - `/csn history`: Shows your sale history
+    - `/csn clear`: Clears sales history
+- **daily-reward**: Check how close you are to your 1 hour of daily playtime (Pleb)
+- **/delhome**: Removes a set [home](../getting-around/homes.md) (Pleb)
+- **/discord**: Provides the Discord link (Pleb)
+  - **Subcommands**:  
+    - `/discord help`: Displays help page
+    - `/discord link`: Instructions for linking your Minecraft account with Discord
+    - `/discord linked`: Displays link status
+    - `/discord unlink`: Unlink your Discord account
+- **/disown**: Disown an [owned item](./item-owning.md) (Pleb)
+- **/dynmap**: Provides the [Dynmap link](../getting-around/map.md) (Pleb)
+- **/enderchest**, **/ec**: Access your Ender Chest from anywhere (Gladiator)
+- **/excavation**: Displays stats for the excavation [skill](./mcmmo.md) (Gladiator)
+- **/exp**: Displays your experience points (Pleb)
+- **/feed**: Restores hunger (Hero)
+- **/fill {type}**: Fills a bucket (Demigod)
+  - **Subcommands**:  
+    - `/fill clear`: Empties the bucket
+    - `/fill water`: Fills with water
+    - `/fill lava`: Fills with lava
+    - `/fill milk`: Fills with milk
+- **/fishing**: Displays stats for the fishing [skill](./mcmmo.md) (Gladiator)
+- **/fix**: Repairs an item (Hero)
+- **/fix all**: Repairs all items (Demigod, free for God)
+- **/fly**: Enables flight in The Ark and mining worlds (Contributor+)
+- **/heal**: Restores health (Hero, reduced cost for Demigod, free for God)
+- **/headdb**, **/hdb**: Opens the head database menu (Gladiator, Supporter+)
+- **/help {page}**: Provides help categories (Pleb)
+- **/herbalism**: Displays stats for the herbalism [skill](./mcmmo.md) (Gladiator)
+- **/home**: Teleports you to your home (Pleb)
+- **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](./itemfilter.md) (Paragon)
+  - **Subcommands**:  
+    - `/itemfilter menu`: Opens the filter menu
+    - `/itemfilter toggle`: Toggles item filters on or off
+    - `/itemfilter reset`: Resets filters
+    - `/itemfilter add`: Adds items to filters
+    - `/itemfilter remove`: Removes items from filters
+- **/itemhistory [toolID]**: Displays item histories (Ultimate)
+- **/itemrename**: Renames items with colors (Supporter, advanced for Ultimate+)
+- **/itemsowned**: Displays owned items (Supporter+)
+- **/jump**: Teleports you forward (God)
+- **/kit**: Displays or obtains [kits](./kits.md) (Pleb)
+- **/lands**: Opens the [Lands](./land-claiming.md) menu (Pleb)
+  - **Subcommands**:  
+    - `/lands create {land-name}`: Costs 5,000 Denarii
+    - `/lands setspawn`: Sets a custom spawn point (Patrician)
+    - `/lands list`: Displays a list of your lands
+- **/leave {land-name}**: Leave a land (Pleb)
+- **/ledger**: Provides a link to the ledger (Pleb)
+- **/list**: Displays online players (Patrician)
+- **/lock**: [Locks](./chest-locks.md) a block (Pleb)
+- **/mail**: Manages in-game [mail](./messaging.md) (Pleb)
+- **/map**: Provides the [Dynmap](../getting-around/map.md) link (Pleb)
+- **/market**: Warps you to `/warp market` (Pleb)
+- **/mcrank**: Displays your McMMO rank (Pleb)
+- **/mcscoreboard**: Manages the McMMO scoreboard (Gladiator)
+  - **Subcommands**:  
+    - `/mcscoreboard clear`: Clears the scoreboard
+    - `/mcscoreboard keep`: Keeps the current scoreboard
+    - `/mcscoreboard time {seconds}`: Clears the scoreboard after the set time
+- **/mcstats**: Displays your McMMO stats (Pleb)
+- **/mctop**: Displays the top 10 McMMO players (Gladiator)
+- **/mining**: Displays stats for the mining [skill](./mcmmo.md) (Gladiator)
+- **/msg {username}**: Sends a private message (Pleb)
+- **/near**: Displays nearby players (Hero)
+- **/nightvision**, **/nv**: Toggles night vision (Champion)
+- **/nickname**: Sets your nickname (Contributor)
+- **/own**: [Owns an item](./item-owning.md) if unclaimed (Pleb)
+- **/pay {username} {amount}**: Pays another player (Pleb)
+- **/playerweather**: Adjusts your weather (Pleb)
+- **/playtime**: Displays your total playtime (Pleb)
+- **/pm**: Sends a private [message](./messaging.md)(Pleb)
+- **/powertool**: Binds multiple actions to a tool (Demigod)
+- **/pv**: Access 15 player vaults (Ultimate)
+- **/r**, **/reply**: Replies to the last [private message](./messaging.md) (Pleb) 
+- **/ranks**: Displays the ranks wiki page (Pleb)
+- **/rankup**: Promotes your rank (Pleb)
+- **/realname**: Displays a player's actual username (Pleb)
+- **/repair**: Displays stats for the repair [skill](./mcmmo.md) (Gladiator)
+- **/rtp**: Teleports randomly (Pleb)
+- **/rules**: Displays the rules wiki page (Pleb)
+- **/seen {username}**: Displays the last logout time of a player (Gladiator)
+- **/sell**: Sells items (Pleb)
+  - **Subcommands**:  
+    - `/sell hand`: Sells the item in your hand
+    - `/sell all`: Sells all sellable items in your inventory
+- **/sethome**: Sets a home at your current location (Pleb)
+- **/shrine**: Opens the [shrine quests](../events-challenges/shrine-quests.md) menu (Pleb)
+- **/shop**: Warps you to `/warp market` (Pleb)
+- **/skull**: Obtain your own skull (Patrician)
+- **/smelt**: Instantly smelt items (God)
+- **/smelting**: Displays stats for the smelting [skill](./mcmmo.md) (Gladiator)
+- **/soak**: Toggles soak mode (God)
+- **/spawn**: Warps you to `/warp spawn` (Pleb)
+- **/stats**: Displays your McMMO stats(Pleb)
+- **/swords**: Displays stats for the swords [skill](./mcmmo.md) (Gladiator)
+- **/tags**: Opens the tags menu (Pleb)
+- **/taming**: Displays stats for the taming [skill](./mcmmo.md) (Gladiator)
+- **/titan pack**: Loads the Theatria resource pack (Pleb)
+- **/tob**: Displays your sell-hand multipliers(Pleb)
+- **/top**: Teleports to the highest point at your location (God)
+- **/tpaccept**: Accepts teleport requests (Pleb)
+- **/tpahere {username}**: Requests another player teleport to you (Pleb)
+- **/tpcoords**: Teleports to specified coordinates (God)
+- **/tpdeny**: Rejects teleport requests (Pleb)
+- **/trash**: Opens the trash menu (Eques)
+- **/trust {username} {area}**: Trusts a player in your land (Pleb)
+- **/unarmed**: Displays stats for the unarmed [skill](./mcmmo.md) (Gladiator)
+- **/unclaim**: Unclaims the chunk you're in (Pleb)
+- **/uncondense**: Reverses condensation (God)
+- **/unlock**: Unlocks [locked](./chest-locks.md) blocks (Pleb)
+- **/unstuck**: Frees you from being stuck (Pleb)
+- **/untrust {username}**: Removes trust from a player (Pleb)
+- **/vanish**: Makes you invisible to players (Ultimate+)
+- **/warp**: Opens the [warp](../getting-around/warps.md) menu (Pleb)
+  - **Subcommands**:  
+    - `/warp {warp name}`: Warps to a specific location
+- **/whereami**: Provides detailed coordinates (Pleb)
+- **/whisper**: Sends a [private message](./messaging.md) (Patrician)
+- **/wild**: Teleports to random unclaimed land (Patrician)
+- **/wiki**: Displays the wiki link (Pleb)
+- **/woodcutting**: Displays stats for the woodcutting [skill](./mcmmo.md) (Gladiator)
+- **/worth**: Displays the [sell value](../gameplay-features/economy/sell-hand.md) of items (Pleb)
+  - **Subcommands**:  
+    - `/worth {item}`: Displays the sell value of a specific item
+    - `/worth inventory`: Displays the sell value of your inventory
+
+## Learn more about Player Ranks
+- [Player Ranks](../gameplay-features/ranks/README.md)
+## Learn more about Support Ranks
+- [Support Ranks](../gameplay-features/feature-shop.md)
+
+---
+
+[Gameplay Features](./README.md)
