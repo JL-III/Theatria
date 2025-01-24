@@ -11,7 +11,7 @@ To gain the Oracle's favor through the Grinder's Glory challenge, you must achie
 
 Check your progress using the command **/mcstats**.
 
-![MCMMO Stats](<../.gitbook/assets/image (7).png>)
+![MCMMO Stats](<../../.gitbook/assets/image (7).png>)
 
 ## Submission Guidelines
 
@@ -20,7 +20,7 @@ Check your progress using the command **/mcstats**.
 3. **Staff verification**: Our staff will review your MCMMO stats to confirm you have achieved the required milestones.
 4. **Receive your reward**: After verification, the Oracle will grant you a 10% boost in `/sell hand` earnings.
 
-For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](../README.md).
+For more information about submission requirements and other blessings, visit the [Oracle's Blessings main page](./README.md).
 
 {% hint style="info" %}
 **Tip**: Focus on leveling complementary skills to efficiently reach the required Power Level.
