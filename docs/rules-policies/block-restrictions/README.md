@@ -20,11 +20,10 @@ The aim of these restrictions is to ensure fair gameplay for all players and to 
 
 ## Block Restrictions, by dimension
 
-* **The Ark** [Restrictions](rules-policies/block-restrictions/the-ark-restrictions.md)
 * [the-ark-restrictions.md](the-ark-restrictions.md "mention")
-* **Mining** [Restrictions](mining-restrictions.md)
-* **Nether** [Restrictions](nether-restrictions.md)
-* **The End** [Restrictions](the-end-restrictions.md)
+* [mining-restrictions.md](mining-restrictions.md "mention")
+* [nether-restrictions.md](nether-restrictions.md "mention")
+* [the-end-restrictions.md](the-end-restrictions.md "mention")
 
 ***
 
