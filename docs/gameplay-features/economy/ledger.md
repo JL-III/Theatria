@@ -24,11 +24,11 @@ Due to limitations in current economy plugins, transaction causes are simplified
 
 ### Example Player Chart
 
-![Example of a player chart](<../.gitbook/assets/image (2).png>)
+![Example of a player chart](<../../.gitbook/assets/image (2).png>)
 
 ### Example Player Transactions
 
-![Example of player transactions](<../.gitbook/assets/image (8).png>)
+![Example of player transactions](<../../.gitbook/assets/image (8).png>)
 
 ---
 
