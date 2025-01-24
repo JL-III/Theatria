@@ -4,8 +4,8 @@ Explore the world of Theatria with our interactive online map, the **[Dynmap](ht
 
 ## Features
 - **Live Updates:** See player locations, structures, and terrain in real time.
-- **Dimension Views:** To change your dimension view, hover your mouse on the right-hand side of the map. A tab will pop up, allowing you to select a world. Learn more about our [Worlds & Dimensions](worlds-dimensions.md)
-- **Claimed Chunks:** Chunks that have been claimed are highlighted and display which player has claimed them. Learn more about claiming at [Land Claims](land-claims.md).
+- **Dimension Views:** To change your dimension view, hover your mouse on the right-hand side of the map. A tab will pop up, allowing you to select a world. Learn more about our [Worlds & Dimensions](../gameplay-features/worlds-dimensions.md)
+- **Claimed Chunks:** Chunks that have been claimed are highlighted and display which player has claimed them. Learn more about claiming at [Land Claims](../gameplay-features/land-claiming.md).
 - **Zoom & Pan:** Navigate the map with ease to explore areas of interest.
 
 ## Quick Links
@@ -15,7 +15,7 @@ Explore the world of Theatria with our interactive online map, the **[Dynmap](ht
 Here is a snapshot of the Overworld as of August 26, 2021:
 
 ### The Overworld
-![The Ark 8/26/2021](<.gitbook/assets/Capture%20(8).PNG>)
+![The Ark 8/26/2021](<../.gitbook/assets/Capture%20(8).PNG>)
 
 ---
 
