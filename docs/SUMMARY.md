@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [📜 Rules & Policies](rules-policies/rules.md)
+* [📜 Rules & Policies](rules-policies/README.md)
   * [⚖️ Rules](rules-policies/rules.md)
   * [🏪 Market Shop Rules](rules-policies/market-shop-rules.md)
   * [🚫 Block Restrictions](rules-policies/block-restrictions/README.md)
