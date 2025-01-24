@@ -25,7 +25,7 @@ Welcome to Theatria! If you're new to the server, here's how to begin your adven
 
 ## Rules & Policies
 
-Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](./rules-policies/README.md) to ensure compliance.
+Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](rules-policies/README.md) to ensure compliance.
 
 ## Our Online Community 
 
