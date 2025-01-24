@@ -18,7 +18,7 @@ Claiming land is an important feature on Theatria, allowing you to secure your b
 **Important Notes:**
 - Claims are limited by [ranks](./ranks/README.md). To increase your claim limit, you can rank up!
 - The initial cost per chunk is **$5000**.
-- You can earn money through various activities detailed in the [Economy](../economy/README.md) section of the wiki.
+- You can earn money through various activities detailed in the [Economy](./economy/README.md) section of the wiki.
 
 ---
 
@@ -86,7 +86,7 @@ Some ranks allow you to create multiple land claims! If your rank supports this,
 
 `/lands create [name]`
 
-For more information about ranks and their benefits, check out the [Ranks](../ranks/README.md) page.
+For more information about ranks and their benefits, check out the [Ranks](./ranks/README.md) page.
 
 ---
 
