@@ -13,6 +13,6 @@
 
 ---
 
-| **Previous Rank:** [Initiate](02-initiate.md) | **Next Rank:** [Gladiator](04-gladiator.md) |
+| **Previous Rank:** [Initiate](./02-initiate.md) | **Next Rank:** [Gladiator](./04-gladiator.md) |
 
 | [All Ranks](../README.md) |

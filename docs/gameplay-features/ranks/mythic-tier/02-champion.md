@@ -18,4 +18,4 @@
 
 ---
 
-| **Previous Rank:** [Hero](01-hero.md) | **Next Rank:** [Paragon](03-paragon.md) |
+| **Previous Rank:** [Hero](./01-hero.md) | **Next Rank:** [Paragon](./03-paragon.md) |

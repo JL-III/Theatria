@@ -24,6 +24,6 @@ Apply for this rank on our Discord under **#immortal-application**.
 
 ---
 
-| **Previous Rank:** [Titan](03-titan.md) | |
+| **Previous Rank:** [Titan](./03-titan.md) | |
 
 | [All Ranks](../README.md) |

@@ -22,6 +22,6 @@
 
 ---
 
-| **Previous Rank:** [Gladiator](04-gladiator.md) | **Next Rank:** [Eques](06-eques.md) |
+| **Previous Rank:** [Gladiator](./04-gladiator.md) | **Next Rank:** [Eques](./06-eques.md) |
 
 | [All Ranks](../README.md) |

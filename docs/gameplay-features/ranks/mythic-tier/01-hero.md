@@ -24,4 +24,4 @@
 
 ---
 
-| **Previous Rank:** [Archon](../mortal-tier/07-archon.md) | **Next Rank:** [Champion](02-champion.md) |
+| **Previous Rank:** [Archon](../mortal-tier/07-archon.md) | **Next Rank:** [Champion](./02-champion.md) |

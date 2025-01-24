@@ -24,6 +24,6 @@ Apply for this rank on our Discord under **#titan-application**.
 
 ---
 
-| **Previous Rank:** [Olympian](02-olympian.md) | **Next Rank:** [Immortal](04-immortal.md) |
+| **Previous Rank:** [Olympian](./02-olympian.md) | **Next Rank:** [Immortal](./04-immortal.md) |
 
 | [All Ranks](../README.md) |

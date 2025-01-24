@@ -22,6 +22,6 @@
 
 ---
 
-| **Previous Rank:** [Novice](03-novice.md) | **Next Rank:** [Patrician](05-patrician.md) |
+| **Previous Rank:** [Novice](./03-novice.md) | **Next Rank:** [Patrician](./05-patrician.md) |
 
 | [All Ranks](../README.md) |

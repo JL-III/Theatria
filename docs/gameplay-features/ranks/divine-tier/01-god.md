@@ -30,6 +30,6 @@ Apply for this rank on our Discord under **#god-application**.
 
 ---
 
-| **Previous Rank:** [Demigod](../mythic-tier/05-demigod.md) | **Next Rank:** [Olympian](02-olympian.md) |
+| **Previous Rank:** [Demigod](../mythic-tier/05-demigod.md) | **Next Rank:** [Olympian](./02-olympian.md) |
 
 | [All Ranks](../README.md) |

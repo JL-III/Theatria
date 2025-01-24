@@ -27,6 +27,6 @@ Apply for this rank on our Discord under **#olympian-application**.
 
 ---
 
-| **Previous Rank:** [God](01-god.md) | **Next Rank:** [Titan](03-titan.md) |
+| **Previous Rank:** [God](./01-god.md) | **Next Rank:** [Titan](./03-titan.md) |
 
 | [All Ranks](../README.md) |

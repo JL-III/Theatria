@@ -13,6 +13,6 @@
 
 ---
 
-| **Previous Rank:** [Pleb](01-pleb.md) | **Next Rank:** [Novice](03-novice.md) |
+| **Previous Rank:** [Pleb](./01-pleb.md) | **Next Rank:** [Novice](./03-novice.md) |
 
 | [All Ranks](../README.md) |
