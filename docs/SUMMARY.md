@@ -32,6 +32,7 @@
     - [🖐️ Sell Hand](gameplay-features/economy/sell-hand.md)
     - [💵 Ways to Make Denarii](gameplay-features/economy/ways-to-make-denarii.md)
   - [✨ Ethereal Items](gameplay-features/ethereal-items/README.md)
+    - [Ethereal Fragments](gameplay-features/ethereal-items/ethereal-fragments.md)
   - [🛒 Feature Shop](gameplay-features/feature-shop.md)
   - [🛠️ Item Filter](gameplay-features/item-filter.md)
   - [Item Owning](gameplay-features/item-owning.md)
