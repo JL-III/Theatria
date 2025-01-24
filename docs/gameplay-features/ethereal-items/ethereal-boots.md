@@ -1,3 +1,3 @@
 # Ethereal Boots
 
-![](<../.gitbook/assets/Ethereal boots.PNG>)
+![](<../../.gitbook/assets/Ethereal boots.PNG>)

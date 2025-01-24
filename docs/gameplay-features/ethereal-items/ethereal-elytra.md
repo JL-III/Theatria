@@ -1,3 +1,3 @@
 # Ethereal Elytra
 
-![](<../.gitbook/assets/Ethereal Elytra.PNG>)
+![](<../../.gitbook/assets/Ethereal Elytra.PNG>)
