@@ -1,5 +1,5 @@
 ### Mortal Tier
-- [Pleb](01-pleb.md)
+<!-- - [Pleb](01-pleb.md)
 - [Initiate](02-initiate.md)
 - [Novice](03-novice.md)
 - [Gladiator](04-gladiator.md)
@@ -11,4 +11,4 @@
 
 |[Next tier](../mythic-tier/README.md)|
 
-| [All Ranks](../README.md) |
+| [All Ranks](../README.md) | -->
