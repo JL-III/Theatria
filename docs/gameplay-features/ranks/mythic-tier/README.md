@@ -7,6 +7,6 @@
 
 ---
 
-|[Previous tier](../mortal-tier/README.md)|[Next tier](../divine-tier/README.md)|
+| [Previous tier](../mortal-tier/README.md) | [Next tier](../divine-tier/README.md) |
 
-<!-- | [All Ranks](../README.md) | -->
+| [All Ranks](../README.md) |
