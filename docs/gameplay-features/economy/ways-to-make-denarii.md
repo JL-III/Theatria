@@ -20,14 +20,14 @@ Test your skills with parkour challenges! Each completed course rewards you. The
 
 Invite your friends to join Theatria! When your buddy signs up and plays, you both receive bonus rewards. It's a win-win for everyone.
 
----
+<!-- ---
 
 ## Shrine Quests
 {% content-ref url="shrine-quests.md" %}
-<!-- [Shrine Quests](./shrine-quests.md) -->
+[Shrine Quests](./shrine-quests.md)
 {% endcontent-ref %}
 
-Take on daily shrine quests and be rewarded with Denarii!
+Take on daily shrine quests and be rewarded with Denarii! -->
 
 ---
 
