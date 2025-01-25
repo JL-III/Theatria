@@ -26,7 +26,7 @@ To ensure everyone has a great time, please follow our community guidelines:
 - **Keep chat friendly**: Avoid offensive language and spam.
 - **Play fair**: No cheating, exploiting, or using unauthorized mods.
 
-You can view the full rules on our [Rules Page](../rules-policies/rules.md).
+You can view the full rules on our [Rules Page](../rules-policies/rules/README.md).
 
 ---
 
