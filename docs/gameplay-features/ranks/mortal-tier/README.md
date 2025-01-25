@@ -9,6 +9,6 @@
 
 ---
 
-|[Next tier](../mythic-tier/README.md)|
+| [Next tier](../mythic-tier/README.md) |
 
 | [All Ranks](../README.md) |
