@@ -159,7 +159,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
     - `/warp {warp name}`: Warps to a specific location
 - **/whereami**: Provides detailed coordinates (Pleb)
 - **/whisper**: Sends a [private message](./messaging.md) (Patrician)
-- **/wild**: Teleports to random unclaimed land (Patrician)
+- **/wild**: Teleports to random unclaimed land (Pleb)
 - **/wiki**: Displays the wiki link (Pleb)
 - **/woodcutting**: Displays stats for the woodcutting [skill](./mcmmo.md) (Gladiator)
 - **/worth**: Displays the [sell value](../gameplay-features/economy/sell-hand.md) of items (Pleb)

@@ -107,6 +107,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/warp {warp name}`: Warps to a specific location
 - **/whereami**: Provides detailed coordinates
 - **/wiki**: Displays the wiki link
+- **/wild**: Teleports to random unclaimed land
 - **/worth**: Displays the [sell value](../gameplay-features/economy/sell-hand.md) of items  
   - **Subcommands**:  
     - `/worth {item}`: Displays the sell value of a specific item  
@@ -161,7 +162,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 - **/list**: Displays online players
 - **/skull**: Obtain your own skull (20,000 Denarii per use)
 - **/whisper**: Sends a [private message](./messaging.md)
-- **/wild**: Teleports to random unclaimed land
 
 ### Eques
 
