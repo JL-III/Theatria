@@ -31,6 +31,7 @@
     * [🛒 Player Markets](gameplay-features/economy/player-markets.md)
     * [⏳ Playtime Rewards](gameplay-features/economy/playtime-rewards.md)
     * [🖐️ Sell Hand](gameplay-features/economy/sell-hand.md)
+    * [Shrine Quests](gameplay-features/economy/shrine-quests.md)
     * [💵 Ways to Make Denarii](gameplay-features/economy/ways-to-make-denarii.md)
   * [✨ Ethereal Items](gameplay-features/ethereal-items/README.md)
     * [Ethereal Fragments](gameplay-features/ethereal-items/ethereal-fragments.md)
