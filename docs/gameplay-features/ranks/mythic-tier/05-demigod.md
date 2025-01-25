@@ -9,7 +9,7 @@ Apply for this rank on our Discord under **#demigod-application**.
 **As a Demigod, ascend to divine heights with these unparalleled perks:**
 
 ### 🔹 Unlock More Commands
-- [View the list of new Demigod commands here.](../../../gameplay-features/commands#demigod)
+- [View the list of new Demigod commands here.](../../commands.md#demigod)
 
 ### 🔹 Create More Lands
 - **Create up to 15 lands**, cementing your status as a master builder and leader.

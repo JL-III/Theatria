@@ -5,7 +5,7 @@
 **As an Eques, enjoy these enhanced privileges:**
 
 ### 🔹 New Commands
-- [View the list of new Eques commands here.](../../../gameplay-features/commands#eques)
+- [View the list of new Eques commands here.](../../commands.md#eques)
 
 ### 🔹 Create More Lands
 - **Create up to 5 lands** to establish even greater control over your domain.

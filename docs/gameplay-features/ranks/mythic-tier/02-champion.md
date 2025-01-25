@@ -5,7 +5,7 @@
 **As a Champion, enjoy these top-tier perks:**
 
 ### 🔹 Unlock More Commands
-- [View the list of new Champion commands here.](../../../gameplay-features/commands#champion)
+- [View the list of new Champion commands here.](../../commands.md#champion)
 
 ### 🔹 Create More Lands
 - **Create up to 12 lands**, offering unmatched control over your territories.

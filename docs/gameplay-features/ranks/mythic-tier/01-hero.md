@@ -5,7 +5,7 @@
 **As a Hero, ascend to greatness with these powerful benefits:**
 
 ### 🔹 Unlock More Commands
-- [View the list of new Hero commands here.](../../../gameplay-features/commands#hero)
+- [View the list of new Hero commands here.](../../commands.md#hero)
 
 ### 🔹 Create More Lands
 - **Create up to 11 lands** to expand your influence to unparalleled levels.

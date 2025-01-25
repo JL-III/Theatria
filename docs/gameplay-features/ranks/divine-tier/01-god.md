@@ -9,7 +9,7 @@ Apply for this rank on our Discord under **#god-application**.
 {% endhint %}
 
 ### 🔹 New Commands
-- [View the full list of God commands here.](../../../gameplay-features/commands#god)
+- [View the full list of God commands here.](../../commands.md#god)
 
 ### 🔹 Special Kit
 - Unlock the ultimate **Spawner Kit**:

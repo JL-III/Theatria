@@ -3,7 +3,7 @@
 **As a Pleb, enjoy these privileges:**
 
 ### 🔹 Commands
-- [View the full list of Pleb commands here.](../../../gameplay-features/commands#pleb)
+- [View the full list of Pleb commands here.](../../commands.md#pleb)
 
 ### 🔹 Claim Up to 25 Chunks
 - Begin building your empire one block at a time!

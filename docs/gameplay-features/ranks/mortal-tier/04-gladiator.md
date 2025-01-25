@@ -5,7 +5,7 @@
 **As a Gladiator, unlock these impressive perks:**
 
 ### 🔹 New Commands
-- [View the list of new Gladiator commands here.](../../../gameplay-features/commands#gladiator)
+- [View the list of new Gladiator commands here.](../../commands.md#gladiator)
 
 ### 🔹 Create Multiple Lands
 - **Create up to 2 lands** to expand your empire and manage your territories more effectively.

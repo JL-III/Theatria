@@ -5,7 +5,7 @@
 **As a Patrician, enjoy these exceptional benefits:**
 
 ### 🔹 New Commands
-- [View the list of new Patrician commands here.](../../../gameplay-features/commands#patrician)
+- [View the list of new Patrician commands here.](../../commands.md#patrician)
 
 ### 🔹 Create Multiple Lands
 - **Create up to 3 lands** to expand your control and influence.

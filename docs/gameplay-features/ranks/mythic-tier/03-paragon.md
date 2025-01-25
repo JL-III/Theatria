@@ -5,7 +5,7 @@
 **As a Paragon, rise to new heights with these incredible benefits:**
 
 ### 🔹 Unlock More Commands
-- [View the list of new Paragon commands here.](../../../gameplay-features/commands#paragon)
+- [View the list of new Paragon commands here.](../../commands.md#paragon)
 
 ### 🔹 Create More Lands
 - **Create up to 13 lands**, giving you unprecedented control over your territories.
