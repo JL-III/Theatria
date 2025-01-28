@@ -50,7 +50,10 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
     - `/discord linked`: Displays link status
     - `/discord unlink`: Unlink your Discord account
 - **/disown**: Disown an [owned item](./item-owning.md) (Pleb)
-- **/dynmap**: Provides the [Dynmap link](../getting-around/map.md) (Pleb)
+**/dynmap**: [Dynmap](../getting-around/map.md) (Pleb)
+ - **Subcommands**:
+  - `/dynmap hide`: Hides your player on map
+  - `/dynmap show`: Shows your player on map
 - **/enderchest**, **/ec**: Access your Ender Chest from anywhere (Gladiator)
 - **/excavation**: Displays stats for the excavation [skill](./mcmmo.md) (Gladiator)
 - **/exp**: Displays your experience points (Pleb)
