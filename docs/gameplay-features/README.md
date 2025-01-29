@@ -3,7 +3,7 @@
 Theatria has a unique collection of systems and mechanics that help shape our community and gameplay.
 
 - **[Worlds & Dimensions](./worlds-dimensions.md):** Explore our unique worlds and dimensions.
-- **[Commands by Rank](./all-commands/commands.md):** Master essential commands. List of [all commands](./all-commands.md) in alphabetical order.
+- **[Commands by Rank](../gameplay-features/commands.md):** Master essential commands. List of [all commands](./all-commands.md) in alphabetical order.
 - **[Ranks](./ranks/README.md):** Learn about ranks and perks.
 - **[Economy](./economy/README.md):** Denarii and [ways to earn it](./economy/ways-to-make-denarii.md).
 - **[Land Claiming](../gameplay-features/land-claiming.md):** Protect your builds and manage claims.

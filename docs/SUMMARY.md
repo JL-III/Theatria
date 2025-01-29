@@ -101,4 +101,4 @@
     * [🧑‍💻 Social Media Manager](support/staff/social-media-manager.md)
     * [🧑‍💻 Event Manager](support/staff/event-manager.md)
     * [🧑‍💻 Server Builder](support/staff/server-builder.md)
-  * [🚀 Starter Guide](support/starter-guide.md)
+  * [🚀 Starter Guide](support/getting-started.md)

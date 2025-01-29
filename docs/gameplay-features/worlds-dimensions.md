@@ -8,7 +8,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
 - **Purpose**: This is the main world where players can build their home base, set up shops, and create lasting memories.
 - **Key Features**:
   - **Never Resets**: Your creations are permanent here.
-  - **Land Claims**: Protect your builds by [claiming land](./land-claiming.md).
+  - **Land Claims**: Protect your builds by [claiming land](land-claiming.md).
   - **Player Shops**: Set up and manage shops to trade with others.
 
 ## Mining World

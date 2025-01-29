@@ -14,7 +14,7 @@ Shrine Quests are daily tasks that consist of two distinct parts:
 1. **Action Phase:** Engage in activities like mining, fishing, or chopping wood in the `/warp mining` world.
 2. **Delivery Phase:** Return resources obtained during the action phase to the Oracle's shrine at `/warp shrine` in The Ark.
 
-For help navigating these areas, refer to the [**Getting Around**](../getting-around/README.md) section of the wiki.
+For help navigating these areas, refer to the [**Getting Around**](../../getting-around/README.md) section of the wiki.
 
 ## Starting a Shrine Quest
 
@@ -40,7 +40,7 @@ To complete a Shrine Quest:
 1. Finish the action phase in the `/warp mining` world as described in your quest.
 2. Deliver the required item(s) to the Oracle's shrine at `/warp shrine` in The Ark.
 
-**Note:** The shrine will only accept items after the action phase is completed. For help navigating, check out the [**Getting Around**](../getting-around/README.md) section of the wiki.
+**Note:** The shrine will only accept items after the action phase is completed. For help navigating, check out the [**Getting Around**](../../getting-around/README.md) section of the wiki.
 
 <figure><img src="../../.gitbook/assets/2023-07-18_23.48.31.png" alt="" loading="lazy"><figcaption></figcaption></figure>
 
@@ -50,14 +50,14 @@ Shrine Quests reset once a day.
 
 ## Rewards
 
-Completing both parts of a Shrine Quest earns you [**Denarii**](../gameplay-features/economy/README.md), our in-game currency! It pays to honor the Shrine every day!
+Completing both parts of a Shrine Quest earns you [**Denarii**](./README.md), our in-game currency! It pays to honor the Shrine every day!
 
 Embark on these exciting quests, Theatrians! May your journey be filled with wisdom and prosperity.
 
 ---
 
-<p align="center">🤑 🤑 🤑 Discover <a href="../gameplay-features/economy/ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
+<p align="center">🤑 🤑 🤑 Discover <a href="./ways-to-make-denarii.md">ways to make Denarii</a> in Theatria! 🤑 🤑 🤑</p>
 
 ---
 
-[Events & Challenges](./README.md)
+[Gameplay Features](./README.md)

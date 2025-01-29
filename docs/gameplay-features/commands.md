@@ -45,7 +45,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     - `/discord linked`: Displays link status  
     - `/discord unlink`: Unlink your Discord account
 - **/disown**: Disown an [owned item](./item-owning.md)
-- **/dynmap**: Provides the [Dynmap link](../getting-around/map.md)
 - **/exp**: Displays your experience points
 - **/help {page}**: Provides help categories  
   - **Subcommands**:  
