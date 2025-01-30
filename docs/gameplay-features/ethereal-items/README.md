@@ -1,12 +1,12 @@
 # Ethereal Items
 
-Ethereal Items are powerful, one-of-a-kind items that you can purchase using **Ethereal Fragments**. These items are highly sought after due to their unique abilities and overpowered (OP) stats.
+Ethereal Items are powerful, one-of-a-kind items that you can purchase using [**Ethereal Fragment**](./ethereal-fragments.md). These items are highly sought after due to their unique abilities and overpowered (OP) stats.
 
 ## How to Obtain Ethereal Fragments
 
 1. **Search for Meteorites**: Explore the Mining World to hunt for [meteorites](../../events-challenges/meteorites.md). These rare occurrences may contain special loot.
 
-   - **Meteorite Barrels**: Rarely, meteorite barrels will include an **Ethereal Fragment** among their treasures.
+   - **Meteorite Barrels**: Rarely, meteorite barrels will include an [**Ethereal Fragment**](./ethereal-fragments.md) among their treasures.
 
 2. **Collect and Trade**: Accumulate 16 Ethereal Fragments then open a stuff support ticket to trade them in for one Ethereal Item.
 
@@ -14,13 +14,13 @@ Ethereal Items are powerful, one-of-a-kind items that you can purchase using **E
 
 Trading Ethereal Fragments grants access to the following powerful items:
 
-- **Ethereal Boots**
-- **Ethereal Bow**
-- **Ethereal Elytra**
-- **Ethereal Helm**
-- **Ethereal Hoe**
-- **Ethereal Long Bow**
-- **Ethereal Pants**
+- [**Ethereal Boots**](./ethereal-boots.md)
+- [**Ethereal Bow**](./ethereal-bow.md)
+- [**Ethereal Elytra**](./ethereal-elytra.md)
+- [**Ethereal Helm**](./ethereal-helm.md)
+- [**Ethereal Hoe**](./ethereal-hoe.md)
+- [**Ethereal Long Bow**](./ethereal-long-bow.md)
+- [**Ethereal Pants**](./ethereal-pants.md)
 
 ## Tips for Success
 
