@@ -77,7 +77,7 @@
     * [Titan Pick Silk](gameplay-features/titan-tools/titan-pick-silk.md)
     * [Titan Rod](gameplay-features/titan-tools/titan-rod.md)
     * [Titan Shovel](gameplay-features/titan-tools/titan-shovel.md)
-    * [Titan Sword](gameplay-features/titan-tools/titan-sword-looting-5.md)
+    * [Titan Sword](gameplay-features/titan-tools/titan-sword.md)
   * [🌍 Worlds & Dimensions](gameplay-features/worlds-dimensions.md)
 * [🗺️ Getting Around](getting-around/README.md)
   * [🗺️ Map](getting-around/map.md)
