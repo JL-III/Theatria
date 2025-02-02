@@ -18,6 +18,9 @@ Apply for this rank on our Discord under **#immortal-application**.
 - **Home Spaces:** Increase your capacity to **50 homes**.
 - **LWC Limit:** Secure your items with **up to 375 chest locks**.
 
+### 🔹 Earn a /sellhand Earnings Boost with a TOB
+- Earn **The Oracle's Blessing (TOB)**: [Immortal Wisdom](../../../events-challenges/the-oracles-blessing/05-immortal-wisdom.md).
+
 ### 🔹 Immune to Suffocation, Drowning, Fire, and the Void
 - **Retain invulnerability** to suffocation, drowning, and fire.
 - **Void Protection:** You no longer take damage in the void. Traverse even the emptiest of spaces without fear.
