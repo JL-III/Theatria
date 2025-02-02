@@ -22,7 +22,7 @@ Apply for this rank on our Discord under **#demigod-application**.
 - **Home Spaces:** Increase your capacity to **25 homes**, offering ultimate flexibility for all your needs.
 
 ### 🔹 Earn a /sellhand Earnings Boost with a TOB
-- Earn **The Oracle's Blessing (TOB)**. Learn more about [Heaven Earth Harmony](../../../events-challenges/the-oracles-blessing/heaven-earth-harmony.md).
+- Earn **The Oracle's Blessing (TOB)**. Learn more about [Heaven Earth Harmony](../../../events-challenges/the-oracles-blessing/01-heaven-earth-harmony.md).
 
 ---
 
