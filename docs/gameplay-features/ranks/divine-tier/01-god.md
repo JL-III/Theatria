@@ -23,7 +23,7 @@ Apply for this rank on our Discord under **#god-application**.
 - **LWC Limit:** Secure your items with **up to 300 chest locks**.
 
 ### 🔹 Earn a /sellhand Earnings Boost with a TOB
-- Earn **The Oracle's Blessing (TOB)**: [Divine Ascension](../../the-oracles-blessing/divine-ascension.md).
+- Earn **The Oracle's Blessing (TOB)**: [Divine Ascension](../../../events-challenges/the-oracles-blessing/02-divine-ascension.md).
 
 ### 🔹 Immune to Suffocation
 - **Take no damage** when trapped in gravel or sand, ensuring your survival in even the trickiest situations.
