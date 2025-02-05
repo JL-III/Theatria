@@ -47,31 +47,31 @@ Titan Tools offer unique abilities when activated. Each tool can function in two
 
 ### List of Titan Tools and Their Abilities
 
-#### **Titan Pickaxe (Fortune)**
+#### [**Titan Pickaxe Fortune**](./titan-pick-fortune.md)
 
 - Breaks a 3x3x3 block area.
 - Auto-Collects items.
 - Auto-Smelt ores.
 
-#### **Titan Pickaxe (Silk Touch)**
+#### [**Titan Pickaxe Silk Touch**](./titan-pick-silk.md)
 
 - Breaks a 3x3x3 block area.
 - Auto-Collects items.
 
-#### **Titan Shovel**
+#### [**Titan Shovel**](./titan-shovel.md)
 
 - Deletes a 3x3x1 block area.
 
-#### **Titan Rod**
+#### [**Titan Rod**](./titan-rod.md)
 
 - Removes trash drops while fishing.
 - Replaces treasures with **Tropical Fish**.
 
-#### **Titan Sword**
+#### [**Titan Sword**](./titan-sword.md)
 
 - Grants **Double Experience** on kills.
 
-#### **Titan Axe**
+#### [**Titan Axe**](./titan-axe.md)
 
 - Breaks a large area of logs and leaves.
 - Auto-Replants trees.

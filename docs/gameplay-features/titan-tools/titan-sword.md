@@ -1,18 +1,16 @@
-# Titan Pick Fortune
+# Titan Sword
 
-![](<../../.gitbook/assets/The Titan Pick Fortune.png>)
+![](<../../.gitbook/assets/The Titan Sword.png>)
 
-  ### There are 3 types of Titan Picks here are the prices
+  ### There are 3 types of Titan Sword here are the prices
   
-  - The Red Titan Pick 8 Jigsaws
-  - The Yellow Titan Pick 16 Jigsaws
-  - The Blue Titan Pick 24 Jigsaws
+  - The Red Titan Sword 8 Jigsaws
+  - The Yellow Titan Sword 16 Jigsaws
+  - The Blue Titan Sword 24 Jigsaws
   
-  ### All types have the Ancient Powers of
+  ### All types have the Ancient Power of
 
-  - Breaks a 3x3x3 block area.
-  - Auto-Collects items.
-  - Auto-Smelt ores.
+  - Grants **Double Experience** on kills.
   
   ### How to use and enable Ancient Power
 

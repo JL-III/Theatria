@@ -19,7 +19,7 @@ Apply for this rank on our Discord under **#olympian-application**.
 - **LWC Limit:** Secure your items with **up to 325 chest locks**.
 
 ### 🔹 Earn a /sellhand Earnings Boost with a TOB
-- Earn **The Oracle's Blessing (TOB)**: [Olympian Valor](../events-challenges/the-oracles-blessing/olympian-valor.md).
+- Earn **The Oracle's Blessing (TOB)**: [Olympian Valor](../../../events-challenges/the-oracles-blessing/03-olympian-valor.md).
 
 ### 🔹 Immune to Suffocation and Drowning
 - **Retain invulnerability to suffocation.**

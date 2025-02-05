@@ -1,6 +1,6 @@
-# Titan Pick Fortune
+# Titan Pick Silk
 
-![](<../../.gitbook/assets/The Titan Pick Fortune.png>)
+![](<../../.gitbook/assets/The Titan Pick Silk.png>)
 
   ### There are 3 types of Titan Picks here are the prices
   
@@ -12,7 +12,6 @@
 
   - Breaks a 3x3x3 block area.
   - Auto-Collects items.
-  - Auto-Smelt ores.
   
   ### How to use and enable Ancient Power
 
