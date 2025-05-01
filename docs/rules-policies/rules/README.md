@@ -7,7 +7,7 @@ Welcome to Theatria! Our community thrives when everyone follows these rules to 
 
 The rules of Theatria are here to protect the **peace, creativity, and shared enjoyment** of all players. They are not just a list of prohibitions—they reflect the **values** that hold our community together.
 
-Even if an action does not directly break a listed rule, if it **disrupts the harmony** of the server or creates unnecessary conflict, it may still be addressed by staff. Our priority is maintaining a **healthy, collaborative environment**, and we ask that all players use common sense and empathy when interacting with others.
+Even if an action does not directly break a listed rule, if it **disrupts the harmony** of the server or creates unnecessary conflict, it may still be addressed by staff. Our priority is maintaining a **healthy, collaborative environment**, and we ask that all players use empathy when interacting with others.
 
 Rule enforcement is based not only on the letter of the rules, but also their intent. Please help us keep Theatria peaceful and enjoyable for everyone.
 {% endhint %}
