@@ -1,7 +1,5 @@
 # 📜 Rules
 
-Welcome to Theatria! Our community thrives when everyone follows these rules to create a fun, fair, and welcoming environment.
-
 {% hint style="success" %}
 **The Spirit of the Rules**
 
