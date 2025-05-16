@@ -1,6 +1,6 @@
 # The Hall of Patrons
 
-![](<../../.gitbook/assets/The Hall of Patrons.png>)
+![](<../.gitbook/assets/The Hall of Patrons.png>)
 
 Leave your mark on Theatria by getting Tribute Blocks, there are too ways for getting Tribute Blocks.
 
