@@ -85,7 +85,7 @@
   * [🚶‍♂️➡️🚶‍♀️ /tpa Command](getting-around/tpa.md)
   * [📍 Warps](getting-around/warps.md)
 * [🎉 Events & Challenges](events-challenges/README.md)
-  * [The Hall of Patrons](events-challenges/the-hall-of-patrons.md)
+  * [🏛️ The Hall of Patrons](events-challenges/the-hall-of-patrons.md)
   * [☄️ Meteorites](events-challenges/meteorites.md)
   * [🌟 The Oracle's Blessing](events-challenges/the-oracles-blessing/README.md)
     * [☯️ Heaven Earth Harmony](events-challenges/the-oracles-blessing/01-heaven-earth-harmony.md)
