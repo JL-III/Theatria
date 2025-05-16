@@ -15,3 +15,7 @@ and install it like any other resource pack.
 7. Choose the version you just downloaded, double check your version since you might have several packs applied. Remove any old Theatria Resource Packs. If you have a resource pack you can't remove it is likely one applied via the command **/resourcepack** or **/titan pack**. Having this shouldn't cause issues but you can get rid of it by logging out and back in.
 8. That should be everything! You can check with if the textures are loaded by looking at a **Titan Tool**.
 9. Make sure to keep it upto date.
+
+---
+
+[Gameplay Features](./README.md)
