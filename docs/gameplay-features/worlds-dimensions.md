@@ -19,7 +19,6 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
   - **Resource Gathering**: Collect materials without worrying about damaging the main world.
   - **Shrine Quests**: Discover special quests and challenges.
   - **Monthly Resets**: The world regenerates every month to replenish resources and keep exploration exciting.
-  - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
 
 ## The Nether
 
@@ -35,12 +34,19 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
   - **Monthly Resets**: Ensures new opportunities for exploration and dragon battles.
   - **End Cities**: Find and raid End Cities for valuable loot, including Elytra.
 
+## The Moon
+
+- **Purpose**: Explore for rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
+- **Key Features**:
+  - **Monthly Resets**: Ensures opportunities to get Meteorites.
+  - **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
+
 ---
 
 ### Tips for Navigating Worlds
 
 - Use **/warp** commands or portals to switch between worlds quickly.
-- Plan your activities: build in The Ark, gather resources in Mining, and seek challenges in the Nether and the End.
+- Plan your activities: build in The Ark, gather resources in Mining, and seek challenges in the Nether, the End and the Moon.
 - Keep an eye on announcements for reset schedules to make the most of each world's resources.
 
 ---
