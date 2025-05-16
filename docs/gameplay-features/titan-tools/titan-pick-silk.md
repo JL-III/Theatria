@@ -25,5 +25,5 @@
 
   There are 2 ways to get an Imbued **Titan Tool**
 
-  1. For [God](../ranks/divine-tier/01-god.md) and each rank above it you can Imbued one **Titan Tool** by opening a stuff support ticket
+  1. For [God](../ranks/divine-tier/01-god.md) and each rank above it you can Imbued one **Titan Tool** by opening a staff support ticket
   2. When you get to [God](../ranks/divine-tier/01-god.md) rank and above you can buy Imbued **Titan Tools** for 50 million Denarii each at `/warp titan`

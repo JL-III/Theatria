@@ -1,8 +1,8 @@
 # Meteorites
 
-Get there with '/warp mining'
+Get there with **/warp moon**
 
-Meteorites are special events in the [Mining World](../gameplay-features/worlds-dimensions.md#mining-world). These fiery objects fall from the sky at random intervals, bringing opportunities for treasure and danger alike.
+Meteorites are special events in the [The Moon](../gameplay-features/worlds-dimensions.md#The-Moon). These fiery objects fall from the sky at random intervals, bringing opportunities for treasure and danger alike.
 
 ## How to Find Meteorites
 
@@ -18,7 +18,7 @@ Meteorites often contain barrels with valuable treasures, but beware — they ma
 - Diamonds and other rare items
 
 {% hint style="warning" %}
-**Tip:** Be prepared with strong gear or potions! Visit '/warp market' to upgrade your gear or stock up on potions.
+**Tip:** Be prepared with strong gear or potions! Visit **/warp market** to upgrade your gear or stock up on potions.
 {% endhint %}
 
 ---
