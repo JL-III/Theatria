@@ -258,23 +258,21 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 #### Commands
 
-* **/kit contributor (Visit shop for more details)**
+* **/kit contributor**: (Visit shop for more details)
 * **/nickname**: Sets your nickname
-* **/fly**: Enables flight in The Ark and mining worlds
+* **/fly**: Enables flight in The Ark
 
 ### Supporter
 
 #### Commands
 
-* **/itemrename**: Renames items with standard colors
-
-### Supporter+
-
-#### Commands
-
-* **/headdb**: Access the head database menu
-* **/itemsowned**: Displays owned items
+* **/activity**: Lets you see a list of the players that have logged in today!
+* **/fly**: Enables flight in The Ark and Mining worlds
 * **/itemhistory \[toolID]**: Displays the history of owned items
+* **/itemrename**: Renames items with standard colors
+* **/itemsowned**: Displays owned items
+* **/headdb**: Access the head database menu
+* **/kit supporter**: (Visit shop for more details)
 * **/lb tb**: Tracks block changes with a logging tool
 
 ### Ultimate
@@ -282,13 +280,9 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 #### Commands
 
 * **/itemhistory \[toolID]**: Displays item histories (yours and others with a ToolID)
-* **/pv**: Access 15 player vaults
-
-### Ultimate+
-
-#### Commands
-
 * **/itemrename**: Renames items with colors, formatting, and RGB
+* **/kit Ultimate**: (Visit shop for more details)
+* **/pv**: Access 15 player vaults
 * **/vanish**: Makes you invisible to players (except staff)
 
 ***
