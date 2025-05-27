@@ -85,6 +85,8 @@
   * [🛏️ Homes](getting-around/homes.md)
   * [🚶‍♂️➡️🚶‍♀️ /tpa Command](getting-around/tpa.md)
   * [📍 Warps](getting-around/warps.md)
+* [📚 Theatrian Lore](theatrian-lore/README.md)
+  * [Theatrian Customs](theatrian-lore/theatrian-customs.md)
 * [🎉 Events & Challenges](events-challenges/README.md)
   * [🏛️ The Hall of Patrons](events-challenges/the-hall-of-patrons.md)
   * [☄️ Meteorites](events-challenges/meteorites.md)
