@@ -1,7 +1,5 @@
 # Theatrian Customs
 
-## Theatrian Customs
-
 Life on Theatria is harsh, strange, and unpredictable. Over time, Theatrians have adopted a series of customs—some born from survival, others from whimsy—that mark them as part of this world. These aren’t rules, but shared habits that bind the community together in an unspoken way.
 
 Here are a few customs you might notice… or choose to adopt yourself:
