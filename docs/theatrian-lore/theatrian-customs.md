@@ -38,11 +38,11 @@ When a player logs out, it’s customary for others to quietly say, “rest well
 
 #### 🌊 The Goo!
 
-Every so often, without warning, someone shouts **Goo!** in chat. There’s no context, no explanation—just **Goo**. And others might join in.
+Every so often, out of nowhere, someone shouts **Goo!** in chat. There’s no context, no explanation—just Goo. And sometimes, others will join in.
 
-_It’s a Theatrian thing._
+It’s a Theatrian thing—an odd little spark that reminds us we’re all in this together.
 
-Just remember: Goo too often, and the magic fades.
+But here’s the secret: **Goo is only special because it’s rare.** If you shout it too often, it loses its magic—and nobody wants that. (Also: don’t spam.)
 
 ***
 
