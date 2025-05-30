@@ -31,7 +31,7 @@ The following items are blacklisted for use with hoppers and pistons, meaning th
 * **WHEAT**
 
 {% hint style="danger" %}
-Anyone caught automating money-making methods risks severe penalties, including:
+Anyone caught automating money-making methods risks severe penalties, including but not limited to:
 
 * **Account wipe** (balance and ranks removed)
 * **Audit** (investigation into money distribution and earnings)
