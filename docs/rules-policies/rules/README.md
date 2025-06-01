@@ -24,9 +24,10 @@ Treat all members with respect, and avoid using vulgar or offensive language. Di
 
 ## 4. Keep Content Appropriate
 
-Offensive names, skins, structures, bios, and usernames are not allowed. Avoid political conversations, as they can lead to conflicts and disrupt the community's focus. Let’s keep things **fun and enjoyable** for everyone!
+Offensive, vulgar, or provocative names, bios, usernames, skins, or structures are **strictly prohibited**.\
+Specifically, avoid references to drugs, alcohol abuse, sexual content, profanity, disrespectful behavior, or intentionally disruptive attitudes. Avoid political discussions and controversial topics that could disrupt our community’s friendly and welcoming atmosphere.
 
-> If this rule seems unclear or problematic, our server might not be the best fit for you.
+> _If your current profile, name, or content might be questionable, please update it prior to applying._
 
 ## 5. Do Not Promote Other Servers
 
