@@ -26,7 +26,7 @@ Treat all members with respect, and avoid using vulgar or offensive language. Di
 
 Offensive, rude, or disrespectful names, bios, usernames, skins, or structures are **strictly prohibited**. This includes references to drugs, alcohol, inappropriate language, bullying, or intentionally disruptive behavior. Please remember, our server includes younger players, so maintaining a family-friendly and respectful atmosphere is crucial. Avoid controversial or political discussions that could disturb the friendly environment we strive for.
 
-> _If your current profile, name, or content might be questionable, please update it prior to applying._
+> **If your current profile, name, or content might be questionable, please update it prior to applying.** Profiles and content must also remain appropriate for as long as you're part of our community.
 
 ## 5. Do Not Promote Other Servers
 
