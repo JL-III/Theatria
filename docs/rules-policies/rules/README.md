@@ -24,8 +24,7 @@ Treat all members with respect, and avoid using vulgar or offensive language. Di
 
 ## 4. Keep Content Appropriate
 
-Offensive, vulgar, or provocative names, bios, usernames, skins, or structures are **strictly prohibited**.\
-Specifically, avoid references to drugs, alcohol abuse, sexual content, profanity, disrespectful behavior, or intentionally disruptive attitudes. Avoid political discussions and controversial topics that could disrupt our community’s friendly and welcoming atmosphere.
+Offensive, rude, or disrespectful names, bios, usernames, skins, or structures are **strictly prohibited**. This includes references to drugs, alcohol, inappropriate language, bullying, or intentionally disruptive behavior. Also, avoid controversial or political discussions that could disturb the friendly atmosphere we strive to maintain.
 
 > _If your current profile, name, or content might be questionable, please update it prior to applying._
 
