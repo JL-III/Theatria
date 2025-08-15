@@ -24,7 +24,7 @@ To charge your Titan Tool:
 
 ## Titan Keys
 
-Titan Keys are available for purchase at `/warp titan` for **$1 million Denarii** each! 
+Titan Keys are available for purchase at `/warp titan` for **$500,000 Denarii** each! 
 
 ### What Can You Do with Titan Keys?
 

@@ -28,7 +28,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/ch join Global`: Switch to global chat
     * `/ch join Local`: Switch to local chat
 * **/cinfo**: Punch a protected block to view information on it
-* **/claim**: [Claims](land-claiming.md) the chunk you are in for 1,000 Denarii
+* **/claim**: [Claims](land-claiming.md) the chunk you are in for 5,000 Denarii
 * **/climits**: View the number of protections you own and are allowed
 * **/cmodify {username}**: Allows a player to use a specific block
 * **/coords**: Shows your coordinates above your hotbar
@@ -61,7 +61,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/kit**: Displays or obtains [kits](kits.md)
 * **/lands**: Opens the Lands menu
   * **Subcommands**:
-    * `/lands create {land-name}`: Costs 5,000 Denarii
+    * `/lands create {land-name}`: Costs 10,000 Denarii
 * **/leave {land-name}**: Leave a land
 * **/ledger**: Provides a link to the ledger
 * **/lock**: [Locks](chest-locks.md) a block (e.g., chest, door)

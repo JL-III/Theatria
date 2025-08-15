@@ -27,7 +27,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
   - **Subcommands**:  
     - `/ch join Global`: Switch to global chat
     - `/ch join Local`: Switch to local chat
-- **/claim**: [Claims](./land-claiming.md) the chunk you are in for 1,000 Denarii (Pleb)
+- **/claim**: [Claims](./land-claiming.md) the chunk you are in for 5,000 Denarii (Pleb)
 - **/climits**: View the number of protections you own and are allowed (Pleb)
 - **/clearinventory**: Clears your inventory (Hero)
 - **/cinfo**: Punch a protected block to view information on it (Pleb)
@@ -83,7 +83,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
 - **/kit**: Displays or obtains [kits](./kits.md) (Pleb)
 - **/lands**: Opens the [Lands](./land-claiming.md) menu (Pleb)
   - **Subcommands**:  
-    - `/lands create {land-name}`: Costs 5,000 Denarii
+    - `/lands create {land-name}`: Costs 10,000 Denarii
     - `/lands setspawn`: Sets a custom spawn point (Patrician)
     - `/lands list`: Displays a list of your lands
 - **/leave {land-name}**: Leave a land (Pleb)
