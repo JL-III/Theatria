@@ -32,7 +32,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/climits**: View the number of protections you own and are allowed
 * **/cmodify {username}**: Allows a player to use a specific block
 * **/coords**: Shows your coordinates above your hotbar
-* **/crates**: Warps you to `/warp crates` to redeem [crate keys](crate-keys.md)
 * **/csn**: [Chest shop](economy/chest-shops-and-shopdb.md) help
   * **Subcommands**:
     * `/csn help`: Displays help page
@@ -67,7 +66,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/lock**: [Locks](chest-locks.md) a block (e.g., chest, door)
 * **/mail**: Manages in-game [mail](messaging.md)
 * **/map**: Provides the [Dynmap](../getting-around/map.md) link
-* **/market**: Warps you to `/warp market`
 * **/mcrank**: Displays your [mcMMO](mcmmo.md) rank
 * **/mcstats**: Displays your [mcMMO](mcmmo.md) stats
 * **/msg {username}**: Sends a private message
@@ -89,8 +87,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/sell all`: Sells all sellable items in your inventory
 * **/sethome**: Sets a home at your current location
 * **/shrine**: Opens the [shrine quests](../events-challenges/shrine-quests.md) menu
-* **/shop**: Warps you to `/warp market`
-* **/spawn**: Warps you to `/warp spawn`
 * **/stats**: Displays your [mcMMO](mcmmo.md) stats
 * **/tags**: Opens the tags menu
 * **/titan pack**: Loads the Theatria resource pack
@@ -101,11 +97,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/trust {username} {area}**: Trusts a player in your land
 * **/unclaim**: Unclaims the chunk you're in
 * **/unlock**: Unlocks [locked](chest-locks.md) blocks
-* **/unstuck**: Frees you from being stuck
 * **/untrust {username}**: Removes a player from your current land
-* **/warp**: Opens the [warp](../getting-around/warps.md) menu
-  * **Subcommands**:
-    * `/warp {warp name}`: Warps to a specific location
 * **/whereami**: Provides detailed coordinates
 * **/wiki**: Displays the wiki link
 * **/wild**: Teleports to random unclaimed land
@@ -181,7 +173,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 #### Commands
 
 * **/anvil**: Access an anvil menu (10 Denarii per use)
-* **/back**: Returns to your last location
 * **/clearinventory**: Clears your inventory
 * **/feed**: Restores hunger (5,000 Denarii per use)
 * **/fix**: Repairs an item (2,500 Denarii per use)
@@ -233,10 +224,8 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/condense**, **/cnd**: Condenses items for free
 * **/fix all**: Repairs all items for free
 * **/heal**: Restores health instantly for free
-* **/jump**: Teleports you forward
 * **/smelt**: Instantly smelt items
 * **/soak**: Toggles soak mode
-* **/top**: Teleports to the highest point at your location
 * **/tpcoords**: Teleports to specified coordinates
 * **/uncondense**: Reverses condensation for free
 

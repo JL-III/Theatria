@@ -79,7 +79,7 @@ Titan Tools offer unique abilities when activated. Each tool can function in two
 
 ---
 
-With Titan Tools and Power Crystals, you can enhance your gameplay and achieve tasks faster while enjoying unique perks. Get started by acquiring your tools at `/warp titan` and start mining for Power Crystals today!
+With Titan Tools and Power Crystals, you can enhance your gameplay and achieve tasks faster while enjoying unique perks. Get started by acquiring your tools at the underground area next to spawn and start mining for Power Crystals today!
 
 ---
 

@@ -50,7 +50,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
 
 ### Tips for Navigating Worlds
 
-- Use **/warp** commands or portals to switch between worlds quickly.
+- Use the nether hub and the world portals at spawn.
 - Plan your activities: build in The Ark, gather resources in Mining, and seek challenges in the Nether, the End and the Moon.
 - Keep an eye on announcements for reset schedules to make the most of each world's resources.
 

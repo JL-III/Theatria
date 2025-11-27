@@ -43,7 +43,6 @@ COMMAND,DESCRIPTION,RANK,LEVEL
 /condense,Condenses items,"Demigod, free for God",12
 /coords,Shows your coordinates above your hotbar,Pleb,1
 /craft,Access the crafting table menu,Patrician,5
-/crates,Warps you to `/warp crates`,Pleb,1
 /csn,Chest shop help,Pleb,1
 /csn help,Displays help page,Pleb,1
 /csn history,Shows your sale history,Pleb,1
@@ -96,7 +95,6 @@ COMMAND,DESCRIPTION,RANK,LEVEL
 /lock,Locks a block,Pleb,1
 /mail,Manages in-game mail,Pleb,1
 /map,Provides the Dynmap link,Pleb,1
-/market,Warps you to `/warp market`,Pleb,1
 /mcrank,Displays your McMMO rank,Pleb,1
 /mcscoreboard,Manages the McMMO scoreboard,Gladiator,4
 /mcscoreboard clear,Clears the scoreboard,Gladiator,4
@@ -129,12 +127,10 @@ COMMAND,DESCRIPTION,RANK,LEVEL
 /sell all,Sells all sellable items in your inventory,Pleb,1
 /sethome,Sets a home at your current location,Pleb,1
 /shrine,Opens the shrine quests menu,Pleb,1
-/shop,Warps you to `/warp market`,Pleb,1
 /skull,Obtain your own skull,Patrician,5
 /smelt,Instantly smelt items,God,13
 /smelting,Displays stats for the smelting skill,Gladiator,4
 /soak,Toggles soak mode,God,13
-/spawn,Warps you to `/warp spawn`,Pleb,1
 /stats,Displays your McMMO stats,Pleb,1
 /swords,Displays stats for the swords skill,Gladiator,4
 /tags,Opens the tags menu,Pleb,1
@@ -156,8 +152,6 @@ COMMAND,DESCRIPTION,RANK,LEVEL
 /untrust {username},Removes trust from a player,Pleb,1
 /vanish,Makes you invisible to players,Ultimate+,0
 /votetop,Displays the VoteTop menu,Pleb,1
-/warp,Opens the warp menu,Pleb,1
-/warp {warp name},Warps to a specific location,Pleb,1
 /whereami,Provides detailed coordinates,Pleb,1
 /whisper,Sends a private message,Patrician,5
 /wild,Teleports to random unclaimed land,Patrician,5

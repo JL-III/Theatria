@@ -19,7 +19,7 @@ Our rules are designed to foster a fun, inclusive, and respectful environment fo
 The glowing effect indicates that the player has activated Night Vision. This feature is unlocked at [Champion rank](../gameplay-features//ranks/mythic-tier/02-champion.md) and allows players to toggle the `/nv` command. Night Vision provides a glowing aura and improved visibility in dark areas.
 
 ### How do I fly?
-Flying is a special perk unlocked at the Contributor+ [supporter rank](../gameplay-features/feature-shop.md) or higher. Once unlocked, you can toggle flight using the `/fly` command.
+Flying is a special perk unlocked at the Contributor+ [supporter rank](../gameplay-features/feature-shop.md) or higher. Once unlocked, you can toggle flight using the `/fly` command and it ownly works in land claims.
 
 ### What are the numbers I see above some mobs in the Mining world?
 Those numbers represent a stack of mobs! Theatria uses a [mob stacking](../gameplay-features/mob-stacking.md) plugin to optimize performance and reduce lag by grouping mobs together.

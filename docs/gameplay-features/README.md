@@ -7,7 +7,6 @@ Theatria has a unique collection of systems and mechanics that help shape our co
 - **[Ranks](./ranks/README.md):** Learn about ranks and perks.
 - **[Economy](./economy/README.md):** Denarii and [ways to earn it](./economy/ways-to-make-denarii.md).
 - **[Land Claiming](../gameplay-features/land-claiming.md):** Protect your builds and manage claims.
-- **[Homes](../getting-around/homes.md):** Set and manage home locations.
 - **[Crate Keys](./crate-keys.md):** Unlock rewards with crate keys.
 - **[Item Filter](./item-filter.md):** Simplify inventory management.
 - **[Spawners](./spawners.md):** Get and use spawners.

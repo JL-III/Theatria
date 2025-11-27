@@ -3,7 +3,7 @@
 This is Theatria's central location for player shops. While the Market is the main hub, you can also create shops anywhere in [The Ark](../worlds-dimensions.md#the-ark).
 
 ## Accessing the Market
-Use the command **/market** to teleport to the player market.
+You will need to travel to with market with an elytra or the nether hub.
 
 ## Requesting a Market Shop
 To request a market shop, open a [staff support ticket](https://discord.gg/hFJWRDKyNz). 
