@@ -10,9 +10,6 @@
 ### 🔹 Create Multiple Lands
 - **Create up to 3 lands** to expand your control and influence.
 
-### 🔹 Purchase a Player Warp
-- Gain the ability to **buy 1 player warp**, making travel to key locations more convenient.
-
 ### 🔹 Claim More Chunks
 - **Claim up to 500 chunks per land**, allowing you to develop sprawling and ambitious builds.
 

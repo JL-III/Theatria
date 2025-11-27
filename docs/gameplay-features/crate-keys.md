@@ -12,7 +12,7 @@ Crate keys are special items that let you unlock rewards in Theatria. There are 
 - Certain ranks on the server unlock Spawner Crate Keys. Check your rank perks to see if you're eligible.
 
 ### 3. Titan Crate Keys
-- Available for purchase at **/warp titan**. Visit the Titan Shop in-game to obtain these keys.
+- Available for purchase at the underground area next to spawn. Visit the Titan Shop in-game to obtain these keys.
 
 ## How to Use Crate Keys
 

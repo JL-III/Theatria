@@ -34,12 +34,8 @@ You can view the full rules on our [Rules Page](../rules-policies/rules/README.m
 
 Once you join the server, you will start in our **Welcome Hub** in **[The Ark](../gameplay-features/worlds-dimensions.md#the-ark)**. Return there anytime by typing `/warp tutorial`.
 
-### Essential Commands:
-- `/warp tutorial`: Return to the new player tutorial.
+### Essential Command:
 - `/claim`: Claim a chunk of land. Learn more about [Land Claiming](../gameplay-features/land-claiming.md).
-- `/sethome [name of home]`: Set your current location as your home. As players rank up, they can save more homes. 
-- `/home [name of home]`: Teleport to your saved home. Learn more about [Homes](../gameplay-features/homes.md).
-- `/warps`: Find and visit community landmarks and player-submitted points of interest.
 
 You can find a full list of commands on our [Commands Page](../gameplay-features/commands.md).
 
