@@ -4,7 +4,7 @@
 
 Founded on Jan 13, 2026, Hytale Theatria is a Hytale server dedicated to providing players with a space to build, create, and explore.\
 \
-Unlike our Minecraft server we are not able to promise no resets. Hytale is still in it's early development.\
+Unlike our Minecraft server we are not able to promise no resets. Hytale is still in early development.\
 \
 At Theatria, we prioritize fairness and accessibility, ensuring all players, regardless of financial background, can enjoy a level playing field.
 
