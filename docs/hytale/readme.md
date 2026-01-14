@@ -10,15 +10,13 @@ At Theatria, we prioritize fairness and accessibility, ensuring all players, reg
 
 ## Getting Started
 
-If you are already whitelisted on the Minecraft server follow [this guide](/broken/pages/XUPvksNgUliWhMA6TNlC)\
-If you are not already whitelisted on the Minecraft server follow [this guide](getting-started.md)
+Follow this [guide](getting-started.md) to get started
 
 ## Features
 
-* [**Land Claims**](../minecraft/gameplay-features/land-claiming.md) **and** [**Chest Locks**](../minecraft/gameplay-features/chest-locks.md)**:** Protect your builds in **The Ark** and secure your items with ease.
-* **Player-Driven** [**Economy**](../minecraft/gameplay-features/economy/)**:** Earn and trade Denarii, set up shops, and participate in the thriving economy.
-* **Custom Tools and Enchantments:** Access powerful [Titan tools](../minecraft/gameplay-features/titan-tools/) and [Ethereal items](../minecraft/gameplay-features/ethereal-items/) to enhance your gameplay.
-* [**Events and Challenges**](../minecraft/events-challenges/)**:** Participate in seasonal community challenges and unique events like [Meteorite](../minecraft/events-challenges/meteorites.md) hunts.
+* [**Land Claims**](../minecraft/gameplay-features/land-claiming.md)**:** Protect your builds and secure your items with ease.
+* Player driven economy - no server imposed currency.
+* Hytale driven mechanics (Other than claims - we are vanilla)
 * **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](../minecraft/support/staff/).
 
 ## Rules & Policies
