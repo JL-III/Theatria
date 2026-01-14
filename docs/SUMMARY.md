@@ -118,7 +118,7 @@
 ## Hytale
 
 * [README](hytale/readme.md)
-* [Getting Started (Players already whitelisted on the Minecraft Server)](hytale/getting-started-players-already-whitelisted-on-the-minecraft-server.md)
-* [Getting Started (New Players)](hytale/getting-started-new-players.md)
-* [Land Claiming (Hytale)](hytale/land-claiming-hytale.md)
+* [Getting Started](hytale/getting-started.md)
+* [Getting your UUID in Hytale](hytale/getting-your-uuid-in-hytale.md)
 * [📜 Rules](hytale/rules.md)
+* [Land Claiming (Hytale)](hytale/land-claiming-hytale.md)

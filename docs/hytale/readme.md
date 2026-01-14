@@ -10,8 +10,8 @@ At Theatria, we prioritize fairness and accessibility, ensuring all players, reg
 
 ## Getting Started
 
-If you are already whitelisted on the Minecraft server follow [this guide](getting-started-players-already-whitelisted-on-the-minecraft-server.md)\
-If you are not already whitelisted on the Minecraft server follow [this guide](getting-started-new-players.md)
+If you are already whitelisted on the Minecraft server follow [this guide](/broken/pages/XUPvksNgUliWhMA6TNlC)\
+If you are not already whitelisted on the Minecraft server follow [this guide](getting-started.md)
 
 ## Features
 
