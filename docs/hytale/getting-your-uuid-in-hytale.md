@@ -24,5 +24,6 @@ Image shown below of the text that should show up.
    3. Mac tool for screenshots.
       1. Use `cmd + shift + 4` to bring up the screen shot tool. Select the part of the screen that has your UUID displayed. Keep this image somewhere you can find it.
 4. Make sure you have the screen shot you need before you apply on discord, you cannot be whitelisted without this UUID.
+5. Go back to the [Getting Started](getting-started.md) guide and proceed to Step 2.
 
 [^1]: 
