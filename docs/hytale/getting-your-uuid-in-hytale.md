@@ -9,7 +9,7 @@ Image shown below of the text that should show up.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 1.44.32 PM.png" alt=""><figcaption></figcaption></figure>
 
-3. Take a screenshot of the chat that pops up. Select one method.
+3. Take a screenshot of the chat that pops up. Select **one** method.
    1. Hytale has the ability to capture a screenshot default keybinding is `F12`. Hytale keeps these screen shots in different places depending on if you are using mac or windows.
    2. Windows has a tool for capturing screen shots.
       1. Click the Windows Icon
