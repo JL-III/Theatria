@@ -117,4 +117,4 @@
 
 ## Hytale
 
-* [📜 Copy of Rules](hytale/rules.md)
+* [📜 Rules](hytale/rules.md)
