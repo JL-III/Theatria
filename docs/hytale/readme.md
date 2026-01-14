@@ -19,7 +19,7 @@ Follow this [guide](getting-started.md) to get started
 
 ## Rules & Policies
 
-Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules](../minecraft/rules-policies/) to ensure compliance.
+Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules](rules.md) to ensure compliance.
 
 ## Our Online Community
 
