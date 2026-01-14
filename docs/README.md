@@ -15,17 +15,17 @@ Welcome to Theatria! If you're new to the server, here's how to begin your adven
 
 ## Features
 
-* [**The Ark**](gameplay-features/worlds-dimensions.md#the-ark)**:** A permanent world where your creations are safe from resets.
-* **Resetting Resource Worlds:** Regularly refreshed [worlds](gameplay-features/worlds-dimensions.md#mining-world) for mining and gathering materials.
-* [**Land Claims**](gameplay-features/land-claiming.md) **and** [**Chest Locks**](gameplay-features/chest-locks.md)**:** Protect your builds in **The Ark** and secure your items with ease.
-* **Player-Driven** [**Economy**](gameplay-features/economy/)**:** Earn and trade Denarii, set up shops, and participate in the thriving economy.
-* **Custom Tools and Enchantments:** Access powerful [Titan tools](gameplay-features/titan-tools/) and [Ethereal items](gameplay-features/ethereal-items/) to enhance your gameplay.
-* [**Events and Challenges**](events-challenges/)**:** Participate in seasonal community challenges and unique events like [Meteorite](events-challenges/meteorites.md) hunts.
-* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](support/staff/).
+* [**The Ark**](minecraft/gameplay-features/worlds-dimensions.md#the-ark)**:** A permanent world where your creations are safe from resets.
+* **Resetting Resource Worlds:** Regularly refreshed [worlds](minecraft/gameplay-features/worlds-dimensions.md#mining-world) for mining and gathering materials.
+* [**Land Claims**](minecraft/gameplay-features/land-claiming.md) **and** [**Chest Locks**](minecraft/gameplay-features/chest-locks.md)**:** Protect your builds in **The Ark** and secure your items with ease.
+* **Player-Driven** [**Economy**](minecraft/gameplay-features/economy/)**:** Earn and trade Denarii, set up shops, and participate in the thriving economy.
+* **Custom Tools and Enchantments:** Access powerful [Titan tools](minecraft/gameplay-features/titan-tools/) and [Ethereal items](minecraft/gameplay-features/ethereal-items/) to enhance your gameplay.
+* [**Events and Challenges**](minecraft/events-challenges/)**:** Participate in seasonal community challenges and unique events like [Meteorite](minecraft/events-challenges/meteorites.md) hunts.
+* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](minecraft/support/staff/).
 
 ## Rules & Policies
 
-Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](rules-policies/) to ensure compliance.
+Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](minecraft/rules-policies/) to ensure compliance.
 
 ## Our Online Community
 
