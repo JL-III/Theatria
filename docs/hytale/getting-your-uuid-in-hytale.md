@@ -24,4 +24,5 @@ Image shown below of the text that should show up.
    3. Mac tool for screenshots.
       1. Use `cmd + shift + 4` to bring up the screen shot tool. Select the part of the screen that has your UUID displayed. Keep this image somewhere you can find it.
 4. Make sure you have the screen shot you need before you apply on discord, you cannot be whitelisted without this UUID.
-5. Go back to the [Getting Started](getting-started.md) guide and proceed to Step 2.
+5. If you are new go back to the [Getting Started](getting-started.md) guide and proceed to Step 2.\
+   If you have already been added to the Minecraft whitelist, take the image of your UUID and post it in your staff support ticket.
