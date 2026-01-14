@@ -1,5 +1,11 @@
 # Getting your UUID in Hytale
 
+{% hint style="danger" %}
+[We need your UUID in order to add you to the whitelist due to a Hytale bug.\
+Here's an example of what one looks like\
+`a3bbf5d6-6ba0-47a8-8d5a-cbb6f25de1e8`](#user-content-fn-1)[^1]
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Screenshot 2026-01-14 at 1.31.32 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Join a single player world.
@@ -17,3 +23,6 @@ Image shown below of the text that should show up.
          2. Click `+ New` and select the part of the screen that has your UUID displayed (The chat box in Hytale). Keep this image somewhere you can find it.
    3. Mac tool for screenshots.
       1. Use `cmd + shift + 4` to bring up the screen shot tool. Select the part of the screen that has your UUID displayed. Keep this image somewhere you can find it.
+4. Make sure you have the screen shot you need before you apply on discord, you cannot be whitelisted without this UUID.
+
+[^1]: 
