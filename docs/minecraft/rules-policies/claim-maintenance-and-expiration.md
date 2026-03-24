@@ -8,7 +8,7 @@ If your last seen (`/seen`) exceeds a period of 180 days, your land claims will 
 
 ### **2. Consequences of Expiration 🏚️**
 
-When your claims expire due to inactivity, other active players will have the opportunity to `/claim` your area. They will have free reign over your items and your once cherished space.
+When your claims expire due to inactivity, other active players will have the opportunity to `/claim` your area. They will have free reign over your items and your once cherished space. You will also lose your balance.
 
 ### **3. Lock Removals 🔓**
 
