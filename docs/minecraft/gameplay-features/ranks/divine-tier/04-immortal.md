@@ -9,24 +9,21 @@ Apply for this rank on our Discord under **#immortal-application**.
 {% endhint %}
 
 ### 🔹 Keep Inventory
-- **Ascend beyond mortal limitations.** Never drop your items again, even in the face of death.
 
-### 🔹 Additional Power
-- Receive **1 Ancient Power activation** that can be applied to a [Titan Pick](../../../gameplay-features/titan-tools/README.md), granting it **unlimited charge**.
+* **Ascend beyond mortal limitations.** Never drop your items again, even in the face of death.
 
 ### 🔹 Boosted Home and Lock Limits
-- **Home Spaces:** Increase your capacity to **50 homes**.
-- **LWC Limit:** Secure your items with **up to 375 chest locks**.
 
-### 🔹 Earn a /sellhand Earnings Boost with a TOB
-- Earn **The Oracle's Blessing (TOB)**: [Immortal Wisdom](../../../events-challenges/the-oracles-blessing/05-immortal-wisdom.md).
+* **Home Spaces:** Increase your capacity to **50 homes**.
+* **LWC Limit:** Secure your items with **up to 375 chest locks**.
 
 ### 🔹 Immune to Suffocation, Drowning, Fire, and the Void
-- **Retain invulnerability** to suffocation, drowning, and fire.
-- **Void Protection:** You no longer take damage in the void. Traverse even the emptiest of spaces without fear.
 
----
+* **Retain invulnerability** to suffocation, drowning, and fire.
+* **Void Protection:** You no longer take damage in the void. Traverse even the emptiest of spaces without fear.
 
-| **Previous Rank:** [Titan](./03-titan.md) | |
+***
 
-| [All Ranks](../README.md) |
+\| **Previous Rank:** [Titan](03-titan.md) | |
+
+\| [All Ranks](../) |

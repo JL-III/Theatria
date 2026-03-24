@@ -8,18 +8,10 @@
 Apply for this rank on our Discord under **#titan-application**.
 {% endhint %}
 
-### 🔹 Additional Power
-
-* Receive **1 Ancient Power activation** that can be applied to a [Titan Pick](../../titan-tools/), granting it **unlimited charge**.
-
 ### 🔹 Boosted Home and Lock Limits
 
 * **Home Spaces:** Expand your capacity to **40 homes**.
 * **LWC Limit:** Secure your items with **up to 350 chest locks**.
-
-### 🔹 Earn a /sellhand Earnings Boost with a TOB
-
-* Earn **The Oracle's Blessing (TOB)**: [Titan Legacy](../../../events-challenges/the-oracles-blessing/04-titan-legacy.md).
 
 ### 🔹 Immune to Suffocation, Drowning, and Fire
 

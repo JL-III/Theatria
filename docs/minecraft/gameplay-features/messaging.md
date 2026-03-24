@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✉️ Messaging
 
 Theatria provides a few ways to communicate with other players.

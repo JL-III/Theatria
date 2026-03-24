@@ -9,24 +9,21 @@ Apply for this rank on our Discord under **#olympian-application**.
 {% endhint %}
 
 ### 🔹 Keep Exp
-- **Ascend beyond mortal limitations.** Your experience is sacred and remains with you, even in death.
 
-### 🔹 Additional Power
-- Receive **1 Ancient Power activation** that can be applied to a [Titan Pick](../../../gameplay-features/titan-tools/README.md), granting it **unlimited charge**.
+* **Ascend beyond mortal limitations.** Your experience is sacred and remains with you, even in death.
 
 ### 🔹 Boosted Home and Lock Limits
-- **Home Spaces:** Increase your capacity to **35 homes**.
-- **LWC Limit:** Secure your items with **up to 325 chest locks**.
 
-### 🔹 Earn a /sellhand Earnings Boost with a TOB
-- Earn **The Oracle's Blessing (TOB)**: [Olympian Valor](../../../events-challenges/the-oracles-blessing/03-olympian-valor.md).
+* **Home Spaces:** Increase your capacity to **35 homes**.
+* **LWC Limit:** Secure your items with **up to 325 chest locks**.
 
 ### 🔹 Immune to Suffocation and Drowning
-- **Retain invulnerability to suffocation.**
-- Take **no damage from drowning**. Live underwater or explore the depths without limits—it's your choice!
 
----
+* **Retain invulnerability to suffocation.**
+* Take **no damage from drowning**. Live underwater or explore the depths without limits—it's your choice!
 
-| **Previous Rank:** [God](./01-god.md) | **Next Rank:** [Titan](./03-titan.md) |
+***
 
-| [All Ranks](../README.md) |
+\| **Previous Rank:** [God](01-god.md) | **Next Rank:** [Titan](03-titan.md) |
+
+\| [All Ranks](../) |

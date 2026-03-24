@@ -17,18 +17,10 @@ Apply for this rank on our Discord under **#god-application**.
 * Unlock the ultimate **Spawner Kit**:
   * **`/kit spawner25`**: Cooldown of **1 month**, offering top-tier spawning capabilities.
 
-### 🔹 Additional Power
-
-* Receive **1 Ancient Power activation** that can be applied to a Titan Pick, granting it **unlimited charge**.
-
 ### 🔹 Boosted Home and Lock Limits
 
 * **Home Spaces:** Increase your capacity to **30 homes**.
 * **LWC Limit:** Secure your items with **up to 300 chest locks**.
-
-### 🔹 Earn a /sellhand Earnings Boost with a TOB
-
-* Earn **The Oracle's Blessing (TOB)**: [Divine Ascension](../../../events-challenges/the-oracles-blessing/02-divine-ascension.md).
 
 ### 🔹 Immune to Suffocation
 
