@@ -25,7 +25,7 @@
   * [📍 Warps](minecraft/getting-around/warps.md)
 * [📚 Theatrian Lore](minecraft/theatrian-lore/README.md)
   * [Theatrian Customs](minecraft/theatrian-lore/theatrian-customs.md)
-* [🎉 Events & Challenges](minecraft/events-challenges/README.md)
+* [🎉 Challenges](minecraft/events-challenges/README.md)
   * [🏛️ The Hall of Patrons](minecraft/events-challenges/the-hall-of-patrons.md)
   * [☄️ Meteorites](minecraft/events-challenges/meteorites.md)
   * [🌟 The Oracle's Blessing](minecraft/events-challenges/the-oracles-blessing/README.md)

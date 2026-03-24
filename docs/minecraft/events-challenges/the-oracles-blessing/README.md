@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🌟 The Oracle's Blessing
 
 Welcome to The Oracle's Blessings Wiki! Here, you'll find all the information you need to understand and complete the [Oracle's Blessings challenges](./#oracles-blessing-challenges). By completing these challenges, the Oracle recognizes your hard work and sacrifices, blessing you with a permanent `/sell hand` boost.

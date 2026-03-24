@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ☄️ Meteorites
 
 Get there with **/warp moon**

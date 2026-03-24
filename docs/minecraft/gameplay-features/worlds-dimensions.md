@@ -38,13 +38,7 @@ Theatria offers several unique worlds, each with its own purpose and rules. Unde
   * **End Cities**: Find and raid End Cities for valuable loot, including Elytra.
   * **World Size**: 10kx10k
 
-## The Moon
 
-* **Purpose**: Explore for rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
-* **Key Features**:
-  * **Monthly Resets**: Ensures opportunities to get Meteorites.
-  * **Meteorites**: Hunt, fight, and find rare treasures in a [Meteorite](../events-challenges/meteorites.md)!
-  * **World Size**: 10kx10k
 
 ***
 

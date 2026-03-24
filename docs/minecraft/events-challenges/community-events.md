@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 👫 Community Events
 
 Community events are a great way to connect with other players, showcase your creativity, and enjoy everything Theatria has to offer as a community. Events often start in [Discord](https://discord.gg/SHgauw8eN8), and everyone is encouraged to participate or contribute their ideas.
