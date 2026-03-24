@@ -26,4 +26,4 @@ Remember, your land claims are a reflection of your hard work and dedication in 
 
 ***
 
-[Rules & Policies](../../rules-policies/)
+[Rules & Policies](./)
