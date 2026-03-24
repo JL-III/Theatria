@@ -16,7 +16,7 @@ To lock a chest, door, or trapdoor:
     ```
     /lock
     ```
-3. Punch the chest you want to lock.
+3. Punch the object you want to lock.
 4. A confirmation message will appear, letting you know the object has been successfully locked.
 
 Now, only you can open or use the locked object. Any other players attempting to access it will be denied.
@@ -31,7 +31,7 @@ If you decide to remove the lock:
     ```
     /unlock
     ```
-3. Punch the chest you want to unlock.
+3. Punch the object you want to unlock.
 4. A confirmation message will appear, letting you know the object has been successfully unlocked.
 
 Once unlocked, the object will be accessible to all players.
