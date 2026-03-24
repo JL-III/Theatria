@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🏃 Parkour
 
 Head to our Parkour hub and test your skills in various arenas! You can jump right into the action with a simple command or browse through the hub to find your favorite arena.

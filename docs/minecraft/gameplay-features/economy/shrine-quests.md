@@ -2,6 +2,7 @@
 description: >-
   This guide provides comprehensive information about how Shrine Quests
   function.
+hidden: true
 ---
 
 # Shrine Quests

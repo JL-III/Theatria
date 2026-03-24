@@ -4,16 +4,6 @@ There are many ways to earn money on Theatria. Whether you're a parkour pro, a q
 
 ***
 
-## Parkour Challenges
-
-{% content-ref url="parkour.md" %}
-[parkour.md](parkour.md)
-{% endcontent-ref %}
-
-Test your skills with parkour challenges! Each completed course rewards you. The harder the course, the bigger the payout.
-
-***
-
 ## Buddy Bonus
 
 {% content-ref url="buddy-bonus.md" %}
@@ -21,16 +11,6 @@ Test your skills with parkour challenges! Each completed course rewards you. The
 {% endcontent-ref %}
 
 Invite your friends to join Theatria! When your buddy signs up and plays, you both receive bonus rewards. It's a win-win for everyone.
-
-***
-
-## Shrine Quests
-
-{% content-ref url="shrine-quests.md" %}
-[shrine-quests.md](shrine-quests.md)
-{% endcontent-ref %}
-
-Take on daily shrine quests and be rewarded with Denarii!
 
 ***
 
