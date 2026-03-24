@@ -70,7 +70,8 @@ If you notice a rule violation, PM a staff member with evidence. **DO NOT** disc
 
 Log in at least once every 180 days to prevent the deletion of your land claims, balance, and homes.\
 We love seeing you around!\
-More details: [Claim Maintenance and Expiration Notice](../../../rules-policies/rules/claim-maintenance-and-expiration.md).
+\
+More details: [Claim Maintenance and Expiration Notice](../claim-maintenance-and-expiration.md)
 
 ***
 
