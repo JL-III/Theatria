@@ -35,19 +35,19 @@ For those who love a traditional adventure, you can always explore Theatria on f
 
 ## Flying Privileges
 
-Supporters at the **Contributor+** tier and higher gain the ability to fly in specific worlds:
+Supporters at the **Contributor** tier and higher gain the ability to fly in specific worlds:
 
-* **`/fly`**: Enables flight in **The Ark** and **Mining World**, making exploration and resource gathering more convenient.
+* **`/fly`**: Enables flight in **The Ark** and/or **Mining World** _depending on supporter tier_, making exploration and resource gathering more convenient.
 
 ## Tips for Getting Around
 
-* Explore our [Dynmap](map.md) in your web browser to find biomes, claims, and active players.
+* Explore our [map](map.md) in your web browser to find biomes, claims, and active players.
 * Use `/spawn` if you're lost or need a central point to regroup.
 * Set homes at frequently visited locations to save time.
 * Check `/warps` regularly for new community spots.
 * Invite others to teleport to you or ask to teleport to another player using these commands:
-  * `/tpa {username}`: Requests to teleport to another player.
-  * `/tpahere {username}`: Requests another player teleport to you.
+  * `/tpa [username]`: Requests to teleport to another player.
+  * `/tpahere [username]`: Requests another player teleport to you.
   * `/tpaccept`: Accepts teleport requests.
 * At [Champion](../gameplay-features/ranks/mythic-tier/02-champion.md) rank, unlock the `/back` command to instantly teleport back to your previous location.
 

@@ -24,7 +24,11 @@ Warps on Theatria are organized into the following categories:
 
 ## Warp Costs
 
-Most warps are free to use. However, some warps may have a Denarii cost associated with them. To find out if a warp costs Denarii, hover over it in the warp menu to see its details.
+Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp use the following command:
+
+```
+/warp create [name]
+```
 
 ## Unlocking Additional Warps
 
