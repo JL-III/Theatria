@@ -9,10 +9,6 @@ Explore the world of Theatria with our interactive online [map](https://map.play
 * **Claimed Chunks:** Chunks that have been claimed are highlighted and display which player has claimed them. Learn more about claiming at [Land Claims](../gameplay-features/land-claiming.md).
 * **Zoom & Pan:** Navigate the map with ease to explore areas of interest.
 
-## Map Previews
-
-Here is a snapshot of the Overworld as of August 26, 2021:
-
 ### The Overworld
 
 ![The Ark 8/26/2021](<../../.gitbook/assets/Capture (8).PNG>)
