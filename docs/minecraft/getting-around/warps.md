@@ -12,23 +12,9 @@ To view the list of available warps, use the command:
 
 This will display all the warps currently accessible to you. To teleport to a specific warp, simply select it from the menu.
 
-## Warp Categories
-
-Warps on Theatria are organized into the following categories:
-
-* **Server:** Key locations maintained by the server, such as spawn points and event areas.
-* **Town:** Teleport points for various player-created towns and communities.
-* **Shop:** Locations for player shops where you can buy and sell items.
-* **Farm:** Designated areas for resource gathering, like mob farms and crop fields.
-* **Other:** Miscellaneous warps that don’t fit into the above categories.
-
 ## Warp Costs
 
-Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp use the following command:
-
-```
-/warp create [name]
-```
+Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp open a staff ticket on discord and apply [here](https://discord.gg/j2h8f8XbY).
 
 ## Unlocking Additional Warps
 
