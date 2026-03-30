@@ -31,9 +31,9 @@ Crate keys are special items that let you unlock rewards in Theatria. There are 
 
 ### Spawner Crates
 
-* Place the Spawner Crate Key in your inventory.
-* Use the **/cc** command to open the Crazy Crates menu.
-* Left-click on the Spawner Crate icon to redeem your key.
+* Warp to **/warp crates**.
+* Look for the signs directing you to the Spawner Crate location.
+* Right-click (or use) on the designated bookshelf to redeem your crate key.
 
 ## Viewing Crate Rewards
 
