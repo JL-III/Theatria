@@ -44,7 +44,7 @@ Use the **/cc** command to open the Crazy Crates menu. This menu allows you to:
 
 ## Tips
 
-* Always check your inventory for earned crate keys after completing eligible activities, like completing an hour of active daily playtime!
+* Always check your inventory for earned crate keys after completing eligible activities, like completing your daily playtime reward!
 * Visit the designated locations regularly to redeem your keys and claim your rewards.
 
 ***
