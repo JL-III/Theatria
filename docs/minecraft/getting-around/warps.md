@@ -16,10 +16,6 @@ This will display all the warps currently accessible to you. To teleport to a sp
 
 Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp open a staff ticket on discord and apply [here](https://discord.gg/j2h8f8XbY).
 
-## Unlocking Additional Warps
-
-As you progress through ranks on Theatria, you'll unlock the ability to purchase and create additional community warps. This feature allows you to set up convenient teleport points for others to use, fostering collaboration and ease of travel.
-
 ***
 
 ### Related articles
