@@ -8,14 +8,9 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 #### Commands
 
-* **/ajp**: Parkour commands
-  * **Subcommands**:
-    * `/ajp list`: Players playing parkour
-    * `/ajp top`: Shows the 10 players with the most jumps
 * **/assign {area} confirm**: Assign selection to area
 * **/balance**, **/bal**: Displays your current [balance](../economy/)
 * **/balancetop**, **/baltop**: Lists players by top balances
-* **/boost**: Shows if a [mcMMO](../mcmmo.md) Boost is active and its remaining duration
 * **/buddy**: Manage [buddy system](../economy/buddy-bonus.md)
   * **Subcommands**:
     * `/buddy add {name}`: Sends a buddy request to someone
@@ -23,10 +18,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/buddy remove`: Remove your buddy
     * `/buddy notify`: Toggle notifications for rewards
 * **/cc**: Opens the [crate](../crate-keys.md) menu
-* **/ch join {channel name}**: Change [chat](../messaging.md) channels
-  * **Subcommands**:
-    * `/ch join Global`: Switch to global chat
-    * `/ch join Local`: Switch to local chat
 * **/cinfo**: Punch a protected block to view information on it
 * **/claim**: [Claims](../land-claiming.md) the chunk you are in for 5,000 Denarii
 * **/climits**: View the number of protections you own and are allowed
@@ -38,25 +29,16 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/csn help`: Displays help page
     * `/csn history`: Shows your sale history
     * `/csn clear`: Clears sales history
-* **daily-reward**: Check how close you are to your 1 hour of daily playtime
+* **/daily-reward**: Check how close you are to your 1 hour of daily playtime
 * **/delhome**: Removes a set [home](../../getting-around/homes.md)
-* **/discord**: Provides the Discord link
+* **/help discord**: Provides the Discord link
   * **Subcommands**:
-    * `/discord help`: Displays help page
     * `/discord link`: Instructions for linking your Minecraft account with Discord
     * `/discord linked`: Displays link status
     * `/discord unlink`: Unlink your Discord account
 * **/disown**: Disown an [owned item](../item-owning.md)
 * **/exp**: Displays your experience points
-* **/help {page}**: Provides help categories
-  * **Subcommands**:
-    * `/help discord`: Discord link
-    * `/help money`: Economy commands
-    * `/help map`: Dynmap link
-    * `/help wiki`: Wiki link
-    * `/help ranks`: Ranks wiki page link
-    * `/help ledger`: Ledger link
-    * `/help shopdb`: Shop database link
+* **/help**: Provides help categories
 * **/home**: Teleports you to your home
 * **/kit**: Displays or obtains [kits](../kits.md)
 * **/lands**: Opens the Lands menu
@@ -66,10 +48,8 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/ledger**: Provides a link to the ledger
 * **/lock**: [Locks](../chest-locks.md) a block (e.g., chest, door)
 * **/mail**: Manages in-game [mail](../messaging.md)
-* **/map**: Provides the [Dynmap](../../getting-around/map.md) link
+* **/map**: Provides the [map](../../getting-around/map.md) link
 * **/market**: Warps you to `/warp market`
-* **/mcrank**: Displays your [mcMMO](../mcmmo.md) rank
-* **/mcstats**: Displays your [mcMMO](../mcmmo.md) stats
 * **/msg {username}**: Sends a private message
 * **/own**: [Owns an item](../item-owning.md) if unclaimed
 * **/tpdeny**: Rejects teleport requests
@@ -77,24 +57,17 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/playerweather**: Adjusts your weather
 * **/playtime**: Displays your total playtime
 * **/pm**: Sends a private [message](../messaging.md)
-* **/r**, **/reply**: Replies to the last [private message](../messaging.md)
-* **/ranks**: Displays the ranks wiki page
 * **/rankup**: Promotes your rank
 * **/realname**: Displays a player's actual username
 * **/rtp**: Teleports randomly within the current dimension
-* **/rules**: Displays the rules wiki page
 * **/sell**: Sells items
   * **Subcommands**:
     * `/sell hand`: Sells the item in your hand
     * `/sell all`: Sells all sellable items in your inventory
 * **/sethome**: Sets a home at your current location
-* **/shrine**: Opens the [shrine quests](../../../events-challenges/shrine-quests.md) menu
 * **/shop**: Warps you to `/warp market`
 * **/spawn**: Warps you to `/warp spawn`
-* **/stats**: Displays your [mcMMO](../mcmmo.md) stats
-* **/tags**: Opens the tags menu
 * **/titan pack**: Loads the Theatria resource pack
-* **/tob**: Displays your sell-hand multipliers granted by [The Oracle's Blessing](../../events-challenges/the-oracles-blessing/)
 * **/tpa {username}**: Requests to teleport to another player
 * **/tpahere {username}**: Requests another player teleport to you
 * **/tpaccept**: Accepts teleport requests
@@ -126,32 +99,8 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 #### Commands
 
-* **/acrobatics**: Displays stats for the acrobatics [skill](../mcmmo.md)
-* **/archery**: Displays stats for the archery [skill](../mcmmo.md)
-* **/axes**: Displays stats for the axes [skill](../mcmmo.md)
 * **/enderchest**, **/ec**: Access your Ender Chest from anywhere
-* **/excavation**: Displays stats for the excavation [skill](../mcmmo.md)
-* **/fishing**: Displays stats for the fishing [skill](../mcmmo.md)
-* **/headdb**, **/hdb**: Opens the head database menu
-  * **Subcommands**:
-    * `headdb search {input}`: Search for specific heads
-* **/herbalism**: Displays stats for the herbalism [skill](../mcmmo.md)
-* **/mcscoreboard**: Manages the [mcMMO](../mcmmo.md) scoreboard
-  * **Subcommands**:
-    * `/mcscoreboard clear`: Clears the scoreboard
-    * `/mcscoreboard keep`: Keeps the current scoreboard
-    * `/mcscoreboard time {seconds}`: Clears the scoreboard after the set time
-* **/mctop**: Displays the top 10 [mcMMO](../mcmmo.md) players
-  * **Subcommands**:
-    * `/mctop {skill}`: Displays top players for a specific [skill](../mcmmo.md)
-* **/mining**: Displays stats for the mining [skill](../mcmmo.md)
-* **/repair**: Displays stats for the repair [skill](../mcmmo.md)
 * **/seen {username}**: Displays the last logout time of a player
-* **/smelting**: Displays stats for the smelting [skill](../mcmmo.md)
-* **/swords**: Displays stats for the swords [skill](../mcmmo.md)
-* **/taming**: Displays stats for the taming [skill](../mcmmo.md)
-* **/unarmed**: Displays stats for the unarmed [skill](../mcmmo.md)
-* **/woodcutting**: Displays stats for the woodcutting [skill](../mcmmo.md)
 
 ### Patrician
 
@@ -271,7 +220,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/itemhistory \[toolID]**: Displays the history of owned items
 * **/itemrename**: Renames items with standard colors
 * **/itemsowned**: Displays owned items
-* **/headdb**: Access the head database menu
 * **/kit supporter**: (Visit shop for more details)
 * **/lb tb**: Tracks block changes with a logging tool
 
@@ -283,7 +231,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/itemrename**: Renames items with colors, formatting, and RGB
 * **/kit Ultimate**: (Visit shop for more details)
 * **/pv**: Access 15 player vaults
-* **/vanish**: Makes you invisible to players (except staff)
 
 ***
 
