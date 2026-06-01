@@ -117,8 +117,6 @@
 
 ## Olympus
 
+* [📜 Rules](olympus/rules.md)
 * [README](olympus/readme.md)
 * [Getting Started](olympus/getting-started.md)
-* [Getting your UUID in Hytale](olympus/getting-your-uuid-in-hytale.md)
-* [📜 Rules](olympus/rules.md)
-* [Land Claiming (Hytale)](olympus/land-claiming-hytale.md)
