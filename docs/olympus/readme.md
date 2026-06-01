@@ -12,10 +12,10 @@ Follow this [guide](getting-started.md) to get started
 
 ## Features
 
-* [**Land Claims**](../minecraft/gameplay-features/land-claiming.md)**:** Protect your builds and secure your items with ease.
+* [**Land Claims**](../theatria/gameplay-features/land-claiming.md)**:** Protect your builds and secure your items with ease.
 * Player driven economy - no server imposed currency.
 * Hytale driven mechanics (Other than claims - we are vanilla)
-* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](../minecraft/support/staff/).
+* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](../theatria/support/staff/).
 
 ## Rules & Policies
 

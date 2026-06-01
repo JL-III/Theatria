@@ -14,16 +14,16 @@ Welcome to Theatria! If you're new to the server, here's how to begin your adven
 
 ## Features
 
-* [**The Ark**](minecraft/gameplay-features/worlds-dimensions.md#the-ark)**:** A permanent world where your creations are safe from resets.
-* **Resetting Resource Worlds:** Regularly refreshed [worlds](minecraft/gameplay-features/worlds-dimensions.md#mining-world) for mining and gathering materials.
-* [**Land Claims**](minecraft/gameplay-features/land-claiming.md) **and** [**Chest Locks**](minecraft/gameplay-features/chest-locks.md)**:** Protect your builds in **The Ark** and secure your items with ease.
-* **Player-Driven** [**Economy**](minecraft/gameplay-features/economy/)**:** Earn and trade Denarii, set up shops, and participate in the thriving economy.
-* **Custom Tools:** Access powerful [Titan tools](minecraft/gameplay-features/titan-tools/) and [Ethereal items](minecraft/gameplay-features/ethereal-items/) to enhance your gameplay.
-* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](minecraft/support/staff/).
+* [**The Ark**](theatria/gameplay-features/worlds-dimensions.md#the-ark)**:** A permanent world where your creations are safe from resets.
+* **Resetting Resource Worlds:** Regularly refreshed [worlds](theatria/gameplay-features/worlds-dimensions.md#mining-world) for mining and gathering materials.
+* [**Land Claims**](theatria/gameplay-features/land-claiming.md) **and** [**Chest Locks**](theatria/gameplay-features/chest-locks.md)**:** Protect your builds in **The Ark** and secure your items with ease.
+* **Player-Driven** [**Economy**](theatria/gameplay-features/economy/)**:** Earn and trade Denarii, set up shops, and participate in the thriving economy.
+* **Custom Tools:** Access powerful [Titan tools](theatria/gameplay-features/titan-tools/) and [Ethereal items](theatria/gameplay-features/ethereal-items/) to enhance your gameplay.
+* **Supportive Community:** Engage with a friendly player base and a dedicated [staff team](theatria/support/staff/).
 
 ## Rules & Policies
 
-Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](minecraft/rules-policies/) to ensure compliance.
+Theatria is committed to maintaining a respectful and enjoyable environment for all players. Please review our [Rules & Policies](theatria/rules-policies/) to ensure compliance.
 
 ## Our Online Community
 
