@@ -105,6 +105,7 @@
   * [Titan Pack](theatria/gameplay-features/titan-pack.md)
   * [🌍 Worlds & Dimensions](theatria/gameplay-features/worlds-dimensions.md)
 * [🚩 Support](theatria/support/README.md)
+  * [Connecting with Bedrock](theatria/support/connecting-with-bedrock.md)
   * [❓ FAQs](theatria/support/faqs.md)
   * [🧑‍💻 Staff](theatria/support/staff/README.md)
     * [🧑‍💻 Admin](theatria/support/staff/admin.md)
