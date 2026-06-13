@@ -1,4 +1,4 @@
-# 📜 Rules
+# Rules
 
 ### Theatria Rules
 

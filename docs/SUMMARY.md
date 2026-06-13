@@ -118,10 +118,9 @@
 
 ## Olympus
 
-* [📜 Rules](olympus/rules.md)
+* [README](olympus/readme.md)
+* [Rules](olympus/rules.md)
 * [Server Philosophy](olympus/server-philosophy.md)
 * [World Structure](olympus/world-structure.md)
 * [Gameplay Pillars](olympus/gameplay-pillars.md)
 * [Joining Olympus](olympus/joining-olympus.md)
-* [README](olympus/readme.md)
-* [Getting Started](olympus/getting-started.md)
