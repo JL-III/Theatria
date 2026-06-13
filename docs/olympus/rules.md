@@ -1,11 +1,9 @@
 # Rules
 
-### Theatria Rules
-
 {% hint style="success" %}
 #### Core Principle
 
-Theatria is a high-trust whitelist survival community. Rules exist to preserve shared trust, world integrity, and long-term collaborative building. Staff enforce both intent and impact.
+Olympus is a high-trust whitelist survival community. Rules exist to preserve shared trust, world integrity, and long-term collaborative building. Staff enforce both intent and impact.
 {% endhint %}
 
 ***
@@ -24,7 +22,7 @@ No griefing, stealing, or altering other players’ builds without permission.
 
 ### 3. Fair Play
 
-No hacks, cheats, or exploit abuse that impacts other players, server stability, or progression. Client-side convenience mods are generally allowed if they do not affect gameplay balance or server performance.
+No hacks, cheats, or exploit abuse that impacts other players, server stability, or progression. Client-side convenience mods are generally allowed if they do not provide unfair information, automation, combat advantage, duplication, x-ray, or server performance impact.
 
 ***
 
@@ -48,4 +46,4 @@ Staff may intervene based on impact and intent to preserve a healthy community e
 
 ### Activity
 
-Claims may be removed after 180 days of inactivity.
+Claims may be removed after 180 days of inactivity. Claims may be removed after 180 days of player inactivity to prevent land from being locked indefinitely. Claim removal does not mean staff intend to erase the world or casually reset player history.
