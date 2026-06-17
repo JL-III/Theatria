@@ -9,16 +9,18 @@ Spawners are a valuable resource in Theatria, allowing players to generate speci
 ## How to Obtain Spawners
 
 1. **Ranks** Unlock spawners through [Ranks](ranks/mythic-tier/01-hero.md) which can be purchased with Denarii, our in-game currency. Higher ranks often include better rewards.
+2. Purchase from Player shops at /market (this is a warp)
 
 ## Placement Restrictions
 
-* **Mining World Only**: Spawners can only be placed in the [Mining World](worlds-dimensions.md#mining-world).
+* **Worlds**:&#x20;
+  * **The Ark:** One spawner can be placed per chunk.
+  * **Mining**: You can place an unlimited number of spawners in the Mining World.
 * **World Reset**: The Mining World typically resets once a month, near the beginning of the month. Check the #announcements channel in our Discord server for updates.
 
 ## Tips
 
-* Save spawners for strategic use when you plan to spend time in the Mining World.
-* If you place a spawner in the Mining World, you can break it with a pickaxe. Using a pickaxe enchanted with Silk Touch gives you a 75% chance of successfully picking it up. However, if you don’t use Silk Touch, the spawner will be destroyed.
+* Spawners can be broken with a Silktouch pickaxe.
 
 ***
 
