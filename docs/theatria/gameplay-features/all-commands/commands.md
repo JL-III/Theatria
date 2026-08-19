@@ -147,7 +147,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 #### Commands
 
-* **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](../../../gameplay-features/itemfilter.md)
+* **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/itemfilter.md)
   * **Subcommands**:
     * `/itemfilter menu`: Opens the filter menu
     * `/itemfilter toggle`: Toggles item filters on or off
@@ -181,7 +181,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/anvil**: Access an anvil menu for free
 * **/condense**, **/cnd**: Condenses items for free
 * **/fix all**: Repairs all items for free
-* **/heal**: Restores health instantly for free
 * **/jump**: Teleports you forward
 * **/smelt**: Instantly smelt items
 * **/soak**: Toggles soak mode
