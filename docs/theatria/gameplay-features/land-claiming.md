@@ -17,8 +17,8 @@ Claiming land is an important feature on Theatria, allowing you to secure your b
 
 **Important Notes:**
 
-* Claims are limited by [ranks](../../gameplay-features/ranks/). To increase your claim limit, you can rank up!
-* The initial cost per chunk is **$10,000**.
+* Claims are limited by [ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md). To increase your claim limit, you can rank up!
+* The initial cost per chunk is **$1,000**.
 * Additional chunks are **$5,000.**
 * You can earn money through various activities detailed in the [Economy](economy/) section of the wiki.
 
@@ -90,7 +90,7 @@ Some ranks allow you to create multiple land claims! If your rank supports this,
 
 `/lands create [name]`
 
-For more information about ranks and their benefits, check out the [Ranks](../../gameplay-features/ranks/) page.
+For more information about ranks and their benefits, check out the [Ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md) page.
 
 ***
 
