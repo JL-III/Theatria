@@ -2,8 +2,6 @@
 
 Titan Tools are special, powerful tools in Theatria that contain OP enchantments. These tools make various tasks easier.
 
-
-
 ## Titan Tools Player Guide
 
 Titan tools are permanent-durability tools with an **Ancient Power** ability. Most abilities require the tool to be charged and switched on.
@@ -43,7 +41,7 @@ The Excavator is the crystal-finding tool and does not use Ancient Power charge.
 * Attempts to leave the correct sapling or fungus when an eligible tree base is directly above dirt, podzol, or grass.
 * When used to kill a mob, also awards bonus experience equal to the mob's normal experience drop.
 
-#### Titan Shovel
+#### Titan Shovel (Deletes blocks)
 
 * Left-click a block to clear a **3x3 plane** aligned with the face you clicked.
 * Skips surrounding block types excluded by the server and respects protected blocks.
