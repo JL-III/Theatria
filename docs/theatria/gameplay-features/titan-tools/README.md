@@ -57,7 +57,6 @@ When a catch is reeled in:
 
 * Cod and salmon receive one extra fish.
 * Pufferfish and tropical fish are unchanged.
-* Treasure and junk catches are converted into a tropical fish.
 
 
 
