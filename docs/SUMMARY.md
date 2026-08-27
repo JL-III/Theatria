@@ -66,6 +66,7 @@
     * [Ethereal Hoe](theatria/gameplay-features/ethereal-items/ethereal-hoe.md)
     * [Ethereal Long Bow](theatria/gameplay-features/ethereal-items/ethereal-long-bow.md)
     * [Ethereal Pants](theatria/gameplay-features/ethereal-items/ethereal-pants.md)
+  * [🪄 Builders Wand](theatria/gameplay-features/builders-wand.md)
   * [🛒 Feature Shop](theatria/gameplay-features/feature-shop.md)
   * [🛠️ Item Filter](theatria/gameplay-features/item-filter.md)
   * [Item Owning](theatria/gameplay-features/item-owning.md)
