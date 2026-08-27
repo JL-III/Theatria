@@ -13,7 +13,7 @@ Head to our Parkour hub and test your skills in various arenas! You can jump rig
 
 In the hub, each arena is represented by a hologram. The hologram displays the arena's name, location, and difficulty level. To start, right-click the hologram of your chosen arena.
 
-<figure><img src="../../../../.gitbook/assets/warp-parkour.png" alt="Parkour Hub"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/JL-III/Theatria/blob/master/.gitbook/assets/warp-parkour.png" alt="Parkour Hub"><figcaption></figcaption></figure>
 
 When the round begins, navigate a series of challenging jumps from block to block, avoiding falls at all costs. If you miss a jump, you'll be teleported back to the hub to try again or choose a new arena.
 
@@ -35,7 +35,7 @@ Get ready to jump, earn, and compete for glory on Theatria's Parkour arenas!
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](../../../gameplay-features/gameplay-features/economy/ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+🤑 🤑 🤑 Discover [ways to make Denarii](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/gameplay-features/economy/ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
 
 ***
 

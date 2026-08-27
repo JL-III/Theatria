@@ -23,4 +23,4 @@ To optimize server performance and enhance gameplay, Theatria uses a mob stackin
 ### Related articles
 
 * [Spawners](spawners.md)
-* [Custom Mob Rules](../../gameplay-features/mob-rules.md)
+* [Custom Mob Rules](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/mob-rules.md)

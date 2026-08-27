@@ -30,7 +30,7 @@ Trading Ethereal Fragments grants access to the following powerful items:
 
 ### Related Pages
 
-* [Mining World Overview](../../../gameplay-features/worlds-dimensions/#mining-world)
+* [Mining World Overview](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/worlds-dimensions/README.md#mining-world)
 * [Meteorites](../../events-challenges/meteorites.md)
 * [Titan Tools](../titan-tools/)
 

@@ -8,7 +8,7 @@ No mods are required to play on Theatria. However, our custom resource pack is m
 
 ### Can I claim land to protect my builds?
 
-Yes! Theatria has a robust [land-claim system](../../gameplay-features/land-claiming.md) that allows you to protect your builds from griefing. Additionally, you can use our [chest locks](../../gameplay-features/chest-locks.md) feature to secure your chests and containers.
+Yes! Theatria has a robust [land-claim system](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/land-claiming.md) that allows you to protect your builds from griefing. Additionally, you can use our [chest locks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/chest-locks.md) feature to secure your chests and containers.
 
 ***
 
@@ -16,11 +16,11 @@ Yes! Theatria has a robust [land-claim system](../../gameplay-features/land-clai
 
 ### What are the server rules?
 
-Our rules are designed to foster a fun, inclusive, and respectful environment for all players. Please take a moment to review the full list of [Rules & Policies](../../rules-policies/).
+Our rules are designed to foster a fun, inclusive, and respectful environment for all players. Please take a moment to review the full list of [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md).
 
 ### Why do some players glow?
 
-The glowing effect indicates that the player has activated Night Vision. This feature is unlocked at [Champion rank](../../gameplay-features/ranks/mythic-tier/02-champion.md) and allows players to toggle the `/nv` command. Night Vision provides a glowing aura and improved visibility in dark areas.
+The glowing effect indicates that the player has activated Night Vision. This feature is unlocked at [Champion rank](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/mythic-tier/02-champion.md) and allows players to toggle the `/nv` command. Night Vision provides a glowing aura and improved visibility in dark areas.
 
 ### How do I fly?
 
@@ -61,6 +61,6 @@ Currently, Theatria supports only the Java Edition of Minecraft. Bedrock and Con
 
 ## Additional Resources
 
-* [Getting Started](../../support/getting-started.md)
+* [Getting Started](https://github.com/JL-III/Theatria/blob/master/docs/support/getting-started.md)
 * [Theatria Staff](staff/)
-* [Rules & Policies](../../rules-policies/)
+* [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md)

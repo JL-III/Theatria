@@ -51,7 +51,7 @@ Once unlocked, the object will be accessible to all players.
 ## **Additional Notes**
 
 * **Lock Removal by Admins**: In case of abandoned locks or disputes, server admins can manually remove locks. Contact a staff member if you need assistance.
-* **Limitations**: Each player has a limit on the number of locked objects, based on rank. Review our list of [Ranks](../../gameplay-features/ranks/) to learn more.
+* **Limitations**: Each player has a limit on the number of locked objects, based on rank. Review our list of [Ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md) to learn more.
 
 ***
 

@@ -69,7 +69,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
 * **/help {page}**: Provides help categories (Pleb)
 * **/herbalism**: Displays stats for the herbalism [skill](../mcmmo.md) (Gladiator)
 * **/home**: Teleports you to your home (Pleb)
-* **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](../../../gameplay-features/itemfilter.md) (Paragon)
+* **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/itemfilter.md) (Paragon)
   * **Subcommands**:
     * `/itemfilter menu`: Opens the filter menu
     * `/itemfilter toggle`: Toggles item filters on or off
@@ -126,7 +126,7 @@ Commands are listed alphabetically. Each entry includes the rank where the comma
     * `/sell hand`: Sells the item in your hand
     * `/sell all`: Sells all sellable items in your inventory
 * **/sethome**: Sets a home at your current location (Pleb)
-* **/shrine**: Opens the [shrine quests](../../../events-challenges/shrine-quests.md) menu (Pleb)
+* **/shrine**: Opens the [shrine quests](https://github.com/JL-III/Theatria/blob/master/docs/events-challenges/shrine-quests.md) menu (Pleb)
 * **/shop**: Warps you to `/warp market` (Pleb)
 * **/skull**: Obtain your own skull (Patrician)
 * **/smelt**: Instantly smelt items (God)

@@ -6,6 +6,8 @@ hidden: true
 
 ## Builders Wand — Player Guide
 
+<figure><img src="../../.gitbook/assets/wand.gif" alt=""><figcaption></figcaption></figure>
+
 The Builders Wand helps you create large shapes from blocks in your inventory. Choose a build mode, preview the shape in the world, adjust its size, and print it one block at a time.
 
 ### Getting a Builders Wand

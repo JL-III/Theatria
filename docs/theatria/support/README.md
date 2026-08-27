@@ -13,7 +13,7 @@ Need help? Here are some options:
 
 ### Related articles
 
-* [Getting Started](../../support/getting-started.md)
+* [Getting Started](https://github.com/JL-III/Theatria/blob/master/docs/support/getting-started.md)
 * [FAQs](faqs.md)
 * [Theatria Staff](staff/)
-* [Rules & Policies](../../rules-policies/)
+* [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md)

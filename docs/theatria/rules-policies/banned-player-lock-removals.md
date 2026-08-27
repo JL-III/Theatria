@@ -14,7 +14,7 @@ A player's locks cannot be removed during:
 * The initial one-week appeal window.
 * Any time during which their appeal is under consideration.
 
-To request lock removal after these periods, open a ticket in our Discord as outlined in [technical-help.md](../../faqs-troubleshooting/technical-help.md "mention").
+To request lock removal after these periods, open a ticket in our Discord as outlined in [https://github.com/JL-III/Theatria/blob/master/docs/faqs-troubleshooting/technical-help.md](https://github.com/JL-III/Theatria/blob/master/docs/faqs-troubleshooting/technical-help.md "mention").
 
 ***
 

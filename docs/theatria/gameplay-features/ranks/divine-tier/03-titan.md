@@ -22,4 +22,4 @@ Apply for this rank on our Discord under **#titan-application**.
 
 \| **Previous Rank:** [Olympian](02-olympian.md) | **Next Rank:** [Immortal](04-immortal.md) |
 
-\| [All Ranks](../../../../gameplay-features/ranks/) |
+\| [All Ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md) |

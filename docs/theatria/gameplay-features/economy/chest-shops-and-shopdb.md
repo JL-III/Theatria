@@ -64,7 +64,7 @@ With these steps, you can set up your shop and start trading with other players 
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](../../../gameplay-features/economy/ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+🤑 🤑 🤑 Discover [ways to make Denarii](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/economy/ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
 
 ***
 

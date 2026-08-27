@@ -4,12 +4,12 @@ The staff team at Theatria is dedicated to ensuring the smooth operation and suc
 
 ## Staff Ranks and Roles
 
-* **Admin**: [Admin](../../../support/staff/admin.md)
-* **Senior Moderators**: [Senior Moderator](../../../support/staff/senior-moderator.md)
-* **Moderators**: [Moderator](../../../support/staff/moderator.md)
-* **Event Managers**: [Event Manager](../../../support/staff/event-manager.md)
-* **Social Media Managers**: [Social Media Manager](../../../support/staff/social-media-manager.md)
-* **Server Builder**: [Server Builder](../../../support/staff/server-builder.md)
+* **Admin**: [Admin](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/admin.md)
+* **Senior Moderators**: [Senior Moderator](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/senior-moderator.md)
+* **Moderators**: [Moderator](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/moderator.md)
+* **Event Managers**: [Event Manager](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/event-manager.md)
+* **Social Media Managers**: [Social Media Manager](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/social-media-manager.md)
+* **Server Builder**: [Server Builder](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/server-builder.md)
 
 ## Staff Principles
 
@@ -28,6 +28,6 @@ By working together, the staff team ensures that Theatria remains a thriving and
 
 ## Support Articles
 
-* [Getting Started](../../../support/getting-started.md)
+* [Getting Started](https://github.com/JL-III/Theatria/blob/master/docs/support/getting-started.md)
 * [FAQs](../faqs.md)
-* [Rules & Policies](../../../rules-policies/)
+* [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md)
