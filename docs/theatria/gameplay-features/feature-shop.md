@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🛒 Feature Shop
 
 The **Feature Shop** is Theatria's online store, hosted through [Tebex](https://theatrian-market.tebex.io/), where players can support the server through donations. These donations directly fund advertisements to help grow Theatria's community while maintaining a fair and balanced gameplay experience.
