@@ -1,10 +1,10 @@
 # Gameplay Pillars
 
-### Main Gameplay Pillars
+## Overview
 
-Olympus is built around four major pillars.
+Olympus is built around four major pillars: building, exploration, engineering, and community. Claims, player trade, and custom content support those pillars.
 
-### Building
+## Building
 
 Olympus supports long-term building projects.
 
@@ -25,7 +25,7 @@ Players are encouraged to create:
 
 The server is not only about individual bases. Shared infrastructure is part of the intended experience.
 
-### Exploration
+## Exploration
 
 Olympus expands the world with new terrain, structures, biomes, and dimensions.
 
@@ -33,7 +33,7 @@ Exploration is meant to feel valuable. Players should be able to find new places
 
 The world is not designed to be fully understood immediately.
 
-### Engineering
+## Engineering
 
 Create is the central engineering system of Olympus.
 
@@ -43,13 +43,15 @@ Create Aeronautics and related mods expand this further with vehicles, airships,
 
 Engineering is not required, but it is one of the major paths available to players.
 
-### Community
+## Community
 
 Olympus is a multiplayer world.
 
 Players can trade, form groups, build near each other, create shops, connect roads, establish settlements, and work on shared infrastructure.
 
 The server is whitelisted because the world is intended to last.
+
+## Supporting Systems
 
 ### Claims and Protection
 

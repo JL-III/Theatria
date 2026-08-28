@@ -1,15 +1,15 @@
-# 🧑‍💻 Staff
+# 🧑‍💻 Theatria Staff
 
 The staff team at Theatria is dedicated to ensuring the smooth operation and success of the server. By fostering a safe, welcoming, and engaging environment, they support both the Minecraft server and its vibrant Discord community.
 
 ## Staff Ranks and Roles
 
-* **Admin**: [Admin](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/admin.md)
-* **Senior Moderators**: [Senior Moderator](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/senior-moderator.md)
-* **Moderators**: [Moderator](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/moderator.md)
-* **Event Managers**: [Event Manager](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/event-manager.md)
-* **Social Media Managers**: [Social Media Manager](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/social-media-manager.md)
-* **Server Builder**: [Server Builder](https://github.com/JL-III/Theatria/blob/master/docs/support/staff/server-builder.md)
+* **Admin**: [Admin](admin.md)
+* **Senior Moderators**: [Senior Moderator](senior-moderator.md)
+* **Moderators**: [Moderator](moderator.md)
+* **Event Managers**: [Event Manager](event-manager.md)
+* **Social Media Managers**: [Social Media Manager](social-media-manager.md)
+* **Server Builder**: [Server Builder](server-builder.md)
 
 ## Staff Principles
 
@@ -28,6 +28,6 @@ By working together, the staff team ensures that Theatria remains a thriving and
 
 ## Support Articles
 
-* [Getting Started](https://github.com/JL-III/Theatria/blob/master/docs/support/getting-started.md)
+* [Getting Started](../getting-started.md)
 * [FAQs](../faqs.md)
-* [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md)
+* [Rules & Policies](../../rules-policies/)

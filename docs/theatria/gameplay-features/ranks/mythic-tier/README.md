@@ -1,4 +1,4 @@
-### Mythic Tier
+# Mythic Tier
 - [Hero](01-hero.md)
 - [Champion](02-champion.md)
 - [Paragon](03-paragon.md)

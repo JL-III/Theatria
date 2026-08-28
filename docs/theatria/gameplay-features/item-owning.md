@@ -1,7 +1,7 @@
-# Item Owning
+# Item Ownership
 
 ## Overview
-Label gear like weapons and armor as yours using the item owning system. It secures your valuables and adds personalization.
+Label gear like weapons and armor as yours using the item ownership system. It secures your valuables and adds personalization.
 
 ---
 
@@ -16,6 +16,14 @@ Label gear like weapons and armor as yours using the item owning system. It secu
 - **Usage:** `/disown`
 - Removes ownership from the item.
 - Only the current owner can use this command.
+
+### `/itemhistory [toolID]`
+- **Requirement:** Gladiator rank
+- Displays item histories.
+
+### `/itemsowned`
+- **Requirement:** Gladiator rank
+- Displays your owned items.
 
 ---
 

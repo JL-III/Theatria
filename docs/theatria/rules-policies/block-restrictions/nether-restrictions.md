@@ -1,4 +1,4 @@
-# 🚫 Nether
+# 🚫 Nether Restrictions
 
 To ensure fair gameplay and server stability, we've implemented restrictions on the use of certain blocks in the Nether.
 

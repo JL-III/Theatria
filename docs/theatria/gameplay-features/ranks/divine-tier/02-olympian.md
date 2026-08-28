@@ -1,6 +1,6 @@
 # Olympian
 
-### Cost to Rank Up: $10,000,000 Denarii
+## Cost to Rank Up: $10,000,000 Denarii
 
 **Elevate your divine prowess to an even more supreme level with the Olympian rank. Building upon the foundations of the God rank, the Olympian status grants you access to powers and privileges that even the gods would envy.**
 
@@ -8,16 +8,16 @@
 Apply for this rank on our Discord under **#olympian-application**.
 {% endhint %}
 
-### 🔹 Keep Exp
+## 🔹 Keep Exp
 
 * **Ascend beyond mortal limitations.** Your experience is sacred and remains with you, even in death.
 
-### 🔹 Boosted Home and Lock Limits
+## 🔹 Boosted Home and Lock Limits
 
 * **Home Spaces:** Increase your capacity to **35 homes**.
 * **LWC Limit:** Secure your items with **up to 325 chest locks**.
 
-### 🔹 Immune to Suffocation and Drowning
+## 🔹 Immune to Suffocation and Drowning
 
 * **Retain invulnerability to suffocation.**
 * Take **no damage from drowning**. Live underwater or explore the depths without limits—it's your choice!

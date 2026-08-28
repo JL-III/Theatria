@@ -1,4 +1,4 @@
-# 🚫 End
+# 🚫 The End Restrictions
 
 Our server policies strive to ensure fair gameplay and maintain a healthy server environment. To prevent potential exploitation of game mechanics and server lag, several block restrictions have been implemented in **The End**. Please review the restricted blocks below:
 

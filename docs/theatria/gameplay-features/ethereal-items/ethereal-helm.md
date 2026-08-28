@@ -1,3 +1,3 @@
-# Ethereal-Helm
+# Ethereal Helm
 
-![](../../../.gitbook/assets/image.png)
+![Ethereal Helmet](../../../.gitbook/assets/image.png)

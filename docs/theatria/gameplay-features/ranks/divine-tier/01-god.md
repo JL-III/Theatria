@@ -1,6 +1,6 @@
 # God
 
-### Cost to Rank Up: $7,500,000 Denarii
+## Cost to Rank Up: $7,500,000 Denarii
 
 **Unleash an unprecedented level of power with access to these incredible benefits:**
 
@@ -8,21 +8,21 @@
 Apply for this rank on our Discord under **#god-application**.
 {% endhint %}
 
-### 🔹 New Commands
+## 🔹 New Commands
 
-* [View the full list of God commands here.](../../all-commands/commands.md#god)
+* [View the full God command list.](../../all-commands/commands.md#god)
 
-### 🔹 Special Kit
+## 🔹 Special Kit
 
 * Unlock the ultimate **Spawner Kit**:
   * **`/kit spawner25`**: Cooldown of **1 month**, offering top-tier spawning capabilities.
 
-### 🔹 Boosted Home and Lock Limits
+## 🔹 Boosted Home and Lock Limits
 
 * **Home Spaces:** Increase your capacity to **30 homes**.
 * **LWC Limit:** Secure your items with **up to 300 chest locks**.
 
-### 🔹 Immune to Suffocation
+## 🔹 Immune to Suffocation
 
 * **Take no damage** when trapped in gravel or sand, ensuring your survival in even the trickiest situations.
 

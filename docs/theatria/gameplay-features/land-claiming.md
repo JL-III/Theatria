@@ -8,18 +8,22 @@ Claiming land is an important feature on Theatria, allowing you to secure your b
 
 ***
 
-## How to Claim Land
+## Creating a Land
 
 1. Stand in the area you want to claim.
-2. Use the command: `/claim`.
+2. Use `/lands create [land name]` to create a land for **1,000 Denarii**.
+
+## Adding Chunks
+
+Use `/claim` while standing in an adjacent chunk to add it to your land for **5,000 Denarii**.
 
 **Tip:** Try the command `/claim auto` to automatically claim chunks as you walk around! This is perfect for creating larger claims quickly and easily.
 
 **Important Notes:**
 
-* Claims are limited by [ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md). To increase your claim limit, you can rank up!
-* The initial cost per chunk is **$1,000**.
-* Additional chunks are **$5,000.**
+* Claims are limited by [ranks](ranks/). To increase your claim limit, you can rank up!
+* Creating a land costs **1,000 Denarii**.
+* Each additional chunk costs **5,000 Denarii**.
 * You can earn money through various activities detailed in the [Economy](economy/) section of the wiki.
 
 ***
@@ -33,7 +37,7 @@ Here’s a list of useful land-related commands:
   * `/lands map` – Shows a map of your current area.
   * `/lands menu` – Opens the land management menu.
 * **Land Management**
-  * `/lands create [land name]` – Create a new land.
+  * `/lands create [land name]` – Create a new land for 1,000 Denarii.
   * `/lands delete [land name]` – Delete an existing land.
   * `/lands list` – List all lands you own or are a member of.
   * `/lands leave [land name]` – Leave a specific land.
@@ -90,7 +94,7 @@ Some ranks allow you to create multiple land claims! If your rank supports this,
 
 `/lands create [name]`
 
-For more information about ranks and their benefits, check out the [Ranks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/README.md) page.
+For more information about ranks and their benefits, check out the [Ranks](ranks/) page.
 
 ***
 

@@ -1,4 +1,4 @@
-# Automation Rule In Depth
+# Automation and AFK Rules
 
 {% hint style="danger" %}
 Automation includes _any method_ that allows you to bypass **manual gameplay**, including the use of **Minecraft’s own mechanics**.\
@@ -19,7 +19,7 @@ Redstone mechanisms are allowed, primarily for non-monetary uses such as:
 
 If you have questions about what is allowed, feel free to open a [staff support ticket](https://discord.gg/hFJWRDKyNz) in Discord. We are happy to help clarify any concerns.
 
-### Blacklisted Items for Hoppers and Pistons
+## Blacklisted Items for Hoppers and Pistons
 
 The following items are blacklisted for use with hoppers and pistons, meaning these blocks will not interact with these mechanisms:
 

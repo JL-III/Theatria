@@ -1,49 +1,73 @@
----
-hidden: true
----
+# In-Game Denarii Feature Shop
 
-# 🛒 Feature Shop
+{% hint style="success" %}
+**`/shop` does not use real money.** It is an in-game menu, and every purchase uses Denarii earned by playing Theatria.
+{% endhint %}
 
-The **Feature Shop** is Theatria's online store, hosted through [Tebex](https://theatrian-market.tebex.io/), where players can support the server through donations. These donations directly fund advertisements to help grow Theatria's community while maintaining a fair and balanced gameplay experience.
+Run **`/shop`** in game to open the Denarii Feature Shop and unlock gameplay features with your in-game currency.
 
-## What is the Feature Shop?
+Theatria does not accept real-money payments or sell gameplay features. Monthly Supporter ranks have been removed, and Denarii is the only currency used to unlock features in the shop.
 
-The Feature Shop offers a variety of items and perks designed with **pay-to-win (P2W) prevention** in mind. This ensures that Theatria stays true to its promise of providing a fair, inclusive, and enjoyable environment for all players, regardless of their financial contributions.
+## Using `/shop`
 
-### Examples of Available Features:
+1. Run **`/shop`** in game.
+2. Select a feature to review its current price, access period, and restrictions.
+3. Confirm the purchase to pay with Denarii.
+4. Return to the shop when you need to check your remaining access time.
 
-* **Support Rank Recognition:** Show off your support with exclusive ranks displayed both in Discord and in-game, highlighting your contributions to Theatria.
-* **Sunfish & Nightfish:** Take control of time with these unique items, allowing you to change day to night or night to day in your current world.
-* **Flight Access:** Unlock the ability to use '/fly' in The Ark and the Mining World for unparalleled exploration and efficiency.
-* **Server-Wide McMMO Boosts:** Activate 4x McMMO experience for everyone on the server, lasting either four or eight hours, depending on your purchase level.
-* **Vanish Mode:** Disappear from view with the '/vanish' command, perfect for moments when you want to remain unseen while online.
+The in-game menu is the authoritative source if a price, duration, or restriction changes. The current offerings are:
 
-> **Note:** All features are carefully balanced to ensure they do not disrupt the core gameplay or create an unfair advantage for paying players.
+| Feature | Command | Cost | Access period |
+| --- | --- | ---: | ---: |
+| Ark Claim Flight | `/fly` | 250,000 Denarii | 30 days |
+| Nickname Access | `/nick` | 100,000 Denarii | 7 days |
+| Item Renaming | `/itemrename` | 100,000 Denarii | 7 days |
+| Five Player Vaults | `/pv` | 250,000 Denarii | 30 days |
+| Patron Kit | `/kit patron` | 100,000 Denarii | 30 days |
 
-***
+## Ark Claim Flight
 
-## Why Donate to Theatria?
+Ark Claim Flight lets you use `/fly` inside your own claims in The Ark. Flight does not apply outside your claims.
 
-Theatria is committed to running a **non-P2W server** while still funding growth through advertising. Donations help us:
+Access costs **250,000 Denarii** and lasts **30 days**.
 
-1. **Grow the Community:** Advertisements bring new players to Theatria, creating a vibrant and engaging experience for everyone.
-2. **Maintain Fairness:** By relying on donations instead of P2W mechanics, we ensure that gameplay remains skill-based and fun for all.
-3. **Sustain the Server:** Your support helps cover operational costs, ensuring that Theatria continues to thrive.
+## Nickname Access
 
-***
+Nickname Access lets you customize your nickname with `/nick`, including the colors and formatting configured for the feature.
 
-## How to Access the Feature Shop
+Access costs **100,000 Denarii** and lasts **7 days**.
 
-1. Visit [Theatria's Feature Shop](https://theatrian-market.tebex.io/).
-2. Browse the available features and select the ones you like.
-3. Complete your purchase using one of the secure payment methods provided by Tebex.
-4. Enjoy your new perks and know that you're supporting the growth and sustainability of Theatria!
+## Item Renaming
 
-***
+Item Renaming lets you rename items with colors and formatting using `/itemrename`. RGB formatting is available when configured. Items renamed while access is active remain renamed after it expires.
 
-## Our Promise
+Access costs **100,000 Denarii** and lasts **7 days**.
 
-Theatria's mission is to create a **fun, inclusive, and fair Minecraft server** for all players. Donations through the Feature Shop will always adhere to our **non-P2W philosophy**. We are grateful for the community's support and remain dedicated to ensuring Theatria is a server where everyone can enjoy their adventure.
+## Five Player Vaults
+
+This feature provides access to up to **five personal vaults** through `/pv`. Vault contents remain stored after access expires.
+
+Access costs **250,000 Denarii** and lasts **30 days**.
+
+## Patron Kit
+
+Patron Kit access unlocks `/kit patron`. The kit's normal cooldown still applies.
+
+Access costs **100,000 Denarii** and lasts **30 days**.
+
+## Legacy Fly Access
+
+Permanent Fly access from legacy real-money purchases has been retired. Previous purchases do not provide ongoing Fly access; it must now be unlocked through `/shop` like every other gameplay feature.
+
+## Supporting Theatria
+
+There is no paid gameplay progression or credit-card shortcut. The best way to support Theatria is to play, welcome new players, create things worth sharing, and spread the word.
+
+## Related Guides
+
+* [Economy](economy/)
+* [Ways to Make Denarii](economy/ways-to-make-denarii.md)
+* [All Commands](all-commands/)
 
 ***
 

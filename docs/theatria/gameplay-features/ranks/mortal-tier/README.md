@@ -1,4 +1,4 @@
-### Mortal Tier
+# Mortal Tier
 - [Pleb](01-pleb.md)
 - [Initiate](02-initiate.md)
 - [Novice](03-novice.md)

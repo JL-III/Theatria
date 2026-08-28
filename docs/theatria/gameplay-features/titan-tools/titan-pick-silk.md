@@ -1,8 +1,8 @@
 # Titan Pick Silk
 
-![](<../../../.gitbook/assets/The Titan Pick Silk.png>)
+![Silk Touch Titan Pickaxe](<../../../.gitbook/assets/The Titan Pick Silk.png>)
 
-### There are 3 types of Titan Picks here are the prices
+## Silk Touch Titan Pickaxe Prices
 
 * The Red Titan Pick 8 Jigsaws
 * The Yellow Titan Pick 16 Jigsaws

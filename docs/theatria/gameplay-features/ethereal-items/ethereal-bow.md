@@ -1,3 +1,3 @@
 # Ethereal Bow
 
-![](<../../../.gitbook/assets/Ethereal Bow.PNG>)
+![Ethereal Bow](<../../../.gitbook/assets/Ethereal Bow.PNG>)

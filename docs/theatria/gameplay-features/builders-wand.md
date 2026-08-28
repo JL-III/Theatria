@@ -2,23 +2,21 @@
 hidden: true
 ---
 
-# 🪄 Builders Wand
+# 🪄 Builder's Wand
 
-## Builders Wand — Player Guide
+<figure><img src="../../.gitbook/assets/wand.gif" alt="Builder's Wand replacing blocks in a selected area"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/wand.gif" alt=""><figcaption></figcaption></figure>
+The Builder's Wand helps you create large shapes from blocks in your inventory. Choose a build mode, preview the shape in the world, adjust its size, and print it one block at a time.
 
-The Builders Wand helps you create large shapes from blocks in your inventory. Choose a build mode, preview the shape in the world, adjust its size, and print it one block at a time.
-
-### Getting a Builders Wand
+## Getting a Builder's Wand
 
 Purchase your wand from `/warp titan`.
 
 A new wand starts with **5,000 Uses**. Its lore shows its remaining Uses, first wielder, and lifetime Uses.
 
-### Quick start
+## Quick start
 
-1. Hold one **Builders Wand in your main hand**.
+1. Hold one **Builder's Wand in your main hand**.
 2. Hold the block you want to build with, or a water bucket, in your **off hand**.
 3. Choose a mode with **Shift + left-click**, or use `/wand form <mode>`.
 4. Aim at a surface and **left-click** to anchor the shape.
@@ -27,7 +25,7 @@ A new wand starts with **5,000 Uses**. Its lore shows its remaining Uses, first 
 
 The action bar tells you what the next click will do. Purple preview blocks are affordable; red preview blocks are not affordable with your current materials or Uses.
 
-### Controls
+## Controls
 
 | Control                 | Action                                                  |
 | ----------------------- | ------------------------------------------------------- |
@@ -38,7 +36,7 @@ The action bar tells you what the next click will do. Purple preview blocks are 
 
 Changing modes cancels your current preview. Switching away from the wand, dying, changing worlds, or leaving the server also cancels the preview. Rotation and mode changes are confirmed on the action bar.
 
-### Build modes
+## Build modes
 
 * **Box** — hollow boxes, rooms, walls, floors, and ceilings.
 * **Diagonal** — diagonal runs useful for stairs, roofs, and slopes.
@@ -47,7 +45,7 @@ Changing modes cancels your current preview. Switching away from the wand, dying
 
 Large shapes are hollow to keep them practical. The ghost preview shows the exact cells the wand will attempt to build.
 
-### Materials and Uses
+## Materials and Uses
 
 | Material              |                      Inventory cost |                   Wand cost |
 | --------------------- | ----------------------------------: | --------------------------: |
@@ -62,9 +60,9 @@ Doors, beds, shulker boxes, lava buckets, and other unsuitable materials cannot 
 
 There is no automatic undo. Mine printed blocks normally if you want to remove or reclaim them.
 
-### Refilling with Denarii
+## Refilling with Denarii
 
-Hold one Builders Wand in your main hand, then request a Use-restoration quote:
+Hold one Builder's Wand in your main hand, then request a Use-restoration quote:
 
 * `/wand restore` — quote a refill to the wand's maximum.
 * `/wand restore <uses>` — quote a partial refill, such as `/wand restore 500`.
@@ -74,6 +72,6 @@ The standard refill rate is **50 Denarii per Use**, with a **100-Use minimum**. 
 
 Requesting a quote does **not** take money. Review the Uses and price, then click **CONFIRM** in chat or run `/wand restore confirm` within 30 seconds. Changing wands, beginning a print, changing the wand's Uses, or waiting too long invalidates the quote and requires a new one. You cannot request a refill while one of your prints is running.
 
-### Checking your wand
+## Checking your wand
 
 Run `/wand` while holding the wand to see its current mode, Uses, history, selected material, and your building and refill totals.

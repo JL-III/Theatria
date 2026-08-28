@@ -14,7 +14,7 @@ By adhering to these guidelines and expectations, staff members can ensure a fai
 
 ***
 
-### Related Articles
+## Related Articles
 
 * [Rules & Policies](../)
 * [Theatria Staff](../../support/staff/)

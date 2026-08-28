@@ -1,6 +1,6 @@
 # Demigod
 
-### Cost to Rank Up: $4,000,000 Denarii
+## Cost to Rank Up: $4,000,000 Denarii
 
 {% hint style="info" %}
 Apply for this rank on our Discord under **#demigod-application**.
@@ -8,26 +8,22 @@ Apply for this rank on our Discord under **#demigod-application**.
 
 **As a Demigod, ascend to divine heights with these unparalleled perks:**
 
-### 🔹 Unlock More Commands
+## 🔹 Unlock More Commands
 
-* [View the list of new Demigod commands here.](../../all-commands/commands.md#demigod)
+* [View the new Demigod commands.](../../all-commands/commands.md#demigod)
 
-### 🔹 Create More Lands
+## 🔹 Create More Lands
 
 * **Create up to 15 lands**, cementing your status as a master builder and leader.
 
-### 🔹 Special Kit
+## 🔹 Special Kit
 
 * Unlock the enhanced **Spawner Kit**:
   * **`/kit spawner15`**: Cooldown of **1 month**, offering unparalleled spawning capabilities.
 
-### 🔹 Expanded Home Limit
+## 🔹 Expanded Home Limit
 
 * **Home Spaces:** Increase your capacity to **25 homes**, offering ultimate flexibility for all your needs.
-
-### 🔹 Earn a /sellhand Earnings Boost with a TOB
-
-* Earn **The Oracle's Blessing (TOB)**. Learn more about [Heaven Earth Harmony](../../../events-challenges/the-oracles-blessing/01-heaven-earth-harmony.md).
 
 ***
 

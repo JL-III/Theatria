@@ -16,11 +16,11 @@ Market shops are currently free to request, but all shop owners must follow the 
 
 ## Screenshot of the Market
 
-![](../../../.gitbook/assets/2021-09-18_13.57.46.png)
+![Aerial view of player-built shops at Theatria's Market](../../../.gitbook/assets/2021-09-18_13.57.46.png)
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria.
 
 ***
 

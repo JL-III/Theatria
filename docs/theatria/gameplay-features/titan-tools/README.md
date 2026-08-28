@@ -2,7 +2,7 @@
 
 Titan Tools are special, powerful tools in Theatria that contain OP enchantments. These tools make various tasks easier.
 
-## Titan Tools Player Guide
+## Using Titan Tools
 
 Titan tools are permanent-durability tools with an **Ancient Power** ability. Most abilities require the tool to be charged and switched on.
 

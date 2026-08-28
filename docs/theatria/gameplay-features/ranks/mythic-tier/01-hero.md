@@ -1,27 +1,27 @@
 # Hero
 
-### Cost to Rank Up: $1,000,000 Denarii
+## Cost to Rank Up: $1,000,000 Denarii
 
 **As a Hero, ascend to greatness with these powerful benefits:**
 
-### 🔹 Unlock More Commands
+## 🔹 Unlock More Commands
 
-* [View the list of new Hero commands here.](../../all-commands/commands.md#hero)
+* [View the new Hero commands.](../../all-commands/commands.md#hero)
 
-### 🔹 Create More Lands
+## 🔹 Create More Lands
 
 * **Create up to 11 lands** to expand your influence to unparalleled levels.
 
-### 🔹 Max Out Chunk Claims
+## 🔹 Max Out Chunk Claims
 
 * **Claim up to 2000 chunks per land**—the maximum allowed for any rank.
 
-### 🔹 Boosted Lock and Home Limits
+## 🔹 Boosted Lock and Home Limits
 
 * **LWC Limit:** Protect your valuables with **up to 175 chest locks**.
 * **Home Spaces:** Enjoy **9 homes**, giving you even more flexibility.
 
-### 🔹 Special Kits
+## 🔹 Special Kits
 
 * Gain access to unique kits with cooldown periods:
   * **`/kit rainstick`**: Cooldown of **2 hours**.

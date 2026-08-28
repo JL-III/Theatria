@@ -1,6 +1,6 @@
 # 💵 Ways to Make Denarii
 
-There are many ways to earn money on Theatria. Whether you're a parkour pro, a quest enthusiast, or simply love playing and exploring, there's something for everyone! Here are the best ways to make Denarii on the server:
+There are many ways to earn money on Theatria. Whether you're a quest enthusiast or simply love playing and exploring, there's something for everyone! Here are the best ways to make Denarii on the server:
 
 ***
 

@@ -1,6 +1,6 @@
 # 🖥️ Commands by Rank
 
-Advancing through Theatria's Player Ranks unlocks powerful commands to enhance gameplay. If you choose to support the server with a donation, you can access the [Support Ranks](commands.md#support-ranks). This page organizes commands by rank. For a quick reference, see our alphabetical [All Commands](./).
+Advancing through Theatria's Player Ranks unlocks powerful commands to enhance gameplay. This page organizes commands by rank. For a quick reference, see our alphabetical [All Commands](./).
 
 ## Player Ranks
 
@@ -19,7 +19,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/buddy notify`: Toggle notifications for rewards
 * **/cc**: Opens the [crate](../crate-keys.md) menu
 * **/cinfo**: Punch a protected block to view information on it
-* **/claim**: [Claims](../land-claiming.md) the chunk you are in for 5,000 Denarii
+* **/claim**: Adds the chunk you are in to your [land](../land-claiming.md) for 5,000 Denarii
 * **/climits**: View the number of protections you own and are allowed
 * **/cmodify {username}**: Allows a player to use a specific block
 * **/coords**: Shows your coordinates above your hotbar
@@ -43,12 +43,11 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 * **/kit**: Displays or obtains [kits](../kits.md)
 * **/lands**: Opens the Lands menu
   * **Subcommands**:
-    * `/lands create {land-name}`: Costs 10,000 Denarii
+    * `/lands create {land-name}`: Creates a new land for 1,000 Denarii
 * **/leave {land-name}**: Leave a land
 * **/ledger**: Provides a link to the ledger
 * **/lock**: [Locks](../chest-locks.md) a block (e.g., chest, door)
 * **/mail**: Manages in-game [mail](../messaging.md)
-* **/map**: Provides the [map](../../getting-around/map.md) link
 * **/market**: Warps you to `/warp market`
 * **/msg {username}**: Sends a private message
 * **/own**: [Owns an item](../item-owning.md) if unclaimed
@@ -65,7 +64,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
     * `/sell hand`: Sells the item in your hand
     * `/sell all`: Sells all sellable items in your inventory
 * **/sethome**: Sets a home at your current location
-* **/shop**: Warps you to `/warp market`
+* **/shop**: Opens the [Denarii Feature Shop](../feature-shop.md)
 * **/spawn**: Warps you to `/warp spawn`
 * **/titan pack**: Loads the Theatria resource pack
 * **/tpa {username}**: Requests to teleport to another player
@@ -100,6 +99,8 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 #### Commands
 
 * **/enderchest**, **/ec**: Access your Ender Chest from anywhere
+* **/itemhistory [toolID]**: Displays item histories
+* **/itemsowned**: Displays owned items
 * **/seen {username}**: Displays the last logout time of a player
 
 ### Patrician
@@ -147,7 +148,7 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 #### Commands
 
-* **/itemfilter**, **/if**: Manage item pickup filters. [Learn more](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/itemfilter.md)
+* **/itemfilter**, **/if**: Manage item pickup filters. [Read the Item Filter guide](../item-filter.md)
   * **Subcommands**:
     * `/itemfilter menu`: Opens the filter menu
     * `/itemfilter toggle`: Toggles item filters on or off
@@ -199,6 +200,16 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 ### Immortal
 
 * No additional commands
+
+## Denarii Feature Shop Commands
+
+These commands require active access purchased with Denarii through [`/shop`](../feature-shop.md). The in-game shop is authoritative if a price, duration, or restriction changes.
+
+* **/fly**: Toggles flight inside your own Ark claims while Ark Claim Flight access is active
+* **/itemrename**: Renames items with colors and formatting while Item Renaming access is active
+* **/kit patron**: Obtains the Patron Kit while access is active; the normal kit cooldown still applies
+* **/nick**: Customizes your nickname while Nickname Access is active
+* **/pv**: Opens up to five personal vaults while Five Player Vaults access is active
 
 ***
 

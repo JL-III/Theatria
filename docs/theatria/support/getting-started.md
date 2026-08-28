@@ -6,7 +6,9 @@ Welcome to **Theatria**, your gateway to an immersive Minecraft experience! This
 
 ## Step 1: Connecting to Theatria
 
-1. **Launch Minecraft**: Open the Minecraft launcher and ensure you have the latest version of Minecraft Java Edition installed.
+Theatria is whitelisted. Join the [Theatria Discord](https://discord.gg/jYS5rR2HxP) and complete the application before connecting.
+
+1. **Launch Minecraft**: Open **Java Edition 26.1.2**, the recommended and supported client version. Bedrock connection is possible but not recommended; see [Connecting with Bedrock](connecting-with-bedrock.md).
 2. **Add the Server**:
    * Click on **Multiplayer**.
    * Select **Add Server**.
@@ -39,7 +41,7 @@ Once you join the server, you will start in our **Welcome Hub** in [**The Ark**]
 * `/warp tutorial`: Return to the new player tutorial.
 * `/claim`: Claim a chunk of land. Learn more about [Land Claiming](../gameplay-features/land-claiming.md).
 * `/sethome [name of home]`: Set your current location as your home. As players rank up, they can save more homes.
-* `/home [name of home]`: Teleport to your saved home. Learn more about [Homes](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/homes.md).
+* `/home [name of home]`: Teleport to your saved home. Read the [Homes guide](../getting-around/homes.md).
 * `/warps`: Find and visit community landmarks and player-submitted points of interest.
 
 You can find a full list of commands on our [Commands Page](../gameplay-features/all-commands/commands.md).
@@ -52,7 +54,7 @@ Need assistance? Here’s how to find [support](./):
 
 * **Ask in Chat**: Our community and staff are here to help.
 * **Explore the Wiki**: Browse detailed guides here in our wiki.
-* **Join our Discord**: Connect with us on [Discord](https://discord.gg/SHgauw8eN8) for updates and live support.
+* **Join our Discord**: Connect with us on [Discord](https://discord.gg/jYS5rR2HxP) for updates and live support.
 
 ***
 

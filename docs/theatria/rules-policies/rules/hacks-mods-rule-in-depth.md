@@ -1,4 +1,4 @@
-# Hacks / Mods Rule In Depth
+# Allowed and Prohibited Mods
 
 ## **Mods and Hacks that are 100% NOT Allowed**
 
@@ -33,7 +33,7 @@ The following mods are permitted as long as they comply with server rules:
 * Autofishing mods (must pass AFK checks)
 
 {% hint style="danger" %}
-#### Important Warning
+### Important Warning
 
 Autofishing mods and autoclickers are allowed under strict conditions: **you must always be able to pass an AFK check.**
 

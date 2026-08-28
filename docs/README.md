@@ -1,4 +1,4 @@
-# README
+# Welcome to Theatria
 
 ## About Theatria
 
@@ -8,8 +8,8 @@ Founded on April 1, 2021, Theatria is a Minecraft server dedicated to providing 
 
 Welcome to Theatria! If you're new to the server, here's how to begin your adventure:
 
-1. **Join Our Discord and Apply:** Our server is whitelisted, only approved applicants can play on our server, apply on our discord! [Discord](https://discord.gg/jYS5rR2HxP).
-2. **Join the Server:** Add `mc.playtheatria.com` to your Minecraft server list. Theatria supports **Java Edition** (currently version 26.1.2).
+1. **Join Our Discord and Apply:** The server is whitelisted, so only approved applicants can join. Apply in the [Theatria Discord](https://discord.gg/jYS5rR2HxP).
+2. **Join the Server:** Add `mc.playtheatria.com` to your Minecraft server list. The recommended client is **Java Edition 26.1.2**. Bedrock clients can technically connect, but the process is more complex, is not recommended, and may temporarily stop working after Bedrock updates. See [Connecting with Bedrock](theatria/support/connecting-with-bedrock.md) for details.
 3. **Explore and Create:** Start building in The Ark, set up a shop, or join one of our exciting events and challenges.
 
 ## Features
@@ -27,7 +27,7 @@ Theatria is committed to maintaining a respectful and enjoyable environment for 
 
 ## Our Online Community
 
-* [**Discord**](https://discord.gg/jYS5rR2HxP)**:** ⬅️ Our Discord server is the best way to connect with fellow players and staff.
+* [**Discord**](https://discord.gg/jYS5rR2HxP): ⬅️ Our Discord server is the best way to connect with fellow players and staff.
 * [**Instagram**](https://www.instagram.com/theatriaofficial/)
 * **Wiki:** Explore detailed guides, FAQs, and more here on our wiki.
 

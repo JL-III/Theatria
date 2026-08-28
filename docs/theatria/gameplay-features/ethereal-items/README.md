@@ -6,7 +6,7 @@ Ethereal Items are powerful, one-of-a-kind items that you can purchase using [**
 
 1. **Search for Meteorites**: Explore the Mining World to hunt for [meteorites](../../events-challenges/meteorites.md). These rare occurrences may contain special loot.
    * **Meteorite Barrels**: Rarely, meteorite barrels will include an [**Ethereal Fragment**](ethereal-fragments.md) among their treasures.
-2. **Collect and Trade**: Accumulate 16 Ethereal Fragments then open a stuff support ticket to trade them in for one Ethereal Item.
+2. **Collect and Trade**: Accumulate 16 Ethereal Fragments, then open a staff support ticket to trade them for one Ethereal Item.
 
 ## Available Ethereal Items
 
@@ -30,7 +30,7 @@ Trading Ethereal Fragments grants access to the following powerful items:
 
 ### Related Pages
 
-* [Mining World Overview](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/worlds-dimensions/README.md#mining-world)
+* [Mining World Overview](../worlds-dimensions.md#mining-world)
 * [Meteorites](../../events-challenges/meteorites.md)
 * [Titan Tools](../titan-tools/)
 
