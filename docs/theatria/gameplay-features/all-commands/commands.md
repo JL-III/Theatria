@@ -200,37 +200,6 @@ Advancing through Theatria's Player Ranks unlocks powerful commands to enhance g
 
 * No additional commands
 
-## Support Ranks
-
-### Contributor
-
-#### Commands
-
-* **/kit contributor**: (Visit shop for more details)
-* **/nickname**: Sets your nickname
-* **/fly**: Enables flight in The Ark
-
-### Supporter
-
-#### Commands
-
-* **/activity**: Lets you see a list of the players that have logged in today!
-* **/fly**: Enables flight in The Ark and Mining worlds
-* **/itemhistory \[toolID]**: Displays the history of owned items
-* **/itemrename**: Renames items with standard colors
-* **/itemsowned**: Displays owned items
-* **/kit supporter**: (Visit shop for more details)
-* **/lb tb**: Tracks block changes with a logging tool
-
-### Ultimate
-
-#### Commands
-
-* **/itemhistory \[toolID]**: Displays item histories (yours and others with a ToolID)
-* **/itemrename**: Renames items with colors, formatting, and RGB
-* **/kit Ultimate**: (Visit shop for more details)
-* **/pv**: Access 15 player vaults
-
 ***
 
 [Gameplay Features](../)
