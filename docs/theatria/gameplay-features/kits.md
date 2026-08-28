@@ -1,6 +1,6 @@
 # 🧰 Kits
 
-Kits are packages of rewards provided by the server. These rewards may include items, tools, or other benefits. Some player ranks and supporter ranks offer exclusive kits as a reward.
+Kits are packages of rewards provided by the server. These rewards may include items, tools, or other benefits. Some player ranks offer exclusive kits as a reward.
 
 ## How to Use Kits
 

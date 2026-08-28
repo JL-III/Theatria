@@ -1,7 +1,7 @@
 # Titan Shovel
 
-![](<../../../.gitbook/assets/The Titan Shovel.png>)
+![Titan Shovel](<../../../.gitbook/assets/The Titan Shovel.png>)
 
-### There is 1 type of Titan Shovel here is the price
+## Titan Shovel Price
 
 * The Red Titan Shovel 16 Jigsaws

@@ -24,7 +24,7 @@ Use the command `/daily-reward` to see how close you are to earning your keys!
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria.
 
 ***
 

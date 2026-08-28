@@ -1,12 +1,11 @@
 # 🏛️ The Hall of Patrons
 
-![](<../../.gitbook/assets/The Hall of Patrons.png>)
+![The Hall of Patrons](<../../.gitbook/assets/The Hall of Patrons.png>)
 
-Leave your mark on Theatria in The Hall of Patrons by getting Tribute Blocks, there are too ways for getting Tribute Blocks.
+Leave your mark on Theatria in the Hall of Patrons by purchasing Tribute Blocks for 500,000 Denarii each.
 
-1. You can get Tribute Blocks for 500,000 Denarii each by opening a Staff Support Ticket on our [Discord](https://discord.gg/jYS5rR2HxP).
-2. Buying a monthly support rank of Supporter or above you can get them from [Theatria's Feature Shop](https://theatrian-market.tebex.io/).
+To purchase a Tribute Block, [open a staff support ticket](https://discord.gg/hFJWRDKyNz).
 
 ***
 
-[Events & Challenges](./)
+[Gameplay Features](../gameplay-features/)

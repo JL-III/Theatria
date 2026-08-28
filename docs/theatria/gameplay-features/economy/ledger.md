@@ -32,7 +32,7 @@ Due to limitations in current economy plugins, transaction causes are simplified
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria.
 
 ***
 

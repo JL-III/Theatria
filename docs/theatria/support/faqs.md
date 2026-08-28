@@ -8,7 +8,7 @@ No mods are required to play on Theatria. However, our custom resource pack is m
 
 ### Can I claim land to protect my builds?
 
-Yes! Theatria has a robust [land-claim system](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/land-claiming.md) that allows you to protect your builds from griefing. Additionally, you can use our [chest locks](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/chest-locks.md) feature to secure your chests and containers.
+Yes! Theatria has a robust [land-claim system](../gameplay-features/land-claiming.md) that allows you to protect your builds from griefing. Additionally, you can use our [chest locks](../gameplay-features/chest-locks.md) feature to secure your chests and containers.
 
 ***
 
@@ -16,15 +16,15 @@ Yes! Theatria has a robust [land-claim system](https://github.com/JL-III/Theatri
 
 ### What are the server rules?
 
-Our rules are designed to foster a fun, inclusive, and respectful environment for all players. Please take a moment to review the full list of [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md).
+Our rules are designed to foster a fun, inclusive, and respectful environment for all players. Please take a moment to review the full list of [Rules & Policies](../rules-policies/).
 
 ### Why do some players glow?
 
-The glowing effect indicates that the player has activated Night Vision. This feature is unlocked at [Champion rank](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/ranks/mythic-tier/02-champion.md) and allows players to toggle the `/nv` command. Night Vision provides a glowing aura and improved visibility in dark areas.
+The glowing effect indicates that the player has activated Night Vision. This feature is unlocked at [Champion rank](../gameplay-features/ranks/mythic-tier/02-champion.md) and allows players to toggle the `/nv` command. Night Vision provides a glowing aura and improved visibility in dark areas.
 
-### How do I fly?
+### How do I unlock Fly?
 
-Flying is a special perk unlocked at the Contributor+ [supporter rank](../gameplay-features/feature-shop.md) or higher. Once unlocked, you can toggle flight using the `/fly` command.
+Run `/shop` and purchase **Ark Claim Flight** for 250,000 Denarii. Access lasts 30 days and allows `/fly` inside your own claims in The Ark; it does not apply outside your claims. See the [Denarii Feature Shop guide](../gameplay-features/feature-shop.md) for details.
 
 ### What are the numbers I see above some mobs in the Mining world?
 
@@ -40,7 +40,7 @@ Never fear! Use one of your saved [Homes](../getting-around/homes.md), a [Warp](
 
 ### What versions of Minecraft are supported?
 
-Theatria is currently running on **Minecraft 1.21.1**. While players on other versions may be able to connect, we only provide support for the current version.
+Theatria is currently running on **Minecraft 26.1.2**. Java Edition 26.1.2 is the recommended and supported client version.
 
 ### I’m experiencing lag. What can I do?
 
@@ -51,16 +51,16 @@ Lag can occur for various reasons. Here are a few steps you can take to improve 
 * Use performance-enhancing tools like OptiFine or Sodium.
 * Lower your video settings (e.g., render distance, graphics quality).
 
-If the issue persists, reach out for assistance in our [Discord server](https://discord.gg/SHgauw8eN8).
+If the issue persists, reach out for assistance in our [Discord server](https://discord.gg/jYS5rR2HxP).
 
 ### Can I play on Theatria using a Bedrock/Console version of Minecraft?
 
-Currently, Theatria supports only the Java Edition of Minecraft. Bedrock and Console players are not able to join.
+Bedrock clients can technically connect, but the process is more complicated than using Java Edition and is not recommended or guaranteed. Bedrock updates can temporarily make the connection incompatible. See [Connecting with Bedrock](connecting-with-bedrock.md) for the current address, port, and account-linking requirements.
 
 ***
 
 ## Additional Resources
 
-* [Getting Started](https://github.com/JL-III/Theatria/blob/master/docs/support/getting-started.md)
+* [Getting Started](getting-started.md)
 * [Theatria Staff](staff/)
-* [Rules & Policies](https://github.com/JL-III/Theatria/blob/master/docs/rules-policies/README.md)
+* [Rules & Policies](../rules-policies/)

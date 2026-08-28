@@ -1,5 +1,5 @@
 ---
-description: Th Theatria!
+description: Learn how Denarii, selling, payments, and player trading work in Theatria.
 ---
 
 # 💰 Economy
@@ -14,11 +14,11 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 
 ### Viewing Denarii with Commands
 
-![](<../../../.gitbook/assets/Capture (4).PNG>)
+![Player balance displayed in the action bar](<../../../.gitbook/assets/Capture (4).PNG>)
 
 ### Viewing Denarii in the Tab Display
 
-![](<../../../.gitbook/assets/Capture (9).PNG>)
+![Theatria scoreboard showing location, balance, and playtime](<../../../.gitbook/assets/Capture (9).PNG>)
 
 ## Commands Overview
 
@@ -26,6 +26,7 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 * `/worth` - Displays the value of the item you are holding.
 * `/balance` or `/bal` - Shows your current Denarii balance.
 * `/pay <player>` - Transfers Denarii from your balance to another player.
+* `/shop` - Opens the [Denarii Feature Shop](../feature-shop.md), where gameplay features can be unlocked with Denarii.
 
 ### Important Notes
 
@@ -33,8 +34,8 @@ The currency of Theatria is **Denarii**. To check your balance, use any of the f
 
 ***
 
-🤑 🤑 🤑 Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria! 🤑 🤑 🤑
+Discover [ways to make Denarii](ways-to-make-denarii.md) in Theatria.
 
 ***
 
-[Gameplay Features](./)
+[Gameplay Features](../)

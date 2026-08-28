@@ -1,3 +1,3 @@
 # Ethereal Pants
 
-![](<../../../.gitbook/assets/image (9).png>)
+![Ethereal Leggings](<../../../.gitbook/assets/image (9).png>)

@@ -37,14 +37,13 @@ Replace `<name>` with the name of the home you want to visit.
 ## Important Notes
 
 * **Only you can use your homes.** Other players cannot access your teleport points.
-* **Setting a home does not claim or protect land.** It only creates a teleport point. To secure your builds, read about [land claiming](https://github.com/JL-III/Theatria/blob/master/docs/getting-around/link-to-land-claiming-page/README.md).
+* **Setting a home does not claim or protect land.** It only creates a teleport point. To secure your builds, read about [land claiming](../gameplay-features/land-claiming.md).
 
 ***
 
 ### Related articles
 
 * [Getting Around](./)
-* [Homes](homes.md)
 * [Warps](warps.md)
 * [/tpa command](tpa.md)
 * [Gameplay Features](../gameplay-features/)

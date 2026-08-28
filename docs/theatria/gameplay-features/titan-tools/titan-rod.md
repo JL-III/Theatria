@@ -1,7 +1,7 @@
 # Titan Rod
 
-![](<../../../.gitbook/assets/The Titan Rod.png>)
+![Titan Rod](<../../../.gitbook/assets/The Titan Rod.png>)
 
-### There is 1 type of Titan Rod here is the price
+## Titan Rod Price
 
 * The Red Titan Rod 16 Jigsaws

@@ -1,8 +1,8 @@
 # Titan Axe
 
-![](<../../../.gitbook/assets/The Titan Axe.png>)
+![Titan Axe](<../../../.gitbook/assets/The Titan Axe.png>)
 
-### There are 3 types of Titan Axe here are the prices
+## Titan Axe Prices
 
 * The Red Titan Axe 8 Jigsaws
 * The Yellow Titan Axe 16 Jigsaws

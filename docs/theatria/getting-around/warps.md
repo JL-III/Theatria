@@ -14,7 +14,7 @@ This will display all the warps currently accessible to you. To teleport to a sp
 
 ## Warp Costs
 
-Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp open a staff ticket on discord and apply [here](https://discord.gg/j2h8f8XbY).
+Using a warp is free. Creating a warp costs 50,000 Denarii. To request one, [open a staff support ticket](https://discord.gg/hFJWRDKyNz).
 
 ***
 
@@ -22,5 +22,4 @@ Using a warp is free. Creating a warp costs $50,000 Denarii to create a warp ope
 
 * [Getting Around](./)
 * [Homes](homes.md)
-* [Map](map.md)
 * [/tpa command](tpa.md)

@@ -1,4 +1,4 @@
-# 🚶‍♂️➡️🚶‍♀️ /tpa Command
+# Player Teleport Requests (/tpa)
 
 The `/tpa` command and related commands make it easy to move around Theatria when you're playing with friends or meet someone new in chat. These commands are a great way to connect and explore together.
 
@@ -74,5 +74,4 @@ Requests will time out after a short period if the other player doesn’t respon
 
 * [Getting Around](./)
 * [Homes](homes.md)
-* [Map](map.md)
 * [Warps](warps.md)

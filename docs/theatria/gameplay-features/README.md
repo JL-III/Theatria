@@ -13,8 +13,9 @@ Theatria has a unique collection of systems and mechanics that help shape our co
 * [**Spawners**](spawners.md)**:** Get and use spawners.
 * [**Titan Tools**](titan-tools/)**:** Powerful tools purchased with [Nether Stars](economy/nether-stars.md).
 * [**Ethereal Items**](ethereal-items/)**:** Epic items purchased with [Ethereal Fragments](ethereal-items/ethereal-fragments.md).
-* [**Feature Shop**](feature-shop.md)**:** Support Theatria and get helpful boosts.
-* [**mcMMO**](mcmmo.md)**:** Skill leveling, special abilities, and rare loot!
+* [**Denarii Feature Shop**](feature-shop.md): Unlock gameplay features with Denarii through `/shop`.
+* [**The Hall of Patrons**](../events-challenges/the-hall-of-patrons.md): Leave a permanent tribute using Denarii.
+* [**Meteorites**](../events-challenges/meteorites.md): Find timed meteorite events in the Mining World.
 * [**Custom Mob Rules**](mob-rules.md)**:** Where have all the Phantoms gone?
 * [**Mob Stacking**](mob-stacking.md)**:** Mobs stack in the Mining world.
 * [**Kits**](kits.md)**:** Special packages of items delivered to your inventory.

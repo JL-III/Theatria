@@ -33,15 +33,8 @@ Theatria features multiple worlds, each with unique experiences. Use these comma
 
 For those who love a traditional adventure, you can always explore Theatria on foot. Discover new biomes, structures, and secrets as you run through the world.
 
-## Flying Privileges
-
-Supporters at the **Contributor** tier and higher gain the ability to fly in specific worlds:
-
-* **`/fly`**: Enables flight in **The Ark** and/or **Mining World** _depending on supporter tier_, making exploration and resource gathering more convenient.
-
 ## Tips for Getting Around
 
-* Explore our [map](map.md) in your web browser to find biomes, claims, and active players.
 * Use `/spawn` if you're lost or need a central point to regroup.
 * Set homes at frequently visited locations to save time.
 * Check `/warps` regularly for new community spots.
@@ -49,7 +42,7 @@ Supporters at the **Contributor** tier and higher gain the ability to fly in spe
   * `/tpa [username]`: Requests to teleport to another player.
   * `/tpahere [username]`: Requests another player teleport to you.
   * `/tpaccept`: Accepts teleport requests.
-* At [Champion](../gameplay-features/ranks/mythic-tier/02-champion.md) rank, unlock the `/back` command to instantly teleport back to your previous location.
+* At [Hero](../gameplay-features/ranks/mythic-tier/01-hero.md) rank, unlock the `/back` command to instantly teleport back to your previous location.
 
 With these tools, you'll find navigating Theatria a breeze. Happy exploring!
 
@@ -58,6 +51,5 @@ With these tools, you'll find navigating Theatria a breeze. Happy exploring!
 ### Related Articles
 
 * [Homes](homes.md)
-* [Map](map.md)
 * [/tpa command](tpa.md)
 * [Warps](warps.md)

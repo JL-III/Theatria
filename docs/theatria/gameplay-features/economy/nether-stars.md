@@ -16,4 +16,4 @@ At **/warp titan**, you can trade 64 Nether Stars for **1 Jigsaw**. Use **Jigsaw
 
 ***
 
-[Gameplay Features](./)
+[Gameplay Features](../)

@@ -1,8 +1,8 @@
 # Titan Sword
 
-![](<../../../.gitbook/assets/The Titan Sword.png>)
+![Titan Sword](<../../../.gitbook/assets/The Titan Sword.png>)
 
-### There are 3 types of Titan Sword here are the prices
+## Titan Sword Prices
 
 * The Red Titan Sword 8 Jigsaws
 * The Yellow Titan Sword 16 Jigsaws

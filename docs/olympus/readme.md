@@ -1,6 +1,4 @@
-# README
-
-## Olympus
+# Olympus Overview
 
 {% hint style="danger" %}
 **We are not currently accepting applications.**
@@ -14,7 +12,7 @@ Olympus is not a quest pack, not a seasonal reset server, not pay-to-win, and no
 
 It is a survival world where players create the story through what they build, automate, explore, trade, and preserve.
 
-### What Olympus Is
+## What Olympus Is
 
 Olympus expands Minecraft while keeping the core survival experience recognizable.
 
@@ -22,7 +20,7 @@ The server adds new dimensions, expanded terrain, Create-powered engineering, pl
 
 The goal is not to overwhelm players with every possible modded feature. The goal is to create a focused modded survival world with enough depth to support years of play.
 
-### The Core Idea
+## The Core Idea
 
 Theatria began from a simple idea:
 
@@ -32,7 +30,7 @@ Olympus carries that idea into modded Minecraft. Players should be able to build
 
 The server is designed around permanence, restraint, and discovery.
 
-### Who Olympus Is For
+## Who Olympus Is For
 
 Olympus is for players who want:
 
@@ -55,7 +53,7 @@ Olympus may not be for players who want:
 * A short-term seasonal server
 * A fully guided experience
 
-### The Relationship Between Theatria and Olympus
+## The Relationship Between Theatria and Olympus
 
 Theatria is the main permanent survival home of the community.
 
@@ -63,7 +61,7 @@ Olympus is the modded branch.
 
 Olympus exists for players who want a deeper modded survival experience while preserving the same underlying values: permanence, creativity, fairness, and player-driven history.
 
-### Final Note
+## Final Note
 
 Olympus is not meant to be consumed quickly.
 

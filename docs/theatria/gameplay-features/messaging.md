@@ -10,10 +10,6 @@ Theatria provides a few ways to communicate with other players.
 
 * By default you'll chat in this channel, which broadcasts to all online players. If you ever leave the Global channel, you can return by typing `/ch join Global`.
 
-## Local chat
-
-* You can switch to the Local channel with `/ch join Local`. This broadcasts to the players in your immediate vicinity. Also try turning on our [Buddy Bonus](https://github.com/JL-III/Theatria/blob/master/docs/gameplay-features/economy/buddy-bonus.md) feature for extra Denarii while you're near others.
-
 ## Private chat
 
 `/msg <PlayerName>`: begin a private message session with an online player. End the session by typing `/msg` `/msg <PlayerName> <your message here>`: send a single message to an online player. `/r <your message here>`: send a reply to the most recent private message you received.
