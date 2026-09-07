@@ -10,7 +10,7 @@ To view the list of available warps, use the command:
 /warps
 ```
 
-This will display all the warps currently accessible to you. To teleport to a specific warp, simply select it from the menu.
+This will display all the warps currently accessible to you.
 
 ## Warp Costs
 
